@@ -1,0 +1,26 @@
+﻿生成启动时间为 2013/9/16 17:09:46。
+     1>项目“C:\Users\cnsuhao\Desktop\057726ActiveX控件多媒体播放器\ActiveX控件多媒体播放器\MediaPlayer.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“.\Debug\MediaPlayer.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _VC80_UPGRADE=0x0600 /D _MBCS /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /Gy- /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp".\Debug\MediaPlayer.pch" /Fo".\Debug\\" /Fd".\Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt StdAfx.cpp
+         StdAfx.cpp
+         _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+         D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _VC80_UPGRADE=0x0600 /D _MBCS /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /Gy- /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp".\Debug\MediaPlayer.pch" /Fo".\Debug\\" /Fd".\Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt activemovie3.cpp MediaPlayer.cpp MediaPlayerDlg.cpp RoundButton.cpp
+         RoundButton.cpp
+     1>c:\users\cnsuhao\desktop\057726activex控件多媒体播放器\activex控件多媒体播放器\roundbutton.cpp(138): error C2668: “atan2”: 对重载函数的调用不明确
+                 d:\program files (x86)\microsoft visual studio 10.0\vc\include\math.h(555): 可能是“long double atan2(long double,long double)”
+                 d:\program files (x86)\microsoft visual studio 10.0\vc\include\math.h(507): 或       “float atan2(float,float)”
+                 d:\program files (x86)\microsoft visual studio 10.0\vc\include\math.h(109): 或       “double atan2(double,double)”
+                 尝试匹配参数列表“(LONG, LONG)”时
+         MediaPlayerDlg.cpp
+         MediaPlayer.cpp
+     1>c:\users\cnsuhao\desktop\057726activex控件多媒体播放器\activex控件多媒体播放器\mediaplayer.cpp(52): warning C4996: 'CWinApp::Enable3dControls': CWinApp::Enable3dControls is no longer needed. You should remove this call.
+                 d:\program files (x86)\microsoft visual studio 10.0\vc\atlmfc\include\afxwin.h(5380) : 参见“CWinApp::Enable3dControls”的声明
+         activemovie3.cpp
+         正在生成代码...
+     1>已完成生成项目“C:\Users\cnsuhao\Desktop\057726ActiveX控件多媒体播放器\ActiveX控件多媒体播放器\MediaPlayer.vcxproj”(build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:05.32

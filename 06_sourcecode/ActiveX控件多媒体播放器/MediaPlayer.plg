@@ -1,0 +1,54 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: MediaPlayer - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating command line "rc.exe /l 0x804 /fo"Debug/MediaPlayer.res" /d "_DEBUG" /d "_AFXDLL" "C:\Documents and Settings\Whuahua\桌面\S5\S5-2\MediaPlayer.rc"" 
+Creating temporary file "C:\DOCUME~1\Whuahua\LOCALS~1\Temp\RSP42A.tmp" with contents
+[
+/nologo /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /Fp"Debug/MediaPlayer.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"C:\Documents and Settings\Whuahua\桌面\S5\S5-2\activemovie3.cpp"
+"C:\Documents and Settings\Whuahua\桌面\S5\S5-2\MediaPlayer.cpp"
+"C:\Documents and Settings\Whuahua\桌面\S5\S5-2\MediaPlayerDlg.cpp"
+"C:\Documents and Settings\Whuahua\桌面\S5\S5-2\RoundButton.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\Whuahua\LOCALS~1\Temp\RSP42A.tmp" 
+Creating temporary file "C:\DOCUME~1\Whuahua\LOCALS~1\Temp\RSP42B.tmp" with contents
+[
+/nologo /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /Fp"Debug/MediaPlayer.pch" /Yc"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"C:\Documents and Settings\Whuahua\桌面\S5\S5-2\StdAfx.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\Whuahua\LOCALS~1\Temp\RSP42B.tmp" 
+Creating temporary file "C:\DOCUME~1\Whuahua\LOCALS~1\Temp\RSP42C.tmp" with contents
+[
+/nologo /subsystem:windows /incremental:yes /pdb:"Debug/MediaPlayer.pdb" /debug /machine:I386 /out:"Debug/MediaPlayer.exe" /pdbtype:sept 
+".\Debug\activemovie3.obj"
+".\Debug\MediaPlayer.obj"
+".\Debug\MediaPlayerDlg.obj"
+".\Debug\RoundButton.obj"
+".\Debug\StdAfx.obj"
+".\Debug\MediaPlayer.res"
+]
+Creating command line "link.exe @C:\DOCUME~1\Whuahua\LOCALS~1\Temp\RSP42C.tmp"
+<h3>Output Window</h3>
+Compiling resources...
+Compiling...
+StdAfx.cpp
+Compiling...
+activemovie3.cpp
+MediaPlayer.cpp
+MediaPlayerDlg.cpp
+RoundButton.cpp
+Generating Code...
+Linking...
+
+
+
+<h3>Results</h3>
+MediaPlayer.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
