@@ -103,3 +103,6 @@
 [submodule "01_open/06_function/09_game/browser_based/Arcade/redbluegames/game-off-2013"]
 	path = 01_open/06_function/09_game/browser_based/Arcade/redbluegames/game-off-2013
 	url = https://github.com/redbluegames/game-off-2013.git
+[submodule "06_sourcecode/d3shooter"]
+	path = 06_sourcecode/d3shooter
+	url = https://github.com/nsmirn0v/d3shooter.git
