@@ -1,0 +1,84 @@
+[submodule "06_sourcecode/cjkvi-dict"]
+	path = 06_sourcecode/cjkvi-dict
+	url = https://github.com/shuowen/cjkvi-dict.git
+[submodule "06_sourcecode/gperftools"]
+	path = 06_sourcecode/gperftools
+	url = https://github.com/gperftools/gperftools.git
+[submodule "06_sourcecode/crashrpt"]
+	path = 06_sourcecode/crashrpt
+	url = https://github.com/svn2github/crashrpt.git
+[submodule "06_sourcecode/crosswalk"]
+	path = 06_sourcecode/crosswalk
+	url = https://github.com/crosswalk-project/crosswalk.git
+[submodule "06_sourcecode/omaha-server"]
+	path = 06_sourcecode/omaha-server
+	url = https://github.com/Crystalnix/omaha-server.git
+[submodule "01_open/05_organization/google/omaha"]
+	path = 01_open/05_organization/google/omaha
+	url = https://github.com/google/omaha.git
+[submodule "06_sourcecode/GdiChecker"]
+	path = 06_sourcecode/GdiChecker
+	url = https://github.com/gclxry/GdiChecker.git
+[submodule "06_sourcecode/PDBExp"]
+	path = 06_sourcecode/PDBExp
+	url = https://github.com/titilima/PDBExp.git
+[submodule "06_sourcecode/Detours"]
+	path = 06_sourcecode/Detours
+	url = https://github.com/RelicOfTesla/Detours.git
+[submodule "01_open/05_organization/google/rekall"]
+	path = 01_open/05_organization/google/rekall
+	url = https://github.com/google/rekall.git
+[submodule "01_open/06_function/09_game/browser_based/engine/photon"]
+	path = 01_open/06_function/09_game/browser_based/engine/photon
+	url = https://github.com/juliangarnier/photon.git
+[submodule "01_open/06_function/09_game/browser_based/boardgame/3D-Hartwig-chess-set"]
+	path = 01_open/06_function/09_game/browser_based/boardgame/3D-Hartwig-chess-set
+	url = https://github.com/juliangarnier/3D-Hartwig-chess-set.git
+[submodule "01_open/05_organization/microsoft/coreclr"]
+	path = 01_open/05_organization/microsoft/coreclr
+	url = https://github.com/dotnet/coreclr.git
+[submodule "01_open/06_function/09_game/browser_based/boardgame/kriegspiel"]
+	path = 01_open/06_function/09_game/browser_based/boardgame/kriegspiel
+	url = https://github.com/binarymax/kriegspiel.git
+[submodule "01_open/06_function/09_game/browser_based/boardgame/green-mahjong"]
+	path = 01_open/06_function/09_game/browser_based/boardgame/green-mahjong
+	url = https://github.com/danbeck/green-mahjong.git
+[submodule "01_open/06_function/09_game/browser_based/Arcade/game-off-2012"]
+	path = 01_open/06_function/09_game/browser_based/Arcade/game-off-2012
+	url = https://github.com/Dave-and-Mike/game-off-2012.git
+[submodule "01_open/06_function/09_game/browser_based/Arcade/alienInvasion"]
+	path = 01_open/06_function/09_game/browser_based/Arcade/alienInvasion
+	url = https://github.com/cykod/AlienInvasion.git
+[submodule "01_open/06_function/09_game/browser_based/Arcade/arashi-js"]
+	path = 01_open/06_function/09_game/browser_based/Arcade/arashi-js
+	url = https://github.com/stephank/arashi-js.git
+[submodule "01_open/06_function/09_game/browser_based/boardgame/lila"]
+	path = 01_open/06_function/09_game/browser_based/boardgame/lila
+	url = https://github.com/ornicar/lila.git
+[submodule "01_open/06_function/09_game/browser_based/Arcade/HTML5-Asteroids"]
+	path = 01_open/06_function/09_game/browser_based/Arcade/HTML5-Asteroids
+	url = https://github.com/dmcinnes/HTML5-Asteroids.git
+[submodule "01_open/06_function/09_game/browser_based/boardgame/FTJ"]
+	path = 01_open/06_function/09_game/browser_based/boardgame/FTJ
+	url = https://github.com/David20321/FTJ.git
+[submodule "01_open/06_function/09_game/browser_based/Arcade/avabranch"]
+	path = 01_open/06_function/09_game/browser_based/Arcade/avabranch
+	url = https://github.com/Zolmeister/avabranch.git
+[submodule "01_open/06_function/09_game/browser_based/Arcade/ball-and-wall"]
+	path = 01_open/06_function/09_game/browser_based/Arcade/ball-and-wall
+	url = https://github.com/budnix/ball-and-wall.git
+[submodule "01_open/06_function/09_game/browser_based/Arcade/breakout"]
+	path = 01_open/06_function/09_game/browser_based/Arcade/breakout
+	url = https://github.com/Couchfriends/breakout.git
+[submodule "01_open/05_organization/wine/wine"]
+	path = 01_open/05_organization/wine/wine
+	url = https://github.com/wine-mirror/wine.git
+[submodule "01_open/06_function/09_game/browser_based/boardgame/c4"]
+	path = 01_open/06_function/09_game/browser_based/boardgame/c4
+	url = https://github.com/kenrick95/c4.git
+[submodule "01_open/06_function/09_game/browser_based/Arcade/cellmates"]
+	path = 01_open/06_function/09_game/browser_based/Arcade/cellmates
+	url = https://github.com/gamebytes/cellmates.git
+[submodule "01_open/06_function/09_game/browser_based/Arcade/Captain-Rogers"]
+	path = 01_open/06_function/09_game/browser_based/Arcade/Captain-Rogers
+	url = https://github.com/EnclaveGames/Captain-Rogers.git
