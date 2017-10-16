@@ -82,3 +82,24 @@
 [submodule "01_open/06_function/09_game/browser_based/Arcade/Captain-Rogers"]
 	path = 01_open/06_function/09_game/browser_based/Arcade/Captain-Rogers
 	url = https://github.com/EnclaveGames/Captain-Rogers.git
+[submodule "01_open/06_function/09_game/browser_based/Arcade/ceros-snake"]
+	path = 01_open/06_function/09_game/browser_based/Arcade/ceros-snake
+	url = https://github.com/mjhasbach/ceros-snake.git
+[submodule "01_open/06_function/09_game/browser_based/Arcade/change"]
+	path = 01_open/06_function/09_game/browser_based/Arcade/change
+	url = https://github.com/RothschildGames/change.git
+[submodule "01_open/06_function/09_game/browser_based/Arcade/circushtml5"]
+	path = 01_open/06_function/09_game/browser_based/Arcade/circushtml5
+	url = https://github.com/Gamegur-us/circushtml5.git
+[submodule "01_open/06_function/09_game/browser_based/Arcade/game-off-2013"]
+	path = 01_open/06_function/09_game/browser_based/Arcade/game-off-2013
+	url = https://github.com/Murkantilism/game-off-2013.git
+[submodule "01_open/06_function/09_game/browser_based/Arcade/jolly-jumper"]
+	path = 01_open/06_function/09_game/browser_based/Arcade/jolly-jumper
+	url = https://github.com/shohan4556/jolly-jumper.git
+[submodule "01_open/06_function/09_game/browser_based/Arcade/clumsy-bird"]
+	path = 01_open/06_function/09_game/browser_based/Arcade/clumsy-bird
+	url = https://github.com/ellisonleao/clumsy-bird.git
+[submodule "01_open/06_function/09_game/browser_based/Arcade/redbluegames/game-off-2013"]
+	path = 01_open/06_function/09_game/browser_based/Arcade/redbluegames/game-off-2013
+	url = https://github.com/redbluegames/game-off-2013.git
