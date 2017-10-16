@@ -29,407 +29,407 @@
 	path = 01_open/05_organization/google/rekall
 	url = https://github.com/google/rekall.git
 [submodule "01_open/06_function/09_game/browser_based/engine/photon"]
-	path = 01_open/06_function/09_game/browser_based/engine/photon
+	path = 01_open/06_function/09_game/01_browser_based/engine/photon
 	url = https://github.com/juliangarnier/photon.git
 [submodule "01_open/06_function/09_game/browser_based/boardgame/3D-Hartwig-chess-set"]
-	path = 01_open/06_function/09_game/browser_based/boardgame/3D-Hartwig-chess-set
+	path = 01_open/06_function/09_game/01_browser_based/boardgame/3D-Hartwig-chess-set
 	url = https://github.com/juliangarnier/3D-Hartwig-chess-set.git
 [submodule "01_open/05_organization/microsoft/coreclr"]
 	path = 01_open/05_organization/microsoft/coreclr
 	url = https://github.com/dotnet/coreclr.git
 [submodule "01_open/06_function/09_game/browser_based/boardgame/kriegspiel"]
-	path = 01_open/06_function/09_game/browser_based/boardgame/kriegspiel
+	path = 01_open/06_function/09_game/01_browser_based/boardgame/kriegspiel
 	url = https://github.com/binarymax/kriegspiel.git
 [submodule "01_open/06_function/09_game/browser_based/boardgame/green-mahjong"]
-	path = 01_open/06_function/09_game/browser_based/boardgame/green-mahjong
+	path = 01_open/06_function/09_game/01_browser_based/boardgame/green-mahjong
 	url = https://github.com/danbeck/green-mahjong.git
 [submodule "01_open/06_function/09_game/browser_based/Arcade/game-off-2012"]
-	path = 01_open/06_function/09_game/browser_based/Arcade/game-off-2012
+	path = 01_open/06_function/09_game/01_browser_based/Arcade/game-off-2012
 	url = https://github.com/Dave-and-Mike/game-off-2012.git
 [submodule "01_open/06_function/09_game/browser_based/Arcade/alienInvasion"]
-	path = 01_open/06_function/09_game/browser_based/Arcade/alienInvasion
+	path = 01_open/06_function/09_game/01_browser_based/Arcade/alienInvasion
 	url = https://github.com/cykod/AlienInvasion.git
 [submodule "01_open/06_function/09_game/browser_based/Arcade/arashi-js"]
-	path = 01_open/06_function/09_game/browser_based/Arcade/arashi-js
+	path = 01_open/06_function/09_game/01_browser_based/Arcade/arashi-js
 	url = https://github.com/stephank/arashi-js.git
 [submodule "01_open/06_function/09_game/browser_based/boardgame/lila"]
-	path = 01_open/06_function/09_game/browser_based/boardgame/lila
+	path = 01_open/06_function/09_game/01_browser_based/boardgame/lila
 	url = https://github.com/ornicar/lila.git
 [submodule "01_open/06_function/09_game/browser_based/Arcade/HTML5-Asteroids"]
-	path = 01_open/06_function/09_game/browser_based/Arcade/HTML5-Asteroids
+	path = 01_open/06_function/09_game/01_browser_based/Arcade/HTML5-Asteroids
 	url = https://github.com/dmcinnes/HTML5-Asteroids.git
 [submodule "01_open/06_function/09_game/browser_based/boardgame/FTJ"]
-	path = 01_open/06_function/09_game/browser_based/boardgame/FTJ
+	path = 01_open/06_function/09_game/01_browser_based/boardgame/FTJ
 	url = https://github.com/David20321/FTJ.git
 [submodule "01_open/06_function/09_game/browser_based/Arcade/avabranch"]
-	path = 01_open/06_function/09_game/browser_based/Arcade/avabranch
+	path = 01_open/06_function/09_game/01_browser_based/Arcade/avabranch
 	url = https://github.com/Zolmeister/avabranch.git
 [submodule "01_open/06_function/09_game/browser_based/Arcade/ball-and-wall"]
-	path = 01_open/06_function/09_game/browser_based/Arcade/ball-and-wall
+	path = 01_open/06_function/09_game/01_browser_based/Arcade/ball-and-wall
 	url = https://github.com/budnix/ball-and-wall.git
 [submodule "01_open/06_function/09_game/browser_based/Arcade/breakout"]
-	path = 01_open/06_function/09_game/browser_based/Arcade/breakout
+	path = 01_open/06_function/09_game/01_browser_based/Arcade/breakout
 	url = https://github.com/Couchfriends/breakout.git
 [submodule "01_open/05_organization/wine/wine"]
 	path = 01_open/05_organization/wine/wine
 	url = https://github.com/wine-mirror/wine.git
 [submodule "01_open/06_function/09_game/browser_based/boardgame/c4"]
-	path = 01_open/06_function/09_game/browser_based/boardgame/c4
+	path = 01_open/06_function/09_game/01_browser_based/boardgame/c4
 	url = https://github.com/kenrick95/c4.git
 [submodule "01_open/06_function/09_game/browser_based/Arcade/cellmates"]
-	path = 01_open/06_function/09_game/browser_based/Arcade/cellmates
+	path = 01_open/06_function/09_game/01_browser_based/Arcade/cellmates
 	url = https://github.com/gamebytes/cellmates.git
 [submodule "01_open/06_function/09_game/browser_based/Arcade/Captain-Rogers"]
-	path = 01_open/06_function/09_game/browser_based/Arcade/Captain-Rogers
+	path = 01_open/06_function/09_game/01_browser_based/Arcade/Captain-Rogers
 	url = https://github.com/EnclaveGames/Captain-Rogers.git
 [submodule "01_open/06_function/09_game/browser_based/Arcade/ceros-snake"]
-	path = 01_open/06_function/09_game/browser_based/Arcade/ceros-snake
+	path = 01_open/06_function/09_game/01_browser_based/Arcade/ceros-snake
 	url = https://github.com/mjhasbach/ceros-snake.git
 [submodule "01_open/06_function/09_game/browser_based/Arcade/change"]
-	path = 01_open/06_function/09_game/browser_based/Arcade/change
+	path = 01_open/06_function/09_game/01_browser_based/Arcade/change
 	url = https://github.com/RothschildGames/change.git
 [submodule "01_open/06_function/09_game/browser_based/Arcade/circushtml5"]
-	path = 01_open/06_function/09_game/browser_based/Arcade/circushtml5
+	path = 01_open/06_function/09_game/01_browser_based/Arcade/circushtml5
 	url = https://github.com/Gamegur-us/circushtml5.git
 [submodule "01_open/06_function/09_game/browser_based/Arcade/game-off-2013"]
-	path = 01_open/06_function/09_game/browser_based/Arcade/game-off-2013
+	path = 01_open/06_function/09_game/01_browser_based/Arcade/game-off-2013
 	url = https://github.com/Murkantilism/game-off-2013.git
 [submodule "01_open/06_function/09_game/browser_based/Arcade/jolly-jumper"]
-	path = 01_open/06_function/09_game/browser_based/Arcade/jolly-jumper
+	path = 01_open/06_function/09_game/01_browser_based/Arcade/jolly-jumper
 	url = https://github.com/shohan4556/jolly-jumper.git
 [submodule "01_open/06_function/09_game/browser_based/Arcade/clumsy-bird"]
-	path = 01_open/06_function/09_game/browser_based/Arcade/clumsy-bird
+	path = 01_open/06_function/09_game/01_browser_based/Arcade/clumsy-bird
 	url = https://github.com/ellisonleao/clumsy-bird.git
 [submodule "01_open/06_function/09_game/browser_based/Arcade/redbluegames/game-off-2013"]
-	path = 01_open/06_function/09_game/browser_based/Arcade/redbluegames/game-off-2013
+	path = 01_open/06_function/09_game/01_browser_based/Arcade/redbluegames/game-off-2013
 	url = https://github.com/redbluegames/game-off-2013.git
 [submodule "06_sourcecode/d3shooter"]
 	path = 06_sourcecode/d3shooter
 	url = https://github.com/nsmirn0v/d3shooter.git
 [submodule "01_open/06_function/09_game/browser_based/Arcade/lutzroeder/Digger"]
-	path = 01_open/06_function/09_game/browser_based/Arcade/lutzroeder/Digger
+	path = 01_open/06_function/09_game/01_browser_based/Arcade/lutzroeder/Digger
 	url = https://github.com/lutzroeder/Digger.git
 [submodule "01_open/06_function/09_game/browser_based/Arcade/Coil"]
-	path = 01_open/06_function/09_game/browser_based/Arcade/Coil
+	path = 01_open/06_function/09_game/01_browser_based/Arcade/Coil
 	url = https://github.com/leereilly/Coil.git
 [submodule "01_open/06_function/09_game/browser_based/Arcade/vladikoff/game-off-2012"]
-	path = 01_open/06_function/09_game/browser_based/Arcade/vladikoff/game-off-2012
+	path = 01_open/06_function/09_game/01_browser_based/Arcade/vladikoff/game-off-2012
 	url = https://github.com/vladikoff/game-off-2012.git
 [submodule "01_open/06_function/09_game/browser_based/Arcade/varunpant/CrappyBird"]
-	path = 01_open/06_function/09_game/browser_based/Arcade/varunpant/CrappyBird
+	path = 01_open/06_function/09_game/01_browser_based/Arcade/varunpant/CrappyBird
 	url = https://github.com/varunpant/CrappyBird.git
 [submodule "01_open/06_function/09_game/browser_based/Arcade/ondras/custom-tetris"]
-	path = 01_open/06_function/09_game/browser_based/Arcade/ondras/custom-tetris
+	path = 01_open/06_function/09_game/01_browser_based/Arcade/ondras/custom-tetris
 	url = https://github.com/ondras/custom-tetris.git
 [submodule "01_open/06_function/09_game/browser_based/Arcade/codename-lumberjack"]
-	path = 01_open/06_function/09_game/browser_based/Arcade/codename-lumberjack
+	path = 01_open/06_function/09_game/01_browser_based/Arcade/codename-lumberjack
 	url = https://github.com/arkeus/codename-lumberjack.git
 [submodule "01_open/06_function/09_game/browser_based/Arcade/Casmo/Drakonas"]
-	path = 01_open/06_function/09_game/browser_based/Arcade/Casmo/Drakonas
+	path = 01_open/06_function/09_game/01_browser_based/Arcade/Casmo/Drakonas
 	url = https://github.com/Casmo/Drakonas.git
 [submodule "01_open/06_function/09_game/browser_based/Arcade/MattSurabian/DuckHunt-JS"]
-	path = 01_open/06_function/09_game/browser_based/Arcade/MattSurabian/DuckHunt-JS
+	path = 01_open/06_function/09_game/01_browser_based/Arcade/MattSurabian/DuckHunt-JS
 	url = https://github.com/MattSurabian/DuckHunt-JS.git
 [submodule "01_open/06_function/09_game/browser_based/Arcade/Myztiq/ekgrunner"]
-	path = 01_open/06_function/09_game/browser_based/Arcade/Myztiq/ekgrunner
+	path = 01_open/06_function/09_game/01_browser_based/Arcade/Myztiq/ekgrunner
 	url = https://github.com/Myztiq/ekgrunner.git
 [submodule "01_open/06_function/09_game/browser_based/Arcade/hyspace/flappy"]
-	path = 01_open/06_function/09_game/browser_based/Arcade/hyspace/flappy
+	path = 01_open/06_function/09_game/01_browser_based/Arcade/hyspace/flappy
 	url = https://github.com/hyspace/flappy.git
 [submodule "01_open/06_function/09_game/browser_based/Arcade/DreamShowAdventures/LudumDare29"]
-	path = 01_open/06_function/09_game/browser_based/Arcade/DreamShowAdventures/LudumDare29
+	path = 01_open/06_function/09_game/01_browser_based/Arcade/DreamShowAdventures/LudumDare29
 	url = https://github.com/DreamShowAdventures/LudumDare29.git
 [submodule "01_open/06_function/09_game/browser_based/Others/JordanMagnuson/The-Killer"]
-	path = 01_open/06_function/09_game/browser_based/Others/JordanMagnuson/The-Killer
+	path = 01_open/06_function/09_game/01_browser_based/Others/JordanMagnuson/The-Killer
 	url = https://github.com/JordanMagnuson/The-Killer.git
 [submodule "01_open/06_function/09_game/browser_based/Others/KrofDrakula/squirts"]
-	path = 01_open/06_function/09_game/browser_based/Others/KrofDrakula/squirts
+	path = 01_open/06_function/09_game/01_browser_based/Others/KrofDrakula/squirts
 	url = https://github.com/KrofDrakula/squirts.git
 [submodule "01_open/06_function/09_game/browser_based/Arcade/operasoftware/Emberwind"]
-	path = 01_open/06_function/09_game/browser_based/Arcade/operasoftware/Emberwind
+	path = 01_open/06_function/09_game/01_browser_based/Arcade/operasoftware/Emberwind
 	url = https://github.com/operasoftware/Emberwind.git
 [submodule "01_open/06_function/09_game/browser_based/Others/fernjager/game-off-2013"]
-	path = 01_open/06_function/09_game/browser_based/Others/fernjager/game-off-2013
+	path = 01_open/06_function/09_game/01_browser_based/Others/fernjager/game-off-2013
 	url = https://github.com/fernjager/game-off-2013.git
 [submodule "01_open/06_function/09_game/browser_based/Others/dreamtocode/Cyber-Pong"]
-	path = 01_open/06_function/09_game/browser_based/Others/dreamtocode/Cyber-Pong
+	path = 01_open/06_function/09_game/01_browser_based/Others/dreamtocode/Cyber-Pong
 	url = https://github.com/dreamtocode/Cyber-Pong.git
 [submodule "01_open/06_function/09_game/browser_based/Others/kenamick/game-off-2013"]
-	path = 01_open/06_function/09_game/browser_based/Others/kenamick/game-off-2013
+	path = 01_open/06_function/09_game/01_browser_based/Others/kenamick/game-off-2013
 	url = https://github.com/kenamick/game-off-2013.git
 [submodule "01_open/06_function/09_game/browser_based/Others/munificent/hauberk"]
-	path = 01_open/06_function/09_game/browser_based/Others/munificent/hauberk
+	path = 01_open/06_function/09_game/01_browser_based/Others/munificent/hauberk
 	url = https://github.com/munificent/hauberk.git
 [submodule "01_open/06_function/09_game/browser_based/Others/lpinca/binb"]
-	path = 01_open/06_function/09_game/browser_based/Others/lpinca/binb
+	path = 01_open/06_function/09_game/01_browser_based/Others/lpinca/binb
 	url = https://github.com/lpinca/binb.git
 [submodule "01_open/06_function/09_game/browser_based/Clicker/particle-clicker/particle-clicker"]
-	path = 01_open/06_function/09_game/browser_based/Clicker/particle-clicker/particle-clicker
+	path = 01_open/06_function/09_game/01_browser_based/Clicker/particle-clicker/particle-clicker
 	url = https://github.com/particle-clicker/particle-clicker.git
 [submodule "01_open/06_function/09_game/browser_based/Puzzle/Zolmeister/Zop"]
-	path = 01_open/06_function/09_game/browser_based/Puzzle/Zolmeister/Zop
+	path = 01_open/06_function/09_game/01_browser_based/Puzzle/Zolmeister/Zop
 	url = https://github.com/Zolmeister/Zop.git
 [submodule "01_open/06_function/09_game/browser_based/Puzzle/lulea/game-off-2012"]
-	path = 01_open/06_function/09_game/browser_based/Puzzle/lulea/game-off-2012
+	path = 01_open/06_function/09_game/01_browser_based/Puzzle/lulea/game-off-2012
 	url = https://github.com/lulea/game-off-2012.git
 [submodule "01_open/06_function/09_game/browser_based/Puzzle/gamedolphin/matching-pairs"]
-	path = 01_open/06_function/09_game/browser_based/Puzzle/gamedolphin/matching-pairs
+	path = 01_open/06_function/09_game/01_browser_based/Puzzle/gamedolphin/matching-pairs
 	url = https://github.com/gamedolphin/matching-pairs.git
 [submodule "01_open/06_function/09_game/browser_based/Puzzle/nmoroze/swap"]
-	path = 01_open/06_function/09_game/browser_based/Puzzle/nmoroze/swap
+	path = 01_open/06_function/09_game/01_browser_based/Puzzle/nmoroze/swap
 	url = https://github.com/nmoroze/swap.git
 [submodule "01_open/06_function/09_game/browser_based/Puzzle/jeroenverfallie/ggo13-transcube"]
-	path = 01_open/06_function/09_game/browser_based/Puzzle/jeroenverfallie/ggo13-transcube
+	path = 01_open/06_function/09_game/01_browser_based/Puzzle/jeroenverfallie/ggo13-transcube
 	url = https://github.com/jeroenverfallie/ggo13-transcube.git
 [submodule "01_open/06_function/09_game/browser_based/Puzzle/AlexNisnevich/untrusted"]
-	path = 01_open/06_function/09_game/browser_based/Puzzle/AlexNisnevich/untrusted
+	path = 01_open/06_function/09_game/01_browser_based/Puzzle/AlexNisnevich/untrusted
 	url = https://github.com/AlexNisnevich/untrusted.git
 [submodule "01_open/06_function/09_game/browser_based/Puzzle/gamedolphin/sliding_puzzle"]
-	path = 01_open/06_function/09_game/browser_based/Puzzle/gamedolphin/sliding_puzzle
+	path = 01_open/06_function/09_game/01_browser_based/Puzzle/gamedolphin/sliding_puzzle
 	url = https://github.com/gamedolphin/sliding_puzzle.git
 [submodule "01_open/06_function/09_game/browser_based/Puzzle/binarymax/shape"]
-	path = 01_open/06_function/09_game/browser_based/Puzzle/binarymax/shape
+	path = 01_open/06_function/09_game/01_browser_based/Puzzle/binarymax/shape
 	url = https://github.com/binarymax/shape.git
 [submodule "01_open/06_function/09_game/browser_based/Puzzle/dart-lang/sample-pop_pop_win"]
-	path = 01_open/06_function/09_game/browser_based/Puzzle/dart-lang/sample-pop_pop_win
+	path = 01_open/06_function/09_game/01_browser_based/Puzzle/dart-lang/sample-pop_pop_win
 	url = https://github.com/dart-lang/sample-pop_pop_win.git
 [submodule "01_open/06_function/09_game/browser_based/Puzzle/Zolmeister/pond"]
-	path = 01_open/06_function/09_game/browser_based/Puzzle/Zolmeister/pond
+	path = 01_open/06_function/09_game/01_browser_based/Puzzle/Zolmeister/pond
 	url = https://github.com/Zolmeister/pond.git
 [submodule "01_open/06_function/09_game/browser_based/Puzzle/abejfehr/parity"]
-	path = 01_open/06_function/09_game/browser_based/Puzzle/abejfehr/parity
+	path = 01_open/06_function/09_game/01_browser_based/Puzzle/abejfehr/parity
 	url = https://github.com/abejfehr/parity.git
 [submodule "01_open/06_function/09_game/browser_based/Puzzle/devnewton/nedetlesmaki"]
-	path = 01_open/06_function/09_game/browser_based/Puzzle/devnewton/nedetlesmaki
+	path = 01_open/06_function/09_game/01_browser_based/Puzzle/devnewton/nedetlesmaki
 	url = https://github.com/devnewton/nedetlesmaki.git
 [submodule "01_open/06_function/09_game/browser_based/Puzzle/bni/orbium"]
-	path = 01_open/06_function/09_game/browser_based/Puzzle/bni/orbium
+	path = 01_open/06_function/09_game/01_browser_based/Puzzle/bni/orbium
 	url = https://github.com/bni/orbium.git
 [submodule "01_open/06_function/09_game/browser_based/Puzzle/antila/ludum-dare-28"]
-	path = 01_open/06_function/09_game/browser_based/Puzzle/antila/ludum-dare-28
+	path = 01_open/06_function/09_game/01_browser_based/Puzzle/antila/ludum-dare-28
 	url = https://github.com/antila/ludum-dare-28.git
 [submodule "01_open/06_function/09_game/browser_based/Puzzle/demonixis/Maze3D"]
-	path = 01_open/06_function/09_game/browser_based/Puzzle/demonixis/Maze3D
+	path = 01_open/06_function/09_game/01_browser_based/Puzzle/demonixis/Maze3D
 	url = https://github.com/demonixis/Maze3D.git
 [submodule "01_open/06_function/09_game/browser_based/Puzzle/gamedolphin/Lost-Beneath-The-Surface"]
-	path = 01_open/06_function/09_game/browser_based/Puzzle/gamedolphin/Lost-Beneath-The-Surface
+	path = 01_open/06_function/09_game/01_browser_based/Puzzle/gamedolphin/Lost-Beneath-The-Surface
 	url = https://github.com/gamedolphin/Lost-Beneath-The-Surface.git
 [submodule "01_open/06_function/09_game/browser_based/Puzzle/satanas/infectors"]
-	path = 01_open/06_function/09_game/browser_based/Puzzle/satanas/infectors
+	path = 01_open/06_function/09_game/01_browser_based/Puzzle/satanas/infectors
 	url = https://github.com/satanas/infectors.git
 [submodule "01_open/06_function/09_game/browser_based/Puzzle/Hextris/hextris"]
-	path = 01_open/06_function/09_game/browser_based/Puzzle/Hextris/hextris
+	path = 01_open/06_function/09_game/01_browser_based/Puzzle/Hextris/hextris
 	url = https://github.com/Hextris/hextris.git
 [submodule "01_open/06_function/09_game/browser_based/Puzzle/DancingBanana/genetic-drift"]
-	path = 01_open/06_function/09_game/browser_based/Puzzle/DancingBanana/genetic-drift
+	path = 01_open/06_function/09_game/01_browser_based/Puzzle/DancingBanana/genetic-drift
 	url = https://github.com/DancingBanana/genetic-drift.git
 [submodule "01_open/06_function/09_game/browser_based/Puzzle/AD1337/ForKingGame"]
-	path = 01_open/06_function/09_game/browser_based/Puzzle/AD1337/ForKingGame
+	path = 01_open/06_function/09_game/01_browser_based/Puzzle/AD1337/ForKingGame
 	url = https://github.com/AD1337/ForKingGame.git
 [submodule "01_open/06_function/09_game/browser_based/Puzzle/gamedolphin/follow_me_javascript_simon_clone"]
-	path = 01_open/06_function/09_game/browser_based/Puzzle/gamedolphin/follow_me_javascript_simon_clone
+	path = 01_open/06_function/09_game/01_browser_based/Puzzle/gamedolphin/follow_me_javascript_simon_clone
 	url = https://github.com/gamedolphin/follow_me_javascript_simon_clone.git
 [submodule "01_open/06_function/09_game/browser_based/Puzzle/st33d/Ending"]
-	path = 01_open/06_function/09_game/browser_based/Puzzle/st33d/Ending
+	path = 01_open/06_function/09_game/01_browser_based/Puzzle/st33d/Ending
 	url = https://github.com/st33d/Ending.git
 [submodule "01_open/06_function/09_game/browser_based/Puzzle/cxong/DrunkenViking"]
-	path = 01_open/06_function/09_game/browser_based/Puzzle/cxong/DrunkenViking
+	path = 01_open/06_function/09_game/01_browser_based/Puzzle/cxong/DrunkenViking
 	url = https://github.com/cxong/DrunkenViking.git
 [submodule "01_open/06_function/09_game/browser_based/Puzzle/sharkdp/cube-composer"]
-	path = 01_open/06_function/09_game/browser_based/Puzzle/sharkdp/cube-composer
+	path = 01_open/06_function/09_game/01_browser_based/Puzzle/sharkdp/cube-composer
 	url = https://github.com/sharkdp/cube-composer.git
 [submodule "01_open/06_function/09_game/browser_based/Puzzle/mvasilkov/glitch2016"]
-	path = 01_open/06_function/09_game/browser_based/Puzzle/mvasilkov/glitch2016
+	path = 01_open/06_function/09_game/01_browser_based/Puzzle/mvasilkov/glitch2016
 	url = https://github.com/mvasilkov/glitch2016.git
 [submodule "01_open/06_function/09_game/browser_based/Puzzle/thehen/game-off-2012"]
-	path = 01_open/06_function/09_game/browser_based/Puzzle/thehen/game-off-2012
+	path = 01_open/06_function/09_game/01_browser_based/Puzzle/thehen/game-off-2012
 	url = https://github.com/thehen/game-off-2012.git
 [submodule "01_open/06_function/09_game/browser_based/Puzzle/adhicl/game-off-2012"]
-	path = 01_open/06_function/09_game/browser_based/Puzzle/adhicl/game-off-2012
+	path = 01_open/06_function/09_game/01_browser_based/Puzzle/adhicl/game-off-2012
 	url = https://github.com/adhicl/game-off-2012.git
 [submodule "01_open/06_function/09_game/browser_based/Puzzle/Aerolab/blockrain"]
-	path = 01_open/06_function/09_game/browser_based/Puzzle/Aerolab/blockrain
+	path = 01_open/06_function/09_game/01_browser_based/Puzzle/Aerolab/blockrain
 	url = https://github.com/Aerolab/blockrain.js.git
 [submodule "01_open/06_function/09_game/browser_based/Puzzle/cxong/Beatrix"]
-	path = 01_open/06_function/09_game/browser_based/Puzzle/cxong/Beatrix
+	path = 01_open/06_function/09_game/01_browser_based/Puzzle/cxong/Beatrix
 	url = https://github.com/cxong/Beatrix.git
 [submodule "01_open/06_function/09_game/browser_based/Puzzle/sweetcarolinagames/BitBot"]
-	path = 01_open/06_function/09_game/browser_based/Puzzle/sweetcarolinagames/BitBot
+	path = 01_open/06_function/09_game/01_browser_based/Puzzle/sweetcarolinagames/BitBot
 	url = https://github.com/sweetcarolinagames/BitBot.git
 [submodule "01_open/06_function/09_game/browser_based/Puzzle/wwwtyro/Astray"]
-	path = 01_open/06_function/09_game/browser_based/Puzzle/wwwtyro/Astray
+	path = 01_open/06_function/09_game/01_browser_based/Puzzle/wwwtyro/Astray
 	url = https://github.com/wwwtyro/Astray.git
 [submodule "01_open/06_function/09_game/browser_based/Puzzle/binarymax/anagramica"]
-	path = 01_open/06_function/09_game/browser_based/Puzzle/binarymax/anagramica
+	path = 01_open/06_function/09_game/01_browser_based/Puzzle/binarymax/anagramica
 	url = https://github.com/binarymax/anagramica.git
 [submodule "01_open/06_function/09_game/browser_based/Puzzle/doublespeakgames/adarkroom"]
-	path = 01_open/06_function/09_game/browser_based/Puzzle/doublespeakgames/adarkroom
+	path = 01_open/06_function/09_game/01_browser_based/Puzzle/doublespeakgames/adarkroom
 	url = https://github.com/doublespeakgames/adarkroom.git
 [submodule "01_open/06_function/09_game/browser_based/Puzzle/gabrielecirulli/2048"]
-	path = 01_open/06_function/09_game/browser_based/Puzzle/gabrielecirulli/2048
+	path = 01_open/06_function/09_game/01_browser_based/Puzzle/gabrielecirulli/2048
 	url = https://github.com/gabrielecirulli/2048.git
 [submodule "01_open/06_function/09_game/browser_based/Puzzle/Q42/0hn1"]
-	path = 01_open/06_function/09_game/browser_based/Puzzle/Q42/0hn1
+	path = 01_open/06_function/09_game/01_browser_based/Puzzle/Q42/0hn1
 	url = https://github.com/Q42/0hh1.git
 [submodule "01_open/06_function/09_game/browser_based/Puzzle/Q42/0hn0"]
-	path = 01_open/06_function/09_game/browser_based/Puzzle/Q42/0hn0
+	path = 01_open/06_function/09_game/01_browser_based/Puzzle/Q42/0hn0
 	url = https://github.com/Q42/0hn0.git
 [submodule "01_open/06_function/09_game/browser_based/SandBox/Nurgak/Cube-engine"]
-	path = 01_open/06_function/09_game/browser_based/SandBox/Nurgak/Cube-engine
+	path = 01_open/06_function/09_game/01_browser_based/SandBox/Nurgak/Cube-engine
 	url = https://github.com/Nurgak/Cube-engine.git
 [submodule "01_open/06_function/09_game/browser_based/SandBox/B-Train04/Project-Cube"]
-	path = 01_open/06_function/09_game/browser_based/SandBox/B-Train04/Project-Cube
+	path = 01_open/06_function/09_game/01_browser_based/SandBox/B-Train04/Project-Cube
 	url = https://github.com/B-Train04/Project-Cube.git
 [submodule "01_open/06_function/09_game/browser_based/SandBox/lo-th/3dcity"]
-	path = 01_open/06_function/09_game/browser_based/SandBox/lo-th/3dcity
+	path = 01_open/06_function/09_game/01_browser_based/SandBox/lo-th/3dcity
 	url = https://github.com/lo-th/3d.city.git
 [submodule "01_open/06_function/09_game/browser_based/SandBox/morozd/blk-game"]
-	path = 01_open/06_function/09_game/browser_based/SandBox/morozd/blk-game
+	path = 01_open/06_function/09_game/01_browser_based/SandBox/morozd/blk-game
 	url = https://github.com/morozd/blk-game.git
 [submodule "01_open/06_function/09_game/browser_based/Racing/CodeArtemis/TriggerRally"]
-	path = 01_open/06_function/09_game/browser_based/Racing/CodeArtemis/TriggerRally
+	path = 01_open/06_function/09_game/01_browser_based/Racing/CodeArtemis/TriggerRally
 	url = https://github.com/CodeArtemis/TriggerRally.git
 [submodule "01_open/06_function/09_game/browser_based/Racing/BKcore/HexGL"]
-	path = 01_open/06_function/09_game/browser_based/Racing/BKcore/HexGL
+	path = 01_open/06_function/09_game/01_browser_based/Racing/BKcore/HexGL
 	url = https://github.com/BKcore/HexGL.git
 [submodule "01_open/06_function/09_game/browser_based/Strategy/Casmo/tower-defense"]
-	path = 01_open/06_function/09_game/browser_based/Strategy/Casmo/tower-defense
+	path = 01_open/06_function/09_game/01_browser_based/Strategy/Casmo/tower-defense
 	url = https://github.com/Casmo/tower-defense.git
 [submodule "01_open/06_function/09_game/browser_based/Strategy/adityaravishankar/command-and-conquer"]
-	path = 01_open/06_function/09_game/browser_based/Strategy/adityaravishankar/command-and-conquer
+	path = 01_open/06_function/09_game/01_browser_based/Strategy/adityaravishankar/command-and-conquer
 	url = https://github.com/adityaravishankar/command-and-conquer.git
 [submodule "01_open/06_function/09_game/browser_based/MMORPG/mozilla/BrowserQuest"]
-	path = 01_open/06_function/09_game/browser_based/MMORPG/mozilla/BrowserQuest
+	path = 01_open/06_function/09_game/01_browser_based/MMORPG/mozilla/BrowserQuest
 	url = https://github.com/mozilla/BrowserQuest.git
 [submodule "01_open/06_function/09_game/browser_based/RPG/antionio/game-off-2013"]
-	path = 01_open/06_function/09_game/browser_based/RPG/antionio/game-off-2013
+	path = 01_open/06_function/09_game/01_browser_based/RPG/antionio/game-off-2013
 	url = https://github.com/antionio/game-off-2013.git
 [submodule "01_open/06_function/09_game/browser_based/FPS/kripken/BananaBread"]
-	path = 01_open/06_function/09_game/browser_based/FPS/kripken/BananaBread
+	path = 01_open/06_function/09_game/01_browser_based/FPS/kripken/BananaBread
 	url = https://github.com/kripken/BananaBread.git
 [submodule "01_open/06_function/09_game/browser_based/Strategy/freeciv/freeciv-web"]
-	path = 01_open/06_function/09_game/browser_based/Strategy/freeciv/freeciv-web
+	path = 01_open/06_function/09_game/01_browser_based/Strategy/freeciv/freeciv-web
 	url = https://github.com/freeciv/freeciv-web.git
 [submodule "01_open/06_function/09_game/browser_based/RPG/CamHenlin/roguish"]
-	path = 01_open/06_function/09_game/browser_based/RPG/CamHenlin/roguish
+	path = 01_open/06_function/09_game/01_browser_based/RPG/CamHenlin/roguish
 	url = https://github.com/CamHenlin/roguish.git
 [submodule "01_open/06_function/09_game/browser_based/RPG/mitallast/diablo-js"]
-	path = 01_open/06_function/09_game/browser_based/RPG/mitallast/diablo-js
+	path = 01_open/06_function/09_game/01_browser_based/RPG/mitallast/diablo-js
 	url = https://github.com/mitallast/diablo-js.git
 [submodule "01_open/06_function/09_game/browser_based/Arcade/salvatorecapolupo/zedinvaders"]
-	path = 01_open/06_function/09_game/browser_based/Arcade/salvatorecapolupo/zedinvaders
+	path = 01_open/06_function/09_game/01_browser_based/Arcade/salvatorecapolupo/zedinvaders
 	url = https://github.com/salvatorecapolupo/zedinvaders.git
 [submodule "01_open/06_function/09_game/browser_based/Arcade/jfd/wpilot"]
-	path = 01_open/06_function/09_game/browser_based/Arcade/jfd/wpilot
+	path = 01_open/06_function/09_game/01_browser_based/Arcade/jfd/wpilot
 	url = https://github.com/jfd/wpilot.git
 [submodule "01_open/06_function/09_game/browser_based/Arcade/scottschiller/SURVIVOR"]
-	path = 01_open/06_function/09_game/browser_based/Arcade/scottschiller/SURVIVOR
+	path = 01_open/06_function/09_game/01_browser_based/Arcade/scottschiller/SURVIVOR
 	url = https://github.com/scottschiller/SURVIVOR.git
 [submodule "01_open/06_function/09_game/browser_based/Arcade/martindrapeau/backbone-game-engine"]
-	path = 01_open/06_function/09_game/browser_based/Arcade/martindrapeau/backbone-game-engine
+	path = 01_open/06_function/09_game/01_browser_based/Arcade/martindrapeau/backbone-game-engine
 	url = https://github.com/martindrapeau/backbone-game-engine.git
 [submodule "01_open/06_function/09_game/browser_based/Arcade/FullScreenShenanigans/FullScreenPokemon"]
-	path = 01_open/06_function/09_game/browser_based/Arcade/FullScreenShenanigans/FullScreenPokemon
+	path = 01_open/06_function/09_game/01_browser_based/Arcade/FullScreenShenanigans/FullScreenPokemon
 	url = https://github.com/FullScreenShenanigans/FullScreenPokemon.git
 [submodule "01_open/06_function/09_game/browser_based/Arcade/StrykerKKD/SpaceInvaders"]
-	path = 01_open/06_function/09_game/browser_based/Arcade/StrykerKKD/SpaceInvaders
+	path = 01_open/06_function/09_game/01_browser_based/Arcade/StrykerKKD/SpaceInvaders
 	url = https://github.com/StrykerKKD/SpaceInvaders.git
 [submodule "01_open/06_function/09_game/browser_based/Arcade/Loopeex/space-crusade"]
-	path = 01_open/06_function/09_game/browser_based/Arcade/Loopeex/space-crusade
+	path = 01_open/06_function/09_game/01_browser_based/Arcade/Loopeex/space-crusade
 	url = https://github.com/Loopeex/space-crusade.git
 [submodule "01_open/06_function/09_game/browser_based/Arcade/maettig/starship-sorades-13k"]
-	path = 01_open/06_function/09_game/browser_based/Arcade/maettig/starship-sorades-13k
+	path = 01_open/06_function/09_game/01_browser_based/Arcade/maettig/starship-sorades-13k
 	url = https://github.com/maettig/starship-sorades-13k.git
 [submodule "01_open/06_function/09_game/browser_based/Arcade/gamedolphin/javascript_snake"]
-	path = 01_open/06_function/09_game/browser_based/Arcade/gamedolphin/javascript_snake
+	path = 01_open/06_function/09_game/01_browser_based/Arcade/gamedolphin/javascript_snake
 	url = https://github.com/gamedolphin/javascript_snake.git
 [submodule "01_open/06_function/09_game/browser_based/Arcade/Couchfriends/Space-Shooter"]
-	path = 01_open/06_function/09_game/browser_based/Arcade/Couchfriends/Space-Shooter
+	path = 01_open/06_function/09_game/01_browser_based/Arcade/Couchfriends/Space-Shooter
 	url = https://github.com/Couchfriends/Space-Shooter.git
 [submodule "01_open/06_function/09_game/browser_based/Arcade/xurxodiz/snake"]
-	path = 01_open/06_function/09_game/browser_based/Arcade/xurxodiz/snake
+	path = 01_open/06_function/09_game/01_browser_based/Arcade/xurxodiz/snake
 	url = https://github.com/xurxodiz/snake.git
 [submodule "01_open/06_function/09_game/browser_based/Arcade/basicallydan/skifree"]
-	path = 01_open/06_function/09_game/browser_based/Arcade/basicallydan/skifree
+	path = 01_open/06_function/09_game/01_browser_based/Arcade/basicallydan/skifree
 	url = https://github.com/basicallydan/skifree.js.git
 [submodule "01_open/06_function/09_game/browser_based/Arcade/softvar/save-the-forest"]
-	path = 01_open/06_function/09_game/browser_based/Arcade/softvar/save-the-forest
+	path = 01_open/06_function/09_game/01_browser_based/Arcade/softvar/save-the-forest
 	url = https://github.com/softvar/save-the-forest.git
 [submodule "01_open/06_function/09_game/browser_based/Arcade/RothschildGames/release-cycles"]
-	path = 01_open/06_function/09_game/browser_based/Arcade/RothschildGames/release-cycles
+	path = 01_open/06_function/09_game/01_browser_based/Arcade/RothschildGames/release-cycles
 	url = https://github.com/RothschildGames/release-cycles.git
 [submodule "01_open/06_function/09_game/browser_based/Arcade/kenamick/game-off-2012"]
-	path = 01_open/06_function/09_game/browser_based/Arcade/kenamick/game-off-2012
+	path = 01_open/06_function/09_game/01_browser_based/Arcade/kenamick/game-off-2012
 	url = https://github.com/kenamick/game-off-2012.git
 [submodule "01_open/06_function/09_game/browser_based/Arcade/gbatha/PolyBranch"]
-	path = 01_open/06_function/09_game/browser_based/Arcade/gbatha/PolyBranch
+	path = 01_open/06_function/09_game/01_browser_based/Arcade/gbatha/PolyBranch
 	url = https://github.com/gbatha/PolyBranch.git
 [submodule "01_open/06_function/09_game/browser_based/Arcade/josegallegos07/game-off-2013"]
-	path = 01_open/06_function/09_game/browser_based/Arcade/josegallegos07/game-off-2013
+	path = 01_open/06_function/09_game/01_browser_based/Arcade/josegallegos07/game-off-2013
 	url = https://github.com/josegallegos07/game-off-2013.git
 [submodule "01_open/06_function/09_game/browser_based/Arcade/bendangelo/PixelPlatformer"]
-	path = 01_open/06_function/09_game/browser_based/Arcade/bendangelo/PixelPlatformer
+	path = 01_open/06_function/09_game/01_browser_based/Arcade/bendangelo/PixelPlatformer
 	url = https://github.com/bendangelo/PixelPlatformer.git
 [submodule "01_open/06_function/09_game/browser_based/Arcade/rishabhp/pappu-pakia"]
-	path = 01_open/06_function/09_game/browser_based/Arcade/rishabhp/pappu-pakia
+	path = 01_open/06_function/09_game/01_browser_based/Arcade/rishabhp/pappu-pakia
 	url = https://github.com/rishabhp/pappu-pakia.git
 [submodule "01_open/06_function/09_game/browser_based/Arcade/ogoshen/game-off-2012"]
-	path = 01_open/06_function/09_game/browser_based/Arcade/ogoshen/game-off-2012
+	path = 01_open/06_function/09_game/01_browser_based/Arcade/ogoshen/game-off-2012
 	url = https://github.com/ogoshen/game-off-2012.git
 [submodule "01_open/06_function/09_game/browser_based/Arcade/lostdecade/onslaught_arena"]
-	path = 01_open/06_function/09_game/browser_based/Arcade/lostdecade/onslaught_arena
+	path = 01_open/06_function/09_game/01_browser_based/Arcade/lostdecade/onslaught_arena
 	url = https://github.com/lostdecade/onslaught_arena.git
 [submodule "01_open/06_function/09_game/browser_based/Arcade/EnclaveGames/Monster-Wants-Candy-demo"]
-	path = 01_open/06_function/09_game/browser_based/Arcade/EnclaveGames/Monster-Wants-Candy-demo
+	path = 01_open/06_function/09_game/01_browser_based/Arcade/EnclaveGames/Monster-Wants-Candy-demo
 	url = https://github.com/EnclaveGames/Monster-Wants-Candy-demo.git
 [submodule "01_open/06_function/09_game/browser_based/Arcade/AdamAtomic/Mode"]
-	path = 01_open/06_function/09_game/browser_based/Arcade/AdamAtomic/Mode
+	path = 01_open/06_function/09_game/01_browser_based/Arcade/AdamAtomic/Mode
 	url = https://github.com/AdamAtomic/Mode.git
 [submodule "01_open/06_function/09_game/browser_based/Arcade/devnewton/newton_adventure"]
-	path = 01_open/06_function/09_game/browser_based/Arcade/devnewton/newton_adventure
+	path = 01_open/06_function/09_game/01_browser_based/Arcade/devnewton/newton_adventure
 	url = https://github.com/devnewton/newton_adventure.git
 [submodule "01_open/06_function/09_game/browser_based/Arcade/gamedolphin/Masonry-JavaScript-Tetris-Clone"]
-	path = 01_open/06_function/09_game/browser_based/Arcade/gamedolphin/Masonry-JavaScript-Tetris-Clone
+	path = 01_open/06_function/09_game/01_browser_based/Arcade/gamedolphin/Masonry-JavaScript-Tetris-Clone
 	url = https://github.com/gamedolphin/Masonry-JavaScript-Tetris-Clone.git
 [submodule "01_open/06_function/09_game/browser_based/Arcade/ddionisio/game-off-2013"]
-	path = 01_open/06_function/09_game/browser_based/Arcade/ddionisio/game-off-2013
+	path = 01_open/06_function/09_game/01_browser_based/Arcade/ddionisio/game-off-2013
 	url = https://github.com/ddionisio/game-off-2013.git
 [submodule "01_open/06_function/09_game/browser_based/Arcade/robertkleffner/mariohtml5"]
-	path = 01_open/06_function/09_game/browser_based/Arcade/robertkleffner/mariohtml5
+	path = 01_open/06_function/09_game/01_browser_based/Arcade/robertkleffner/mariohtml5
 	url = https://github.com/robertkleffner/mariohtml5.git
 [submodule "01_open/06_function/09_game/browser_based/Arcade/KordonBleu/jumpsuit"]
-	path = 01_open/06_function/09_game/browser_based/Arcade/KordonBleu/jumpsuit
+	path = 01_open/06_function/09_game/01_browser_based/Arcade/KordonBleu/jumpsuit
 	url = https://github.com/KordonBleu/jumpsuit.git
 [submodule "01_open/06_function/09_game/browser_based/Arcade/awesome-interactive/game-off-2013"]
-	path = 01_open/06_function/09_game/browser_based/Arcade/awesome-interactive/game-off-2013
+	path = 01_open/06_function/09_game/01_browser_based/Arcade/awesome-interactive/game-off-2013
 	url = https://github.com/awesome-interactive/game-off-2013.git
 [submodule "01_open/06_function/09_game/browser_based/Arcade/OmarShehata/I-Spy-A-Ghost"]
-	path = 01_open/06_function/09_game/browser_based/Arcade/OmarShehata/I-Spy-A-Ghost
+	path = 01_open/06_function/09_game/01_browser_based/Arcade/OmarShehata/I-Spy-A-Ghost
 	url = https://github.com/OmarShehata/I-Spy-A-Ghost.git
 [submodule "01_open/06_function/09_game/browser_based/Arcade/razh/game-off-2013"]
-	path = 01_open/06_function/09_game/browser_based/Arcade/razh/game-off-2013
+	path = 01_open/06_function/09_game/01_browser_based/Arcade/razh/game-off-2013
 	url = https://github.com/razh/game-off-2013.git
 [submodule "01_open/06_function/09_game/browser_based/Arcade/hughsk/ludum-dare-27"]
-	path = 01_open/06_function/09_game/browser_based/Arcade/hughsk/ludum-dare-27
+	path = 01_open/06_function/09_game/01_browser_based/Arcade/hughsk/ludum-dare-27
 	url = https://github.com/hughsk/ludum-dare-27.git
 [submodule "01_open/06_function/09_game/browser_based/Arcade/krzysu/game-off-2013"]
-	path = 01_open/06_function/09_game/browser_based/Arcade/krzysu/game-off-2013
+	path = 01_open/06_function/09_game/01_browser_based/Arcade/krzysu/game-off-2013
 	url = https://github.com/krzysu/game-off-2013.git
 [submodule "01_open/06_function/09_game/browser_based/Arcade/sdrdis/hotfix"]
-	path = 01_open/06_function/09_game/browser_based/Arcade/sdrdis/hotfix
+	path = 01_open/06_function/09_game/01_browser_based/Arcade/sdrdis/hotfix
 	url = https://github.com/sdrdis/hotfix.git
 [submodule "01_open/06_function/09_game/browser_based/Arcade/AdamAtomic/GraveRobbers"]
-	path = 01_open/06_function/09_game/browser_based/Arcade/AdamAtomic/GraveRobbers
+	path = 01_open/06_function/09_game/01_browser_based/Arcade/AdamAtomic/GraveRobbers
 	url = https://github.com/AdamAtomic/GraveRobbers.git
 [submodule "01_open/06_function/09_game/browser_based/Arcade/AdamAtomic/FlxTeroids"]
-	path = 01_open/06_function/09_game/browser_based/Arcade/AdamAtomic/FlxTeroids
+	path = 01_open/06_function/09_game/01_browser_based/Arcade/AdamAtomic/FlxTeroids
 	url = https://github.com/AdamAtomic/FlxTeroids.git
 [submodule "01_open/06_function/09_game/browser_based/Arcade/AdamAtomic/Flx-Invaders"]
-	path = 01_open/06_function/09_game/browser_based/Arcade/AdamAtomic/Flx-Invaders
+	path = 01_open/06_function/09_game/01_browser_based/Arcade/AdamAtomic/Flx-Invaders
 	url = https://github.com/AdamAtomic/Flx-Invaders.git
 [submodule "01_open/06_function/09_game/browser_based/Arcade/anirudhjoshi/fluid_table_tennis"]
-	path = 01_open/06_function/09_game/browser_based/Arcade/anirudhjoshi/fluid_table_tennis
+	path = 01_open/06_function/09_game/01_browser_based/Arcade/anirudhjoshi/fluid_table_tennis
 	url = https://github.com/anirudhjoshi/fluid_table_tennis.git
 [submodule "01_open/06_function/09_game/browser_based/Arcade/CamHenlin/ExecutiveMan"]
-	path = 01_open/06_function/09_game/browser_based/Arcade/CamHenlin/ExecutiveMan
+	path = 01_open/06_function/09_game/01_browser_based/Arcade/CamHenlin/ExecutiveMan
 	url = https://github.com/CamHenlin/ExecutiveMan.git
