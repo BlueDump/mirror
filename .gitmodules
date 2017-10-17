@@ -436,3 +436,300 @@
 [submodule "01_open/06_function/09_game/01_browser_based/Others/cshepp/candyjam"]
 	path = 01_open/06_function/09_game/01_browser_based/Others/cshepp/candyjam
 	url = https://github.com/cshepp/candyjam.git
+[submodule "01_open/06_function/09_game/02_native/arcade/GameOfLifeFighter"]
+	path = 01_open/06_function/09_game/02_native/arcade/GameOfLifeFighter
+	url = https://github.com/LucKeyProductions/GameOfLifeFighter.git
+[submodule "01_open/06_function/09_game/51_engines/qml-box2d"]
+	path = 01_open/06_function/09_game/51_engines/qml-box2d
+	url = https://github.com/qml-box2d/qml-box2d.git
+[submodule "01_open/06_function/09_game/99_others/BeamLight"]
+	path = 01_open/06_function/09_game/99_others/BeamLight
+	url = https://github.com/Modanung/BeamLight.git
+[submodule "01_open/06_function/09_game/99_others/LucKeyProductions/QtCreatorUrho3DWizards"]
+	path = 01_open/06_function/09_game/99_others/LucKeyProductions/QtCreatorUrho3DWizards
+	url = https://github.com/LucKeyProductions/QtCreatorUrho3DWizards.git
+[submodule "01_open/06_function/09_game/99_others/LucKeyProductions/Quatter"]
+	path = 01_open/06_function/09_game/99_others/LucKeyProductions/Quatter
+	url = https://github.com/LucKeyProductions/Quatter.git
+[submodule "01_open/06_function/09_game/99_others/LucKeyProductions/DroneHunter"]
+	path = 01_open/06_function/09_game/99_others/LucKeyProductions/DroneHunter
+	url = https://github.com/LucKeyProductions/DroneHunter.git
+[submodule "01_open/06_function/09_game/99_others/LucKeyProductions/LamaSkyDemons"]
+	path = 01_open/06_function/09_game/99_others/LucKeyProductions/LamaSkyDemons
+	url = https://github.com/LucKeyProductions/LamaSkyDemons.git
+[submodule "01_open/06_function/09_game/99_others/LucKeyProductions/Edddy"]
+	path = 01_open/06_function/09_game/99_others/LucKeyProductions/Edddy
+	url = https://github.com/LucKeyProductions/Edddy.git
+[submodule "01_open/06_function/09_game/99_others/LucKeyProductions/KO"]
+	path = 01_open/06_function/09_game/99_others/LucKeyProductions/KO
+	url = https://github.com/LucKeyProductions/KO.git
+[submodule "01_open/06_function/09_game/99_others/LucKeyProductions/OGTatt"]
+	path = 01_open/06_function/09_game/99_others/LucKeyProductions/OGTatt
+	url = https://github.com/LucKeyProductions/OGTatt.git
+[submodule "01_open/06_function/09_game/99_others/LucKeyProductions/BlipNBlup"]
+	path = 01_open/06_function/09_game/99_others/LucKeyProductions/BlipNBlup
+	url = https://github.com/LucKeyProductions/BlipNBlup.git
+[submodule "01_open/06_function/09_game/02_native/arcade/cdogs-sdl"]
+	path = 01_open/06_function/09_game/02_native/arcade/cdogs-sdl
+	url = https://github.com/cxong/cdogs-sdl.git
+[submodule "01_open/06_function/09_game/02_native/arcade/Chaos-Projectile"]
+	path = 01_open/06_function/09_game/02_native/arcade/Chaos-Projectile
+	url = https://github.com/WinterLicht/Chaos-Projectile.git
+[submodule "01_open/06_function/09_game/02_native/arcade/Clonepoint"]
+	path = 01_open/06_function/09_game/02_native/arcade/Clonepoint
+	url = https://github.com/rohit-n/Clonepoint.git
+[submodule "01_open/06_function/09_game/02_native/arcade/dynadungeons"]
+	path = 01_open/06_function/09_game/02_native/arcade/dynadungeons
+	url = https://github.com/akien-mga/dynadungeons.git
+[submodule "01_open/06_function/09_game/99_others/godot-modules"]
+	path = 01_open/06_function/09_game/99_others/godot-modules
+	url = https://github.com/godotengine/godot-modules.git
+[submodule "01_open/06_function/09_game/02_native/arcade/duckmarines"]
+	path = 01_open/06_function/09_game/02_native/arcade/duckmarines
+	url = https://github.com/SimonLarsen/duckmarines.git
+[submodule "01_open/06_function/09_game/02_native/arcade/FallingTime"]
+	path = 01_open/06_function/09_game/02_native/arcade/FallingTime
+	url = https://github.com/cxong/FallingTime.git
+[submodule "01_open/06_function/09_game/02_native/arcade/Kroniax"]
+	path = 01_open/06_function/09_game/02_native/arcade/Kroniax
+	url = https://github.com/AlexAUT/Kroniax.git
+[submodule "01_open/06_function/09_game/02_native/arcade/missile-command"]
+	path = 01_open/06_function/09_game/02_native/arcade/missile-command
+	url = https://github.com/chadpaulson/missile-command.git
+[submodule "01_open/06_function/09_game/02_native/arcade/hexon"]
+	path = 01_open/06_function/09_game/02_native/arcade/hexon
+	url = https://github.com/LucKeyProductions/heXon.git
+[submodule "01_open/06_function/09_game/02_native/arcade/epic-inventor"]
+	path = 01_open/06_function/09_game/02_native/arcade/epic-inventor
+	url = https://github.com/BlkStormy/epic-inventor.git
+[submodule "01_open/06_function/09_game/02_native/arcade/Osgg"]
+	path = 01_open/06_function/09_game/02_native/arcade/Osgg
+	url = https://github.com/DusteDdk/Osgg.git
+[submodule "01_open/06_function/09_game/02_native/arcade/savagewheels"]
+	path = 01_open/06_function/09_game/02_native/arcade/savagewheels
+	url = https://github.com/kenamick/savagewheels.git
+[submodule "01_open/06_function/09_game/02_native/arcade/MysticMine"]
+	path = 01_open/06_function/09_game/02_native/arcade/MysticMine
+	url = https://github.com/koonsolo/MysticMine.git
+[submodule "01_open/06_function/09_game/02_native/arcade/spaceShooter"]
+	path = 01_open/06_function/09_game/02_native/arcade/spaceShooter
+	url = https://github.com/tasdikrahman/spaceShooter.git
+[submodule "01_open/06_function/09_game/02_native/arcade/openlierox"]
+	path = 01_open/06_function/09_game/02_native/arcade/openlierox
+	url = https://github.com/albertz/openlierox.git
+[submodule "01_open/06_function/09_game/02_native/arcade/SDL-Ball"]
+	path = 01_open/06_function/09_game/02_native/arcade/SDL-Ball
+	url = https://github.com/DusteDdk/SDL-Ball.git
+[submodule "01_open/06_function/09_game/02_native/arcade/wbt"]
+	path = 01_open/06_function/09_game/02_native/arcade/wbt
+	url = https://github.com/awlzac/wbt.git
+[submodule "01_open/06_function/09_game/02_native/arcade/taisei"]
+	path = 01_open/06_function/09_game/02_native/arcade/taisei
+	url = https://github.com/laochailan/taisei.git
+[submodule "01_open/06_function/09_game/99_others/baselib"]
+	path = 01_open/06_function/09_game/99_others/baselib
+	url = https://github.com/matricks/baselib.git
+[submodule "01_open/06_function/09_game/99_others/datalibrary"]
+	path = 01_open/06_function/09_game/99_others/datalibrary
+	url = https://github.com/matricks/datalibrary.git
+[submodule "01_open/06_function/09_game/02_native/arcade/teeworlds"]
+	path = 01_open/06_function/09_game/02_native/arcade/teeworlds
+	url = https://github.com/teeworlds/teeworlds.git
+[submodule "01_open/06_function/09_game/99_others/dbgtools"]
+	path = 01_open/06_function/09_game/99_others/dbgtools
+	url = https://github.com/wc-duck/dbgtools.git
+[submodule "01_open/06_function/09_game/51_engines/godot"]
+	path = 01_open/06_function/09_game/51_engines/godot
+	url = https://github.com/godotengine/godot.git
+[submodule "01_open/06_function/09_game/99_others/fswatcher"]
+	path = 01_open/06_function/09_game/99_others/fswatcher
+	url = https://github.com/wc-duck/fswatcher.git
+[submodule "01_open/06_function/09_game/99_others/http_client"]
+	path = 01_open/06_function/09_game/99_others/http_client
+	url = https://github.com/wc-duck/http_client.git
+[submodule "01_open/06_function/09_game/99_others/profsy"]
+	path = 01_open/06_function/09_game/99_others/profsy
+	url = https://github.com/wc-duck/profsy.git
+[submodule "01_open/06_function/09_game/99_others/http_server"]
+	path = 01_open/06_function/09_game/99_others/http_server
+	url = https://github.com/wc-duck/http_server.git
+[submodule "01_open/06_function/09_game/02_native/arcade/witchblast"]
+	path = 01_open/06_function/09_game/02_native/arcade/witchblast
+	url = https://github.com/Cirrus-Minor/witchblast.git
+[submodule "01_open/06_function/09_game/99_others/github/game-off-2012"]
+	path = 01_open/06_function/09_game/99_others/github/game-off-2012
+	url = https://github.com/github/game-off-2012.git
+[submodule "01_open/06_function/09_game/99_others/OpenNotrium"]
+	path = 01_open/06_function/09_game/99_others/OpenNotrium
+	url = https://github.com/verhoevenv/OpenNotrium.git
+[submodule "01_open/06_function/09_game/99_others/Couchfriends/Bomberman-3D"]
+	path = 01_open/06_function/09_game/99_others/Couchfriends/Bomberman-3D
+	url = https://github.com/Couchfriends/Bomberman-3D.git
+[submodule "01_open/06_function/09_game/99_others/Nebuleon/ativayeban"]
+	path = 01_open/06_function/09_game/99_others/Nebuleon/ativayeban
+	url = https://github.com/Nebuleon/ativayeban.git
+[submodule "01_open/06_function/09_game/99_others/AlexAUT/Kroniax_Cpp"]
+	path = 01_open/06_function/09_game/99_others/AlexAUT/Kroniax_Cpp
+	url = https://github.com/AlexAUT/Kroniax_Cpp.git
+[submodule "01_open/06_function/09_game/99_others/AlexAUT/SFML-Gamejam2"]
+	path = 01_open/06_function/09_game/99_others/AlexAUT/SFML-Gamejam2
+	url = https://github.com/AlexAUT/SFML-Gamejam2.git
+[submodule "01_open/06_function/09_game/99_others/AlexAUT/Kroniax2-Mapeditor"]
+	path = 01_open/06_function/09_game/99_others/AlexAUT/Kroniax2-Mapeditor
+	url = https://github.com/AlexAUT/Kroniax2-Mapeditor.git
+[submodule "01_open/06_function/09_game/99_others/razorpay/ifsc"]
+	path = 01_open/06_function/09_game/99_others/razorpay/ifsc
+	url = https://github.com/razorpay/ifsc.git
+[submodule "01_open/06_function/09_game/99_others/razorpay/razorpay-node"]
+	path = 01_open/06_function/09_game/99_others/razorpay/razorpay-node
+	url = https://github.com/razorpay/razorpay-node.git
+[submodule "01_open/06_function/09_game/99_others/coala"]
+	path = 01_open/06_function/09_game/99_others/coala
+	url = https://github.com/coala/coala.git
+[submodule "01_open/06_function/09_game/99_others/Cirrus-Minor/games"]
+	path = 01_open/06_function/09_game/99_others/Cirrus-Minor/games
+	url = https://github.com/Cirrus-Minor/games.git
+[submodule "01_open/06_function/09_game/99_others/Cirrus-Minor/freetumble"]
+	path = 01_open/06_function/09_game/99_others/Cirrus-Minor/freetumble
+	url = https://github.com/Cirrus-Minor/freetumble.git
+[submodule "01_open/06_function/09_game/99_others/Nebuleon/PocketSNES"]
+	path = 01_open/06_function/09_game/99_others/Nebuleon/PocketSNES
+	url = https://github.com/Nebuleon/PocketSNES.git
+[submodule "01_open/06_function/09_game/99_others/Nebuleon/ReGBA"]
+	path = 01_open/06_function/09_game/99_others/Nebuleon/ReGBA
+	url = https://github.com/Nebuleon/ReGBA.git
+[submodule "01_open/06_function/09_game/99_others/oVirt/ovirt-hosted-engine-setup"]
+	path = 01_open/06_function/09_game/99_others/oVirt/ovirt-hosted-engine-setup
+	url = https://github.com/oVirt/ovirt-hosted-engine-setup.git
+[submodule "01_open/06_function/09_game/99_others/oVirt/vdsm"]
+	path = 01_open/06_function/09_game/99_others/oVirt/vdsm
+	url = https://github.com/oVirt/vdsm.git
+[submodule "01_open/06_function/09_game/99_others/oVirt/ovirt-engine"]
+	path = 01_open/06_function/09_game/99_others/oVirt/ovirt-engine
+	url = https://github.com/oVirt/ovirt-engine.git
+[submodule "01_open/06_function/11_media/01_codec/cisco/openh264"]
+	path = 01_open/06_function/11_media/01_codec/cisco/openh264
+	url = https://github.com/cisco/openh264.git
+[submodule "01_open/06_function/99_others/Mojang/concurrentqueue"]
+	path = 01_open/06_function/99_others/Mojang/concurrentqueue
+	url = https://github.com/Mojang/concurrentqueue.git
+[submodule "01_open/05_organization/google/brotli"]
+	path = 01_open/05_organization/google/brotli
+	url = https://github.com/google/brotli.git
+[submodule "01_open/99_others/Mojang/pdqsort"]
+	path = 01_open/99_others/Mojang/pdqsort
+	url = https://github.com/Mojang/pdqsort.git
+[submodule "01_open/99_others/Mojang/leveldb-mcpe"]
+	path = 01_open/99_others/Mojang/leveldb-mcpe
+	url = https://github.com/Mojang/leveldb-mcpe.git
+[submodule "01_open/06_function/99_others/ccpgames/setuphelpers"]
+	path = 01_open/06_function/99_others/ccpgames/setuphelpers
+	url = https://github.com/ccpgames/setuphelpers.git
+[submodule "01_open/06_function/99_others/ccpgames/esi-issues"]
+	path = 01_open/06_function/99_others/ccpgames/esi-issues
+	url = https://github.com/ccpgames/esi-issues.git
+[submodule "01_open/06_function/99_others/ccpgames/aws-tools"]
+	path = 01_open/06_function/99_others/ccpgames/aws-tools
+	url = https://github.com/ccpgames/aws-tools.git
+[submodule "01_open/06_function/99_others/ccpgames/EveLogLite"]
+	path = 01_open/06_function/99_others/ccpgames/EveLogLite
+	url = https://github.com/ccpgames/EveLogLite.git
+[submodule "01_open/06_function/99_others/ccpgames/esi-routes"]
+	path = 01_open/06_function/99_others/ccpgames/esi-routes
+	url = https://github.com/ccpgames/esi-routes.git
+[submodule "01_open/06_function/99_others/ccpgames/kane"]
+	path = 01_open/06_function/99_others/ccpgames/kane
+	url = https://github.com/ccpgames/kane.git
+[submodule "01_open/06_function/99_others/ccpgames/ejabberd"]
+	path = 01_open/06_function/99_others/ccpgames/ejabberd
+	url = https://github.com/ccpgames/ejabberd.git
+[submodule "01_open/06_function/99_others/ccpgames/esi-swagger-ui"]
+	path = 01_open/06_function/99_others/ccpgames/esi-swagger-ui
+	url = https://github.com/ccpgames/esi-swagger-ui.git
+[submodule "01_open/06_function/99_others/ccpgames/ccpwgl"]
+	path = 01_open/06_function/99_others/ccpgames/ccpwgl
+	url = https://github.com/ccpgames/ccpwgl.git
+[submodule "01_open/06_function/99_others/ccpgames/glfw"]
+	path = 01_open/06_function/99_others/ccpgames/glfw
+	url = https://github.com/ccpgames/glfw.git
+[submodule "01_open/06_function/99_others/ccpgames/Opserver"]
+	path = 01_open/06_function/99_others/ccpgames/Opserver
+	url = https://github.com/ccpgames/Opserver.git
+[submodule "01_open/06_function/08_net/99_others/mumble-voip/mumble"]
+	path = 01_open/06_function/08_net/99_others/mumble-voip/mumble
+	url = https://github.com/mumble-voip/mumble.git
+[submodule "01_open/06_function/08_net/99_others/mumble-voip/mumble-iphoneos"]
+	path = 01_open/06_function/08_net/99_others/mumble-voip/mumble-iphoneos
+	url = https://github.com/mumble-voip/mumble-iphoneos.git
+[submodule "01_open/06_function/08_net/99_others/mumble-voip/mumblekit"]
+	path = 01_open/06_function/08_net/99_others/mumble-voip/mumblekit
+	url = https://github.com/mumble-voip/mumblekit.git
+[submodule "01_open/06_function/08_net/99_others/mumble-voip/mumble-theme"]
+	path = 01_open/06_function/08_net/99_others/mumble-voip/mumble-theme
+	url = https://github.com/mumble-voip/mumble-theme.git
+[submodule "01_open/06_function/08_net/99_others/mumble-voip/mumble-releng"]
+	path = 01_open/06_function/08_net/99_others/mumble-voip/mumble-releng
+	url = https://github.com/mumble-voip/mumble-releng.git
+[submodule "01_open/06_function/08_net/99_others/mumble-voip/speexdsp"]
+	path = 01_open/06_function/08_net/99_others/mumble-voip/speexdsp
+	url = https://github.com/mumble-voip/speexdsp.git
+[submodule "01_open/06_function/08_net/99_others/mumble-voip/speex"]
+	path = 01_open/06_function/08_net/99_others/mumble-voip/speex
+	url = https://github.com/mumble-voip/speex.git
+[submodule "01_open/06_function/08_net/99_others/mumble-voip/opus"]
+	path = 01_open/06_function/08_net/99_others/mumble-voip/opus
+	url = https://github.com/mumble-voip/opus.git
+[submodule "01_open/06_function/08_net/99_others/mumble-voip/mumble-pahelper"]
+	path = 01_open/06_function/08_net/99_others/mumble-voip/mumble-pahelper
+	url = https://github.com/mumble-voip/mumble-pahelper.git
+[submodule "01_open/06_function/08_net/99_others/mumble-voip/mumble-ubuntu-ppa"]
+	path = 01_open/06_function/08_net/99_others/mumble-voip/mumble-ubuntu-ppa
+	url = https://github.com/mumble-voip/mumble-ubuntu-ppa.git
+[submodule "01_open/06_function/08_net/99_others/mumble-voip/cygwin-bootstrap"]
+	path = 01_open/06_function/08_net/99_others/mumble-voip/cygwin-bootstrap
+	url = https://github.com/mumble-voip/cygwin-bootstrap.git
+[submodule "01_open/06_function/99_others/minhook"]
+	path = 01_open/06_function/99_others/minhook
+	url = https://github.com/mumble-voip/minhook.git
+[submodule "01_open/06_function/08_net/99_others/mumble-voip/mumble-gpg-signatures"]
+	path = 01_open/06_function/08_net/99_others/mumble-voip/mumble-gpg-signatures
+	url = https://github.com/mumble-voip/mumble-gpg-signatures.git
+[submodule "01_open/06_function/08_net/99_others/mumble-voip/mumble-scripts"]
+	path = 01_open/06_function/08_net/99_others/mumble-voip/mumble-scripts
+	url = https://github.com/mumble-voip/mumble-scripts.git
+[submodule "01_open/06_function/99_others/ccpgames/WwiseUE4Plugin"]
+	path = 01_open/06_function/99_others/ccpgames/WwiseUE4Plugin
+	url = https://github.com/ccpgames/WwiseUE4Plugin.git
+[submodule "01_open/06_function/08_net/99_others/mumble-voip/mumo"]
+	path = 01_open/06_function/08_net/99_others/mumble-voip/mumo
+	url = https://github.com/mumble-voip/mumo.git
+[submodule "01_open/06_function/08_net/99_others/mumble-voip/grumble"]
+	path = 01_open/06_function/08_net/99_others/mumble-voip/grumble
+	url = https://github.com/mumble-voip/grumble.git
+[submodule "01_open/06_function/08_net/99_others/mumble-voip/sbcelt"]
+	path = 01_open/06_function/08_net/99_others/mumble-voip/sbcelt
+	url = https://github.com/mumble-voip/sbcelt.git
+[submodule "01_open/06_function/08_net/99_others/mumble-voip/mumble-protocol"]
+	path = 01_open/06_function/08_net/99_others/mumble-voip/mumble-protocol
+	url = https://github.com/mumble-voip/mumble-protocol.git
+[submodule "01_open/06_function/08_net/99_others/mumble-voip/MumbleTransifexBot"]
+	path = 01_open/06_function/08_net/99_others/mumble-voip/MumbleTransifexBot
+	url = https://github.com/mumble-voip/MumbleTransifexBot.git
+[submodule "01_open/06_function/08_net/99_others/mumble-voip/libmumble"]
+	path = 01_open/06_function/08_net/99_others/mumble-voip/libmumble
+	url = https://github.com/mumble-voip/libmumble.git
+[submodule "01_open/06_function/08_net/99_others/mumble-voip/celt070"]
+	path = 01_open/06_function/08_net/99_others/mumble-voip/celt070
+	url = https://github.com/mumble-voip/celt-0.7.0.git
+[submodule "01_open/06_function/08_net/99_others/mumble-voip/celt-0110"]
+	path = 01_open/06_function/08_net/99_others/mumble-voip/celt-0110
+	url = https://github.com/mumble-voip/celt-0.11.0.git
+[submodule "01_open/06_function/08_net/99_others/mumble-voip/fx11"]
+	path = 01_open/06_function/08_net/99_others/mumble-voip/fx11
+	url = https://github.com/mumble-voip/fx11.git
+[submodule "01_open/06_function/08_net/99_others/mumble-voip/libmumble-gyp"]
+	path = 01_open/06_function/08_net/99_others/mumble-voip/libmumble-gyp
+	url = https://github.com/mumble-voip/libmumble-gyp.git
+[submodule "01_open/06_function/08_net/99_others/mumble-voip/mumble-developers-qt"]
+	path = 01_open/06_function/08_net/99_others/mumble-voip/mumble-developers-qt
+	url = https://github.com/mumble-voip/mumble-developers-qt.git
