@@ -433,3 +433,6 @@
 [submodule "01_open/06_function/09_game/browser_based/Arcade/CamHenlin/ExecutiveMan"]
 	path = 01_open/06_function/09_game/01_browser_based/Arcade/CamHenlin/ExecutiveMan
 	url = https://github.com/CamHenlin/ExecutiveMan.git
+[submodule "01_open/06_function/09_game/01_browser_based/Others/cshepp/candyjam"]
+	path = 01_open/06_function/09_game/01_browser_based/Others/cshepp/candyjam
+	url = https://github.com/cshepp/candyjam.git
