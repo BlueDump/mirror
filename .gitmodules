@@ -733,3 +733,288 @@
 [submodule "01_open/06_function/08_net/99_others/mumble-voip/mumble-developers-qt"]
 	path = 01_open/06_function/08_net/99_others/mumble-voip/mumble-developers-qt
 	url = https://github.com/mumble-voip/mumble-developers-qt.git
+[submodule "01_open/06_function/09_game/02_native/fps/freedoom/freedoom"]
+	path = 01_open/06_function/09_game/02_native/fps/freedoom/freedoom
+	url = https://github.com/freedoom/freedoom.git
+[submodule "01_open/06_function/09_game/02_native/fps/GlPortal/glPortal"]
+	path = 01_open/06_function/09_game/02_native/fps/GlPortal/glPortal
+	url = https://github.com/GlPortal/glPortal.git
+[submodule "01_open/06_function/09_game/02_native/fps/assaultcube/AC"]
+	path = 01_open/06_function/09_game/02_native/fps/assaultcube/AC
+	url = https://github.com/assaultcube/AC.git
+[submodule "01_open/06_function/09_game/02_native/fps/ioquake/ioq3"]
+	path = 01_open/06_function/09_game/02_native/fps/ioquake/ioq3
+	url = https://github.com/ioquake/ioq3.git
+[submodule "01_open/06_function/09_game/02_native/fps/flibitijibibo/LWJake2"]
+	path = 01_open/06_function/09_game/02_native/fps/flibitijibibo/LWJake2
+	url = https://github.com/flibitijibibo/LWJake2.git
+[submodule "01_open/06_function/09_game/02_native/fps/yvt/openspades"]
+	path = 01_open/06_function/09_game/02_native/fps/yvt/openspades
+	url = https://github.com/yvt/openspades.git
+[submodule "01_open/06_function/09_game/99_others/yvt/terravox"]
+	path = 01_open/06_function/09_game/99_others/yvt/terravox
+	url = https://github.com/yvt/terravox.git
+[submodule "01_open/06_function/09_game/02_native/fps/smokin-guns/SmokinGuns"]
+	path = 01_open/06_function/09_game/02_native/fps/smokin-guns/SmokinGuns
+	url = https://github.com/smokin-guns/SmokinGuns.git
+[submodule "01_open/06_function/09_game/02_native/fps/Turtle-Arena/turtle-arena-code"]
+	path = 01_open/06_function/09_game/02_native/fps/Turtle-Arena/turtle-arena-code
+	url = https://github.com/Turtle-Arena/turtle-arena-code.git
+[submodule "01_open/06_function/09_game/99_others/id-Software/Quake-III-Arena"]
+	path = 01_open/06_function/09_game/99_others/id-Software/Quake-III-Arena
+	url = https://github.com/id-Software/Quake-III-Arena.git
+[submodule "01_open/06_function/09_game/02_native/fps/Unvanquished/Unvanquished"]
+	path = 01_open/06_function/09_game/02_native/fps/Unvanquished/Unvanquished
+	url = https://github.com/Unvanquished/Unvanquished.git
+[submodule "01_open/06_function/09_game/99_others/Extraordinary-Beat-X/ebx-radiant-pack"]
+	path = 01_open/06_function/09_game/99_others/Extraordinary-Beat-X/ebx-radiant-pack
+	url = https://github.com/Extraordinary-Beat-X/ebx-radiant-pack.git
+[submodule "01_open/06_function/09_game/99_others/Extraordinary-Beat-X/ebx-code"]
+	path = 01_open/06_function/09_game/99_others/Extraordinary-Beat-X/ebx-code
+	url = https://github.com/Extraordinary-Beat-X/ebx-code.git
+[submodule "01_open/06_function/09_game/99_others/Extraordinary-Beat-X/ebx-data"]
+	path = 01_open/06_function/09_game/99_others/Extraordinary-Beat-X/ebx-data
+	url = https://github.com/Extraordinary-Beat-X/ebx-data.git
+[submodule "01_open/06_function/09_game/99_others/ioquake/ioq3"]
+	path = 01_open/06_function/09_game/99_others/ioquake/ioq3
+	url = https://github.com/ioquake/ioq3.git
+[submodule "01_open/06_function/09_game/99_others/GlPortal/vhacd-lib"]
+	path = 01_open/06_function/09_game/99_others/GlPortal/vhacd-lib
+	url = https://github.com/GlPortal/vhacd-lib.git
+[submodule "01_open/06_function/09_game/99_others/GlPortal/RadixEntity"]
+	path = 01_open/06_function/09_game/99_others/GlPortal/RadixEntity
+	url = https://github.com/GlPortal/RadixEntity.git
+[submodule "01_open/06_function/09_game/99_others/GlPortal/logger"]
+	path = 01_open/06_function/09_game/99_others/GlPortal/logger
+	url = https://github.com/GlPortal/logger.git
+[submodule "01_open/06_function/09_game/99_others/GlPortal/cpp-linenoise"]
+	path = 01_open/06_function/09_game/99_others/GlPortal/cpp-linenoise
+	url = https://github.com/GlPortal/cpp-linenoise.git
+[submodule "01_open/06_function/09_game/99_others/GlPortal/wonder-storie"]
+	path = 01_open/06_function/09_game/99_others/GlPortal/wonder-storie
+	url = https://github.com/GlPortal/wonder-stories.git
+[submodule "01_open/06_function/01_ui/50_uilib/GlPortal/cppgui"]
+	path = 01_open/06_function/01_ui/50_uilib/GlPortal/cppgui
+	url = https://github.com/GlPortal/cppgui.git
+[submodule "01_open/06_function/09_game/99_others/GlPortal/digital-distribution"]
+	path = 01_open/06_function/09_game/99_others/GlPortal/digital-distribution
+	url = https://github.com/GlPortal/digital-distribution.git
+[submodule "01_open/06_function/01_ui/50_uilib/GlPortal/cppgui-specification"]
+	path = 01_open/06_function/01_ui/50_uilib/GlPortal/cppgui-specification
+	url = https://github.com/GlPortal/cppgui-specification.git
+[submodule "01_open/06_function/09_game/99_others/GlPortal/serine"]
+	path = 01_open/06_function/09_game/99_others/GlPortal/serine
+	url = https://github.com/GlPortal/serine.git
+[submodule "01_open/06_function/09_game/99_others/GlPortal/tools"]
+	path = 01_open/06_function/09_game/99_others/GlPortal/tools
+	url = https://github.com/GlPortal/tools.git
+[submodule "01_open/06_function/09_game/99_others/id-Software/Quake"]
+	path = 01_open/06_function/09_game/99_others/id-Software/Quake
+	url = https://github.com/id-Software/Quake.git
+[submodule "01_open/06_function/09_game/99_others/id-Software/DOOM-3-BFG"]
+	path = 01_open/06_function/09_game/99_others/id-Software/DOOM-3-BFG
+	url = https://github.com/id-Software/DOOM-3-BFG.git
+[submodule "01_open/06_function/09_game/99_others/id-Software/DOOM-IOS2"]
+	path = 01_open/06_function/09_game/99_others/id-Software/DOOM-IOS2
+	url = https://github.com/id-Software/DOOM-IOS2.git
+[submodule "01_open/06_function/09_game/99_others/id-Software/Quake-2"]
+	path = 01_open/06_function/09_game/99_others/id-Software/Quake-2
+	url = https://github.com/id-Software/Quake-2.git
+[submodule "01_open/06_function/09_game/99_others/id-Software/DOOM-3"]
+	path = 01_open/06_function/09_game/99_others/id-Software/DOOM-3
+	url = https://github.com/id-Software/DOOM-3.git
+[submodule "01_open/06_function/09_game/99_others/id-Software/RTCW-SP"]
+	path = 01_open/06_function/09_game/99_others/id-Software/RTCW-SP
+	url = https://github.com/id-Software/RTCW-SP.git
+[submodule "01_open/06_function/09_game/99_others/id-Software/DOOM"]
+	path = 01_open/06_function/09_game/99_others/id-Software/DOOM
+	url = https://github.com/id-Software/DOOM.git
+[submodule "01_open/06_function/09_game/99_others/id-Software/wolf3d-browser"]
+	path = 01_open/06_function/09_game/99_others/id-Software/wolf3d-browser
+	url = https://github.com/id-Software/wolf3d-browser.git
+[submodule "01_open/06_function/09_game/99_others/id-Software/wolf3d"]
+	path = 01_open/06_function/09_game/99_others/id-Software/wolf3d
+	url = https://github.com/id-Software/wolf3d.git
+[submodule "01_open/06_function/09_game/99_others/id-Software/Wolf3D-iOS"]
+	path = 01_open/06_function/09_game/99_others/id-Software/Wolf3D-iOS
+	url = https://github.com/id-Software/Wolf3D-iOS.git
+[submodule "01_open/06_function/09_game/99_others/id-Software/DOOM-iOS"]
+	path = 01_open/06_function/09_game/99_others/id-Software/DOOM-iOS
+	url = https://github.com/id-Software/DOOM-iOS.git
+[submodule "01_open/06_function/09_game/99_others/id-Software/Quake-Tools"]
+	path = 01_open/06_function/09_game/99_others/id-Software/Quake-Tools
+	url = https://github.com/id-Software/Quake-Tools.git
+[submodule "01_open/06_function/09_game/99_others/id-Software/idsetup"]
+	path = 01_open/06_function/09_game/99_others/id-Software/idsetup
+	url = https://github.com/id-Software/idsetup.git
+[submodule "01_open/06_function/09_game/99_others/id-Software/Quake-2-Tools"]
+	path = 01_open/06_function/09_game/99_others/id-Software/Quake-2-Tools
+	url = https://github.com/id-Software/Quake-2-Tools.git
+[submodule "01_open/06_function/09_game/99_others/id-Software/GtkRadiant"]
+	path = 01_open/06_function/09_game/99_others/id-Software/GtkRadiant
+	url = https://github.com/id-Software/GtkRadiant.git
+[submodule "01_open/06_function/09_game/99_others/id-Software/Enemy-Territory"]
+	path = 01_open/06_function/09_game/99_others/id-Software/Enemy-Territory
+	url = https://github.com/id-Software/Enemy-Territory.git
+[submodule "01_open/06_function/09_game/99_others/id-Software/RTCW-MP"]
+	path = 01_open/06_function/09_game/99_others/id-Software/RTCW-MP
+	url = https://github.com/id-Software/RTCW-MP.git
+[submodule "01_open/06_function/09_game/99_others/Warsow/glsl"]
+	path = 01_open/06_function/09_game/99_others/Warsow/glsl
+	url = https://github.com/Warsow/glsl.git
+[submodule "01_open/06_function/09_game/99_others/Warsow/qfusion"]
+	path = 01_open/06_function/09_game/99_others/Warsow/qfusion
+	url = https://github.com/Warsow/qfusion.git
+[submodule "01_open/06_function/09_game/99_others/Warsow/bspc"]
+	path = 01_open/06_function/09_game/99_others/Warsow/bspc
+	url = https://github.com/Warsow/bspc.git
+[submodule "01_open/06_function/09_game/99_others/Warsow/wsw-race"]
+	path = 01_open/06_function/09_game/99_others/Warsow/wsw-race
+	url = https://github.com/Warsow/wsw-race.git
+[submodule "01_open/06_function/09_game/99_others/Warsow/NetRadiantPack"]
+	path = 01_open/06_function/09_game/99_others/Warsow/NetRadiantPack
+	url = https://github.com/Warsow/NetRadiantPack.git
+[submodule "01_open/06_function/01_ui/50_uilib/Warsow/warsow.cpp.ui"]
+	path = 01_open/06_function/01_ui/50_uilib/Warsow/warsow.cpp.ui
+	url = https://github.com/Warsow/warsow.cpp.ui.git
+[submodule "01_open/06_function/09_game/99_others/ioquake/three"]
+	path = 01_open/06_function/09_game/99_others/ioquake/three
+	url = https://github.com/ioquake/three.git
+[submodule "01_open/06_function/09_game/99_others/ioquake/launch"]
+	path = 01_open/06_function/09_game/99_others/ioquake/launch
+	url = https://github.com/ioquake/launch.git
+[submodule "01_open/06_function/09_game/99_others/ioquake/jedi-outcast"]
+	path = 01_open/06_function/09_game/99_others/ioquake/jedi-outcast
+	url = https://github.com/ioquake/jedi-outcast.git
+[submodule "01_open/06_function/09_game/99_others/ioquake/jedi-academy"]
+	path = 01_open/06_function/09_game/99_others/ioquake/jedi-academy
+	url = https://github.com/ioquake/jedi-academy.git
+[submodule "01_open/06_function/09_game/99_others/Qfusion/asprogs"]
+	path = 01_open/06_function/09_game/99_others/Qfusion/asprogs
+	url = https://github.com/Qfusion/asprogs.git
+[submodule "01_open/06_function/09_game/99_others/Qfusion/rapid"]
+	path = 01_open/06_function/09_game/99_others/Qfusion/rapid
+	url = https://github.com/Qfusion/rapid.git
+[submodule "01_open/06_function/09_game/99_others/Qfusion/rocketui"]
+	path = 01_open/06_function/09_game/99_others/Qfusion/rocketui
+	url = https://github.com/Qfusion/rocketui.git
+[submodule "01_open/06_function/09_game/51_engines/Qfusion/qfusion"]
+	path = 01_open/06_function/09_game/51_engines/Qfusion/qfusion
+	url = https://github.com/Qfusion/qfusion.git
+[submodule "01_open/06_function/09_game/99_others/Qfusion/glsl"]
+	path = 01_open/06_function/09_game/99_others/Qfusion/glsl
+	url = https://github.com/Qfusion/glsl.git
+[submodule "01_open/06_function/09_game/99_others/Qfusion/huds"]
+	path = 01_open/06_function/09_game/99_others/Qfusion/huds
+	url = https://github.com/Qfusion/huds.git
+[submodule "01_open/06_function/09_game/99_others/Qfusion/l10n"]
+	path = 01_open/06_function/09_game/99_others/Qfusion/l10n
+	url = https://github.com/Qfusion/l10n.git
+[submodule "01_open/06_function/09_game/99_others/Qfusion/pk3checksum"]
+	path = 01_open/06_function/09_game/99_others/Qfusion/pk3checksum
+	url = https://github.com/Qfusion/pk3checksum.git
+[submodule "01_open/06_function/09_game/99_others/Qfusion/warmama"]
+	path = 01_open/06_function/09_game/99_others/Qfusion/warmama
+	url = https://github.com/Qfusion/warmama.git
+[submodule "01_open/06_function/09_game/99_others/Qfusion/angelscript"]
+	path = 01_open/06_function/09_game/99_others/Qfusion/angelscript
+	url = https://github.com/Qfusion/angelscript.git
+[submodule "01_open/06_function/09_game/99_others/Qfusion/qfusion-libsrcs"]
+	path = 01_open/06_function/09_game/99_others/Qfusion/qfusion-libsrcs
+	url = https://github.com/Qfusion/qfusion-libsrcs.git
+[submodule "01_open/06_function/09_game/99_others/Qfusion/libRocket"]
+	path = 01_open/06_function/09_game/99_others/Qfusion/libRocket
+	url = https://github.com/Qfusion/libRocket.git
+[submodule "01_open/06_function/09_game/99_others/Qfusion/shadermapminigui"]
+	path = 01_open/06_function/09_game/99_others/Qfusion/shadermapminigui
+	url = https://github.com/Qfusion/shadermapminigui.git
+[submodule "01_open/06_function/09_game/99_others/turtle-arena-radiant-pack"]
+	path = 01_open/06_function/09_game/99_others/turtle-arena-radiant-pack
+	url = https://github.com/Turtle-Arena/turtle-arena-radiant-pack.git
+[submodule "01_open/06_function/09_game/99_others/Turtle-Arena/turtle-arena-code"]
+	path = 01_open/06_function/09_game/99_others/Turtle-Arena/turtle-arena-code
+	url = https://github.com/Turtle-Arena/turtle-arena-code.git
+[submodule "01_open/06_function/09_game/99_others/Turtle-Arena/turtle-arena-data"]
+	path = 01_open/06_function/09_game/99_others/Turtle-Arena/turtle-arena-data
+	url = https://github.com/Turtle-Arena/turtle-arena-data.git
+[submodule "01_open/06_function/09_game/99_others/smokin-guns/SmokinGuns"]
+	path = 01_open/06_function/09_game/99_others/smokin-guns/SmokinGuns
+	url = https://github.com/smokin-guns/SmokinGuns.git
+[submodule "01_open/06_function/09_game/99_others/smokin-guns/ioq3"]
+	path = 01_open/06_function/09_game/99_others/smokin-guns/ioq3
+	url = https://github.com/smokin-guns/ioq3.git
+[submodule "01_open/06_function/09_game/99_others/smokin-guns/GtkRadiant"]
+	path = 01_open/06_function/09_game/99_others/smokin-guns/GtkRadiant
+	url = https://github.com/smokin-guns/GtkRadiant.git
+[submodule "01_open/06_function/09_game/99_others/smokin-guns/bspc"]
+	path = 01_open/06_function/09_game/99_others/smokin-guns/bspc
+	url = https://github.com/smokin-guns/bspc.git
+[submodule "01_open/06_function/09_game/99_others/smokin-guns/SmokinGuns-Map-Villa"]
+	path = 01_open/06_function/09_game/99_others/smokin-guns/SmokinGuns-Map-Villa
+	url = https://github.com/smokin-guns/SmokinGuns-Map-Villa.git
+[submodule "01_open/06_function/09_game/99_others/smokin-guns/SmokinGuns-Map-Xmas"]
+	path = 01_open/06_function/09_game/99_others/smokin-guns/SmokinGuns-Map-Xmas
+	url = https://github.com/smokin-guns/SmokinGuns-Map-Xmas.git
+[submodule "01_open/06_function/09_game/99_others/Unvanquished/breakpad-webui"]
+	path = 01_open/06_function/09_game/99_others/Unvanquished/breakpad-webui
+	url = https://github.com/Unvanquished/breakpad-webui.git
+[submodule "01_open/06_function/09_game/99_others/Unvanquished/updater2"]
+	path = 01_open/06_function/09_game/99_others/Unvanquished/updater2
+	url = https://github.com/Unvanquished/updater2.git
+[submodule "01_open/06_function/09_game/99_others/Unvanquished/unvanquished-mapeditor-support"]
+	path = 01_open/06_function/09_game/99_others/Unvanquished/unvanquished-mapeditor-support
+	url = https://github.com/Unvanquished/unvanquished-mapeditor-support.git
+[submodule "01_open/06_function/09_game/99_others/Unvanquished/Sloth"]
+	path = 01_open/06_function/09_game/99_others/Unvanquished/Sloth
+	url = https://github.com/Unvanquished/Sloth.git
+[submodule "01_open/06_function/09_game/99_others/Unvanquished/updater"]
+	path = 01_open/06_function/09_game/99_others/Unvanquished/updater
+	url = https://github.com/Unvanquished/updater.git
+[submodule "01_open/06_function/09_game/99_others/Unvanquished/crunch"]
+	path = 01_open/06_function/09_game/99_others/Unvanquished/crunch
+	url = https://github.com/Unvanquished/crunch.git
+[submodule "01_open/06_function/09_game/99_others/Unvanquished/simplesamlphp-phpbbauth"]
+	path = 01_open/06_function/09_game/99_others/Unvanquished/simplesamlphp-phpbbauth
+	url = https://github.com/Unvanquished/simplesamlphp-phpbbauth.git
+[submodule "01_open/06_function/09_game/99_others/Unvanquished/Unvanquished"]
+	path = 01_open/06_function/09_game/99_others/Unvanquished/Unvanquished
+	url = https://github.com/Unvanquished/Unvanquished.git
+[submodule "01_open/06_function/09_game/99_others/Unvanquished/recastnavigation"]
+	path = 01_open/06_function/09_game/99_others/Unvanquished/recastnavigation
+	url = https://github.com/Unvanquished/recastnavigation.git
+[submodule "01_open/06_function/09_game/99_others/Unvanquished/PrototypeRenderer"]
+	path = 01_open/06_function/09_game/99_others/Unvanquished/PrototypeRenderer
+	url = https://github.com/Unvanquished/PrototypeRenderer.git
+[submodule "01_open/06_function/09_game/99_others/Unvanquished/release-scripts"]
+	path = 01_open/06_function/09_game/99_others/Unvanquished/release-scripts
+	url = https://github.com/Unvanquished/release-scripts.git
+[submodule "01_open/06_function/09_game/99_others/Unvanquished/unvanquished-master"]
+	path = 01_open/06_function/09_game/99_others/Unvanquished/unvanquished-master
+	url = https://github.com/Unvanquished/unvanquished-master.git
+[submodule "01_open/06_function/09_game/99_others/Unvanquished/breakpad"]
+	path = 01_open/06_function/09_game/99_others/Unvanquished/breakpad
+	url = https://github.com/Unvanquished/breakpad.git
+[submodule "01_open/06_function/09_game/99_others/Unvanquished/phpbb-simplesamlauth"]
+	path = 01_open/06_function/09_game/99_others/Unvanquished/phpbb-simplesamlauth
+	url = https://github.com/Unvanquished/phpbb-simplesamlauth.git
+[submodule "01_open/06_function/09_game/99_others/Unvanquished/Chameleon"]
+	path = 01_open/06_function/09_game/99_others/Unvanquished/Chameleon
+	url = https://github.com/Unvanquished/Chameleon.git
+[submodule "01_open/06_function/09_game/99_others/Unvanquished/Osavul"]
+	path = 01_open/06_function/09_game/99_others/Unvanquished/Osavul
+	url = https://github.com/Unvanquished/Osavul.git
+[submodule "01_open/06_function/09_game/99_others/Unvanquished/unvstats"]
+	path = 01_open/06_function/09_game/99_others/Unvanquished/unvstats
+	url = https://github.com/Unvanquished/unvstats.git
+[submodule "01_open/06_function/09_game/99_others/Unvanquished/BitRock"]
+	path = 01_open/06_function/09_game/99_others/Unvanquished/BitRock
+	url = https://github.com/Unvanquished/BitRock.git
+[submodule "01_open/06_function/09_game/99_others/Unvanquished/daemonmap"]
+	path = 01_open/06_function/09_game/99_others/Unvanquished/daemonmap
+	url = https://github.com/Unvanquished/daemonmap.git
+[submodule "01_open/06_function/09_game/99_others/Unvanquished/design-document"]
+	path = 01_open/06_function/09_game/99_others/Unvanquished/design-document
+	url = https://github.com/Unvanquished/design-document.git
+[submodule "01_open/06_function/09_game/99_others/Unvanquished/Test-Assets"]
+	path = 01_open/06_function/09_game/99_others/Unvanquished/Test-Assets
+	url = https://github.com/Unvanquished/Test-Assets.git
