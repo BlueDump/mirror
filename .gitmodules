@@ -1018,3 +1018,6 @@
 [submodule "01_open/06_function/09_game/99_others/Unvanquished/Test-Assets"]
 	path = 01_open/06_function/09_game/99_others/Unvanquished/Test-Assets
 	url = https://github.com/Unvanquished/Test-Assets.git
+[submodule "01_open/06_function/09_game/50_frameworks/benvanik/games-framework"]
+	path = 01_open/06_function/09_game/50_frameworks/benvanik/games-framework
+	url = https://github.com/benvanik/games-framework.git
