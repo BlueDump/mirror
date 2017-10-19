@@ -1021,3 +1021,471 @@
 [submodule "01_open/06_function/09_game/50_frameworks/benvanik/games-framework"]
 	path = 01_open/06_function/09_game/50_frameworks/benvanik/games-framework
 	url = https://github.com/benvanik/games-framework.git
+[submodule "01_open/05_organization/redeclipse/base"]
+	path = 01_open/05_organization/redeclipse/base
+	url = https://github.com/red-eclipse/base.git
+[submodule "01_open/05_organization/redeclipse/textures"]
+	path = 01_open/05_organization/redeclipse/textures
+	url = https://github.com/red-eclipse/textures.git
+[submodule "01_open/05_organization/redeclipse/fonts"]
+	path = 01_open/05_organization/redeclipse/fonts
+	url = https://github.com/red-eclipse/fonts.git
+[submodule "01_open/05_organization/redeclipse/deploy"]
+	path = 01_open/05_organization/redeclipse/deploy
+	url = https://github.com/red-eclipse/deploy.git
+[submodule "01_open/06_function/09_game/99_others/arianne/marauroa"]
+	path = 01_open/06_function/09_game/99_others/arianne/marauroa
+	url = https://github.com/arianne/marauroa.git
+[submodule "01_open/06_function/09_game/list/lereilly/games"]
+	path = 01_open/06_function/09_game/list/lereilly/games
+	url = https://github.com/leereilly/games.git
+[submodule "01_open/06_function/09_game/99_others/Meridian59/Meridian59"]
+	path = 01_open/06_function/09_game/99_others/Meridian59/Meridian59
+	url = https://github.com/Meridian59/Meridian59.git
+[submodule "01_open/05_organization/redeclipse/maps"]
+	path = 01_open/05_organization/redeclipse/maps
+	url = https://github.com/red-eclipse/maps.git
+[submodule "01_open/06_function/09_game/02_native/mmorpg/Meridian59/Meridian59"]
+	path = 01_open/06_function/09_game/02_native/mmorpg/Meridian59/Meridian59
+	url = https://github.com/Meridian59/Meridian59.git
+[submodule "01_open/06_function/09_game/99_others/zinnschlag/OpenEngine"]
+	path = 01_open/06_function/09_game/99_others/zinnschlag/OpenEngine
+	url = https://github.com/zinnschlag/OpenEngine.git
+[submodule "01_open/06_function/09_game/02_native/mmorpg/OpenMeridian/Meridian59"]
+	path = 01_open/06_function/09_game/02_native/mmorpg/OpenMeridian/Meridian59
+	url = https://github.com/OpenMeridian/Meridian59.git
+[submodule "01_open/06_function/09_game/99_others/zinnschlag/mangle"]
+	path = 01_open/06_function/09_game/99_others/zinnschlag/mangle
+	url = https://github.com/zinnschlag/mangle.git
+[submodule "01_open/06_function/09_game/99_others/zinnschlag/openmw"]
+	path = 01_open/06_function/09_game/99_others/zinnschlag/openmw
+	url = https://github.com/zinnschlag/openmw.git
+[submodule "01_open/06_function/09_game/99_others/korslund/mangle"]
+	path = 01_open/06_function/09_game/99_others/korslund/mangle
+	url = https://github.com/korslund/mangle.git
+[submodule "01_open/05_organization/redeclipse/horizon"]
+	path = 01_open/05_organization/redeclipse/horizon
+	url = https://github.com/red-eclipse/horizon.git
+[submodule "01_open/06_function/09_game/99_others/korslund/Tiggit"]
+	path = 01_open/06_function/09_game/99_others/korslund/Tiggit
+	url = https://github.com/korslund/Tiggit.git
+[submodule "01_open/06_function/09_game/99_others/korslund/open-ddraw"]
+	path = 01_open/06_function/09_game/99_others/korslund/open-ddraw
+	url = https://github.com/korslund/open-ddraw.git
+[submodule "01_open/06_function/09_game/99_others/korslund/spread"]
+	path = 01_open/06_function/09_game/99_others/korslund/spread
+	url = https://github.com/korslund/spread.git
+[submodule "01_open/06_function/09_game/99_others/OpenMW/openmw"]
+	path = 01_open/06_function/09_game/99_others/OpenMW/openmw
+	url = https://github.com/OpenMW/openmw.git
+[submodule "01_open/06_function/09_game/99_others/OpenMW/openmw-deps-mac"]
+	path = 01_open/06_function/09_game/99_others/OpenMW/openmw-deps-mac
+	url = https://github.com/OpenMW/openmw-deps-mac.git
+[submodule "01_open/06_function/09_game/99_others/OpenMW/UIX-R"]
+	path = 01_open/06_function/09_game/99_others/OpenMW/UIX-R
+	url = https://github.com/OpenMW/UIX-R.git
+[submodule "01_open/06_function/09_game/99_others/OpenMW/osg"]
+	path = 01_open/06_function/09_game/99_others/OpenMW/osg
+	url = https://github.com/OpenMW/osg.git
+[submodule "01_open/06_function/09_game/99_others/openscenegraph/OpenSceneGraph"]
+	path = 01_open/06_function/09_game/99_others/openscenegraph/OpenSceneGraph
+	url = https://github.com/openscenegraph/OpenSceneGraph.git
+[submodule "01_open/06_function/09_game/99_others/OpenMW/android-port"]
+	path = 01_open/06_function/09_game/99_others/OpenMW/android-port
+	url = https://github.com/OpenMW/android-port.git
+[submodule "01_open/06_function/09_game/99_others/OpenMW/osgexport"]
+	path = 01_open/06_function/09_game/99_others/OpenMW/osgexport
+	url = https://github.com/OpenMW/osgexport.git
+[submodule "01_open/06_function/09_game/02_native/mmorpg/arianne/stendhal"]
+	path = 01_open/06_function/09_game/02_native/mmorpg/arianne/stendhal
+	url = https://github.com/arianne/stendhal.git
+[submodule "01_open/05_organization/epicgames/ThirdParty"]
+	path = 01_open/05_organization/epicgames/ThirdParty
+	url = https://github.com/EpicGames/ThirdParty.git
+[submodule "01_open/05_organization/epicgames/ARTv2"]
+	path = 01_open/05_organization/epicgames/ARTv2
+	url = https://github.com/EpicGames/ARTv2.git
+[submodule "01_open/99_others/gistinc/Gecko"]
+	path = 01_open/99_others/gistinc/Gecko
+	url = https://github.com/gistinc/Gecko.git
+[submodule "01_open/99_others/David-Estevez/gecko"]
+	path = 01_open/99_others/David-Estevez/gecko
+	url = https://github.com/David-Estevez/gecko.git
+[submodule "01_open/05_organization/redeclipse/oldsvnbf"]
+	path = 01_open/05_organization/redeclipse/oldsvnbf
+	url = https://github.com/red-eclipse/oldsvnbf.git
+[submodule "01_open/99_others/MoonchildProductions/FossaMail"]
+	path = 01_open/99_others/MoonchildProductions/FossaMail
+	url = https://github.com/MoonchildProductions/FossaMail.git
+[submodule "01_open/99_others/SiliconLabs/mbed-os"]
+	path = 01_open/99_others/SiliconLabs/mbed-os
+	url = https://github.com/SiliconLabs/mbed-os.git
+[submodule "01_open/99_others/kanon1109/geckosCocos2dxUtils"]
+	path = 01_open/99_others/kanon1109/geckosCocos2dxUtils
+	url = https://github.com/kanon1109/geckosCocos2dxUtils.git
+[submodule "01_open/99_others/adblockplus/adblockplus"]
+	path = 01_open/99_others/adblockplus/adblockplus
+	url = https://github.com/adblockplus/adblockplus.git
+[submodule "01_open/99_others/rn10950/RetroZilla"]
+	path = 01_open/99_others/rn10950/RetroZilla
+	url = https://github.com/rn10950/RetroZilla.git
+[submodule "01_open/99_others/adblockplus/adblockpluschrome"]
+	path = 01_open/99_others/adblockplus/adblockpluschrome
+	url = https://github.com/adblockplus/adblockpluschrome.git
+[submodule "01_open/99_others/adblockplus/adblockplussafariios"]
+	path = 01_open/99_others/adblockplus/adblockplussafariios
+	url = https://github.com/adblockplus/adblockplussafariios.git
+[submodule "01_open/99_others/adblockplus/libadblockplus"]
+	path = 01_open/99_others/adblockplus/libadblockplus
+	url = https://github.com/adblockplus/libadblockplus.git
+[submodule "01_open/99_others/MoonchildProductions/Pale-Moon"]
+	path = 01_open/99_others/MoonchildProductions/Pale-Moon
+	url = https://github.com/MoonchildProductions/Pale-Moon.git
+[submodule "01_open/05_organization/redeclipse/oldsvnre"]
+	path = 01_open/05_organization/redeclipse/oldsvnre
+	url = https://github.com/red-eclipse/oldsvnre.git
+[submodule "01_open/99_others/MoonchildProductions/moebius"]
+	path = 01_open/99_others/MoonchildProductions/moebius
+	url = https://github.com/MoonchildProductions/moebius.git
+[submodule "01_open/99_others/SiliconLabs/Gecko_SDK"]
+	path = 01_open/99_others/SiliconLabs/Gecko_SDK
+	url = https://github.com/SiliconLabs/Gecko_SDK.git
+[submodule "01_open/05_organization/epicgames/UnrealEngine"]
+	path = 01_open/05_organization/epicgames/UnrealEngine
+	url = https://github.com/EpicGames/UnrealEngine.git
+[submodule "01_open/99_others/adblockplus/adblockplusie"]
+	path = 01_open/99_others/adblockplus/adblockplusie
+	url = https://github.com/adblockplus/adblockplusie.git
+[submodule "01_open/99_others/EnergyMicro/HackaGecko"]
+	path = 01_open/99_others/EnergyMicro/HackaGecko
+	url = https://github.com/EnergyMicro/HackaGecko.git
+[submodule "01_open/99_others/adblockplus/adblockplusandroid"]
+	path = 01_open/99_others/adblockplus/adblockplusandroid
+	url = https://github.com/adblockplus/adblockplusandroid.git
+[submodule "01_open/99_others/EnergyMicro/embedded_software"]
+	path = 01_open/99_others/EnergyMicro/embedded_software
+	url = https://github.com/EnergyMicro/embedded_software.git
+[submodule "01_open/99_others/EnergyMicro/emlib"]
+	path = 01_open/99_others/EnergyMicro/emlib
+	url = https://github.com/EnergyMicro/emlib.git
+[submodule "01_open/99_others/adblockplus/v8-googlesource"]
+	path = 01_open/99_others/adblockplus/v8-googlesource
+	url = https://github.com/adblockplus/v8-googlesource.git
+[submodule "01_open/99_others/MoonchildProductions/mozilla-esr24"]
+	path = 01_open/99_others/MoonchildProductions/mozilla-esr24
+	url = https://github.com/MoonchildProductions/mozilla-esr24.git
+[submodule "01_open/05_organization/epicgames/UnrealTournament"]
+	path = 01_open/05_organization/epicgames/UnrealTournament
+	url = https://github.com/EpicGames/UnrealTournament.git
+[submodule "01_open/05_organization/wine/winetestbot"]
+	path = 01_open/05_organization/wine/winetestbot
+	url = https://git.code.sf.net/p/wine/winetestbot
+[submodule "01_open/99_others/jgraham/gecko"]
+	path = 01_open/99_others/jgraham/gecko
+	url = https://github.com/jgraham/gecko.git
+[submodule "01_open/06_function/09_game/02_native/rpg/Nooskewl/crystal-picnic"]
+	path = 01_open/06_function/09_game/02_native/rpg/Nooskewl/crystal-picnic
+	url = https://github.com/Nooskewl/crystal-picnic.git
+[submodule "01_open/06_function/09_game/02_native/rpg/angband"]
+	path = 01_open/06_function/09_game/02_native/rpg/angband
+	url = https://github.com/angband/angband.git
+[submodule "01_open/05_organization/mozilla/gecko"]
+	path = 01_open/05_organization/mozilla/gecko
+	url = https://github.com/mozilla/gecko.git
+[submodule "01_open/06_function/09_game/02_native/rpg/jwvhewitt/dmeternal"]
+	path = 01_open/06_function/09_game/02_native/rpg/jwvhewitt/dmeternal
+	url = https://github.com/jwvhewitt/dmeternal.git
+[submodule "01_open/06_function/09_game/02_native/rpg/wheybags/freeablo"]
+	path = 01_open/06_function/09_game/02_native/rpg/wheybags/freeablo
+	url = https://github.com/wheybags/freeablo.git
+[submodule "01_open/06_function/09_game/02_native/rpg/arx/ArxLibertatis"]
+	path = 01_open/06_function/09_game/02_native/rpg/arx/ArxLibertatis
+	url = https://github.com/arx/ArxLibertatis.git
+[submodule "01_open/06_function/09_game/02_native/rpg/crawl/crawl"]
+	path = 01_open/06_function/09_game/02_native/rpg/crawl/crawl
+	url = https://github.com/crawl/crawl.git
+[submodule "01_open/06_function/09_game/99_others/solarus-games/zsdx"]
+	path = 01_open/06_function/09_game/99_others/solarus-games/zsdx
+	url = https://github.com/solarus-games/zsdx.git
+[submodule "01_open/06_function/09_game/02_native/rpg/egoboo/egoboo"]
+	path = 01_open/06_function/09_game/02_native/rpg/egoboo/egoboo
+	url = https://github.com/egoboo/egoboo.git
+[submodule "01_open/06_function/09_game/99_others/NetHack/NetHack"]
+	path = 01_open/06_function/09_game/99_others/NetHack/NetHack
+	url = https://github.com/NetHack/NetHack.git
+[submodule "01_open/06_function/09_game/99_others/arx/ArxBuild"]
+	path = 01_open/06_function/09_game/99_others/arx/ArxBuild
+	url = https://github.com/arx/ArxBuild.git
+[submodule "01_open/06_function/09_game/99_others/arx/ArxGentoo"]
+	path = 01_open/06_function/09_game/99_others/arx/ArxGentoo
+	url = https://github.com/arx/ArxGentoo.git
+[submodule "01_open/06_function/09_game/99_others/arx/ArxPackages"]
+	path = 01_open/06_function/09_game/99_others/arx/ArxPackages
+	url = https://github.com/arx/ArxPackages.git
+[submodule "01_open/06_function/09_game/02_native/rpg/ValyriaTear/ValyriaTear"]
+	path = 01_open/06_function/09_game/02_native/rpg/ValyriaTear/ValyriaTear
+	url = https://github.com/ValyriaTear/ValyriaTear.git
+[submodule "01_open/06_function/09_game/99_others/arx/ArxLibertatisData"]
+	path = 01_open/06_function/09_game/99_others/arx/ArxLibertatisData
+	url = https://github.com/arx/ArxLibertatisData.git
+[submodule "01_open/06_function/09_game/02_native/rpg/Nooskewl/monster-rpg-2"]
+	path = 01_open/06_function/09_game/02_native/rpg/Nooskewl/monster-rpg-2
+	url = https://github.com/Nooskewl/monster-rpg-2.git
+[submodule "01_open/06_function/09_game/99_others/arx/ArxWindows"]
+	path = 01_open/06_function/09_game/99_others/arx/ArxWindows
+	url = https://github.com/arx/ArxWindows.git
+[submodule "01_open/06_function/09_game/99_others/arx/glm"]
+	path = 01_open/06_function/09_game/99_others/arx/glm
+	url = https://github.com/arx/glm.git
+[submodule "01_open/06_function/09_game/99_others/Nooskewl/AshEdit"]
+	path = 01_open/06_function/09_game/99_others/Nooskewl/AshEdit
+	url = https://github.com/Nooskewl/AshEdit.git
+[submodule "01_open/06_function/09_game/99_others/Nooskewl/tgui2"]
+	path = 01_open/06_function/09_game/99_others/Nooskewl/tgui2
+	url = https://github.com/Nooskewl/tgui2.git
+[submodule "01_open/06_function/09_game/99_others/Nooskewl/crystal-picnic"]
+	path = 01_open/06_function/09_game/99_others/Nooskewl/crystal-picnic
+	url = https://github.com/Nooskewl/crystal-picnic.git
+[submodule "01_open/06_function/09_game/99_others/solarus-games/openspc-precise"]
+	path = 01_open/06_function/09_game/99_others/solarus-games/openspc-precise
+	url = https://github.com/solarus-games/openspc-precise.git
+[submodule "01_open/06_function/09_game/99_others/ValyriaTear/vt-skill-graph-editor"]
+	path = 01_open/06_function/09_game/99_others/ValyriaTear/vt-skill-graph-editor
+	url = https://github.com/ValyriaTear/vt-skill-graph-editor.git
+[submodule "01_open/06_function/09_game/99_others/ValyriaTear/luabind"]
+	path = 01_open/06_function/09_game/99_others/ValyriaTear/luabind
+	url = https://github.com/ValyriaTear/luabind.git
+[submodule "01_open/06_function/09_game/99_others/ValyriaTear/vt-map-editor"]
+	path = 01_open/06_function/09_game/99_others/ValyriaTear/vt-map-editor
+	url = https://github.com/ValyriaTear/vt-map-editor.git
+[submodule "01_open/06_function/09_game/99_others/Oberon00/jd"]
+	path = 01_open/06_function/09_game/99_others/Oberon00/jd
+	url = https://github.com/Oberon00/jd.git
+[submodule "01_open/06_function/09_game/99_others/solarus-games/solarus"]
+	path = 01_open/06_function/09_game/99_others/solarus-games/solarus
+	url = https://github.com/solarus-games/solarus.git
+[submodule "01_open/06_function/09_game/99_others/angband/v4"]
+	path = 01_open/06_function/09_game/99_others/angband/v4
+	url = https://github.com/angband/v4.git
+[submodule "01_open/06_function/09_game/02_native/rpg/clintbellanger/flare-game"]
+	path = 01_open/06_function/09_game/02_native/rpg/clintbellanger/flare-game
+	url = https://github.com/clintbellanger/flare-game.git
+[submodule "01_open/06_function/09_game/99_others/Nooskewl/monster-rpg-2"]
+	path = 01_open/06_function/09_game/99_others/Nooskewl/monster-rpg-2
+	url = https://github.com/Nooskewl/monster-rpg-2.git
+[submodule "01_open/06_function/09_game/02_native/rpg/CleverRaven/Cataclysm-DDA"]
+	path = 01_open/06_function/09_game/02_native/rpg/CleverRaven/Cataclysm-DDA
+	url = https://github.com/CleverRaven/Cataclysm-DDA.git
+[submodule "01_open/05_organization/mozilla/gecko-dev"]
+	path = 01_open/05_organization/mozilla/gecko-dev
+	url = https://github.com/mozilla/gecko-dev.git
+[submodule "01_open/06_function/09_game/99_others/crawl/crawl-sqlite"]
+	path = 01_open/06_function/09_game/99_others/crawl/crawl-sqlite
+	url = https://github.com/crawl/crawl-sqlite.git
+[submodule "01_open/06_function/09_game/99_others/craw/monsterl"]
+	path = 01_open/06_function/09_game/99_others/craw/monsterl
+	url = https://github.com/crawl/monster.git
+[submodule "01_open/05_organization/google/gflags/gflags"]
+	path = 01_open/05_organization/google/gflags/gflags
+	url = https://github.com/gflags/gflags.git
+[submodule "01_open/05_organization/google/gflags/example"]
+	path = 01_open/05_organization/google/gflags/example
+	url = https://github.com/gflags/example.git
+[submodule "01_open/05_organization/google/python-gflags"]
+	path = 01_open/05_organization/google/python-gflags
+	url = https://github.com/google/python-gflags.git
+[submodule "01_open/05_organization/google/gflags/nuget-gflags"]
+	path = 01_open/05_organization/google/gflags/nuget-gflags
+	url = https://github.com/gflags/nuget-gflags.git
+[submodule "01_open/06_function/09_game/99_others/crawl/dgamelaunch"]
+	path = 01_open/06_function/09_game/99_others/crawl/dgamelaunch
+	url = https://github.com/crawl/dgamelaunch.git
+[submodule "01_open/06_function/09_game/99_others/crawl/crawl-sdl"]
+	path = 01_open/06_function/09_game/99_others/crawl/crawl-sdl
+	url = https://github.com/crawl/crawl-sdl.git
+[submodule "01_open/06_function/09_game/99_others/crawl/crawl-sdl-image"]
+	path = 01_open/06_function/09_game/99_others/crawl/crawl-sdl-image
+	url = https://github.com/crawl/crawl-sdl-image.git
+[submodule "01_open/06_function/09_game/99_others/crawl/crawl-ancient"]
+	path = 01_open/06_function/09_game/99_others/crawl/crawl-ancient
+	url = https://github.com/crawl/crawl-ancient.git
+[submodule "01_open/06_function/09_game/99_others/crawl/crawl-zlib"]
+	path = 01_open/06_function/09_game/99_others/crawl/crawl-zlib
+	url = https://github.com/crawl/crawl-zlib.git
+[submodule "01_open/06_function/09_game/99_others/crawl/crawl-sdl2-mixer"]
+	path = 01_open/06_function/09_game/99_others/crawl/crawl-sdl2-mixer
+	url = https://github.com/crawl/crawl-sdl2-mixer.git
+[submodule "01_open/06_function/09_game/99_others/crawl/crawl-sdl2-image"]
+	path = 01_open/06_function/09_game/99_others/crawl/crawl-sdl2-image
+	url = https://github.com/crawl/crawl-sdl2-image.git
+[submodule "01_open/06_function/09_game/99_others/crawl/crawl-sdl2"]
+	path = 01_open/06_function/09_game/99_others/crawl/crawl-sdl2
+	url = https://github.com/crawl/crawl-sdl2.git
+[submodule "01_open/06_function/09_game/99_others/crawl/crawl-pcre"]
+	path = 01_open/06_function/09_game/99_others/crawl/crawl-pcre
+	url = https://github.com/crawl/crawl-pcre.git
+[submodule "01_open/06_function/09_game/99_others/crawl/crawl-luajit"]
+	path = 01_open/06_function/09_game/99_others/crawl/crawl-luajit
+	url = https://github.com/crawl/crawl-luajit.git
+[submodule "01_open/06_function/09_game/99_others/crawl/crawl-lua"]
+	path = 01_open/06_function/09_game/99_others/crawl/crawl-lua
+	url = https://github.com/crawl/crawl-lua.git
+[submodule "01_open/06_function/09_game/99_others/crawl/crawl-libpng"]
+	path = 01_open/06_function/09_game/99_others/crawl/crawl-libpng
+	url = https://github.com/crawl/crawl-libpng.git
+[submodule "01_open/06_function/09_game/99_others/crawl/crawl-freetype"]
+	path = 01_open/06_function/09_game/99_others/crawl/crawl-freetype
+	url = https://github.com/crawl/crawl-freetype.git
+[submodule "01_open/06_function/09_game/99_others/crawl/crawl-fonts"]
+	path = 01_open/06_function/09_game/99_others/crawl/crawl-fonts
+	url = https://github.com/crawl/crawl-fonts.git
+[submodule "01_open/06_function/09_game/99_others/egoboo/idlib"]
+	path = 01_open/06_function/09_game/99_others/egoboo/idlib
+	url = https://github.com/egoboo/idlib.git
+[submodule "01_open/06_function/09_game/99_others/clintbellanger/flare-engine"]
+	path = 01_open/06_function/09_game/99_others/clintbellanger/flare-engine
+	url = https://github.com/clintbellanger/flare-engine.git
+[submodule "01_open/06_function/09_game/99_others/egoboo/egoboo-external"]
+	path = 01_open/06_function/09_game/99_others/egoboo/egoboo-external
+	url = https://github.com/egoboo/egoboo-external.git
+[submodule "01_open/06_function/09_game/99_others/crawl/sdl-android"]
+	path = 01_open/06_function/09_game/99_others/crawl/sdl-android
+	url = https://github.com/crawl/sdl-android.git
+[submodule "01_open/05_organization/wine/wine-gecko"]
+	path = 01_open/05_organization/wine/wine-gecko
+	url = https://cnsuhao@bitbucket.org/cnsuhao/wine-gecko.git
+[submodule "01_open/06_function/09_game/99_others/egoboo/egoboo"]
+	path = 01_open/06_function/09_game/99_others/egoboo/egoboo
+	url = https://github.com/egoboo/egoboo.git
+[submodule "01_open/06_function/09_game/99_others/clintbellanger/flare-game"]
+	path = 01_open/06_function/09_game/99_others/clintbellanger/flare-game
+	url = https://github.com/clintbellanger/flare-game.git
+[submodule "01_open/06_function/09_game/99_others/gerstrong/GsKit"]
+	path = 01_open/06_function/09_game/99_others/gerstrong/GsKit
+	url = https://github.com/gerstrong/GsKit.git
+[submodule "01_open/06_function/09_game/02_native/platform/gl00my/catesc"]
+	path = 01_open/06_function/09_game/02_native/platform/gl00my/catesc
+	url = https://github.com/gl00my/catesc.git
+[submodule "01_open/06_function/09_game/02_native/platform/voithos/elemental-one"]
+	path = 01_open/06_function/09_game/02_native/platform/voithos/elemental-one
+	url = https://github.com/voithos/elemental-one.git
+[submodule "01_open/06_function/09_game/99_others/frogatto/weregild"]
+	path = 01_open/06_function/09_game/99_others/frogatto/weregild
+	url = https://github.com/frogatto/weregild.git
+[submodule "01_open/06_function/09_game/02_native/platform/blinry/gish"]
+	path = 01_open/06_function/09_game/02_native/platform/blinry/gish
+	url = https://github.com/blinry/gish.git
+[submodule "01_open/06_function/09_game/02_native/platform/amiruqdah/mario-party"]
+	path = 01_open/06_function/09_game/02_native/platform/amiruqdah/mario-party
+	url = https://github.com/amiruqdah/mario-party.git
+[submodule "01_open/06_function/09_game/02_native/platform/justinmeister/Mario-Level-1"]
+	path = 01_open/06_function/09_game/02_native/platform/justinmeister/Mario-Level-1
+	url = https://github.com/justinmeister/Mario-Level-1.git
+[submodule "01_open/06_function/09_game/99_others/Secretchronicles/Settingseditor"]
+	path = 01_open/06_function/09_game/99_others/Secretchronicles/Settingseditor
+	url = https://github.com/Secretchronicles/Settingseditor.git
+[submodule "01_open/06_function/09_game/02_native/platform/gerstrong/Commander-Genius"]
+	path = 01_open/06_function/09_game/02_native/platform/gerstrong/Commander-Genius
+	url = https://github.com/gerstrong/Commander-Genius.git
+[submodule "01_open/06_function/09_game/99_others/SuperTux/physfs"]
+	path = 01_open/06_function/09_game/99_others/SuperTux/physfs
+	url = https://github.com/SuperTux/physfs.git
+[submodule "01_open/06_function/09_game/99_others/SuperTux/tinygettext"]
+	path = 01_open/06_function/09_game/99_others/SuperTux/tinygettext
+	url = https://github.com/SuperTux/tinygettext.git
+[submodule "01_open/06_function/09_game/02_native/platform/Hirnbix/captain-holetooth"]
+	path = 01_open/06_function/09_game/02_native/platform/Hirnbix/captain-holetooth
+	url = https://github.com/Hirnbix/captain-holetooth.git
+[submodule "01_open/06_function/09_game/99_others/SuperTux/SDL_ttf"]
+	path = 01_open/06_function/09_game/99_others/SuperTux/SDL_ttf
+	url = https://github.com/SuperTux/SDL_ttf.git
+[submodule "01_open/06_function/09_game/99_others/SuperTux/squirrel"]
+	path = 01_open/06_function/09_game/99_others/SuperTux/squirrel
+	url = https://github.com/SuperTux/squirrel.git
+[submodule "01_open/06_function/09_game/99_others/SuperTux/sexp-cpp"]
+	path = 01_open/06_function/09_game/99_others/SuperTux/sexp-cpp
+	url = https://github.com/SuperTux/sexp-cpp.git
+[submodule "01_open/06_function/09_game/99_others/SuperTux/portable"]
+	path = 01_open/06_function/09_game/99_others/SuperTux/portable
+	url = https://github.com/SuperTux/portable.git
+[submodule "01_open/06_function/09_game/02_native/platform/FluXy/SMC"]
+	path = 01_open/06_function/09_game/02_native/platform/FluXy/SMC
+	url = https://github.com/FluXy/SMC.git
+[submodule "01_open/06_function/09_game/02_native/puzzle_card_board/tiehuis/2048-cli"]
+	path = 01_open/06_function/09_game/02_native/puzzle_card_board/tiehuis/2048-cli
+	url = https://github.com/tiehuis/2048-cli.git
+[submodule "01_open/06_function/09_game/99_others/tiehuis/libhcs"]
+	path = 01_open/06_function/09_game/99_others/tiehuis/libhcs
+	url = https://github.com/tiehuis/libhcs.git
+[submodule "01_open/06_function/09_game/02_native/puzzle_card_board/alewmoose/2048-in-terminal"]
+	path = 01_open/06_function/09_game/02_native/puzzle_card_board/alewmoose/2048-in-terminal
+	url = https://github.com/alewmoose/2048-in-terminal.git
+[submodule "01_open/06_function/09_game/02_native/platform/hawkthorne/hawkthorne-journey"]
+	path = 01_open/06_function/09_game/02_native/platform/hawkthorne/hawkthorne-journey
+	url = https://github.com/hawkthorne/hawkthorne-journey.git
+[submodule "01_open/06_function/09_game/02_native/puzzle_card_board/paulbatum/Dominion"]
+	path = 01_open/06_function/09_game/02_native/puzzle_card_board/paulbatum/Dominion
+	url = https://github.com/paulbatum/Dominion.git
+[submodule "01_open/06_function/09_game/02_native/puzzle_card_board/karussell/EbbeFlut"]
+	path = 01_open/06_function/09_game/02_native/puzzle_card_board/karussell/EbbeFlut
+	url = https://github.com/karussell/EbbeFlut.git
+[submodule "01_open/06_function/09_game/02_native/puzzle_card_board/gamebytes/irmingard-backbone"]
+	path = 01_open/06_function/09_game/02_native/puzzle_card_board/gamebytes/irmingard-backbone
+	url = https://github.com/gamebytes/irmingard-backbone.git
+[submodule "01_open/06_function/09_game/02_native/puzzle_card_board/cout-hello-world/tictactoe"]
+	path = 01_open/06_function/09_game/02_native/puzzle_card_board/cout-hello-world/tictactoe
+	url = https://github.com/cout-hello-world/tictactoe.git
+[submodule "01_open/06_function/09_game/02_native/puzzle_card_board/KOBUGE-Games/minilens"]
+	path = 01_open/06_function/09_game/02_native/puzzle_card_board/KOBUGE-Games/minilens
+	url = https://github.com/KOBUGE-Games/minilens.git
+[submodule "01_open/06_function/09_game/02_native/puzzle_card_board/zeDoctor/PuzzleDash"]
+	path = 01_open/06_function/09_game/02_native/puzzle_card_board/zeDoctor/PuzzleDash
+	url = https://github.com/zeDoctor/PuzzleDash.git
+[submodule "01_open/06_function/09_game/02_native/puzzle_card_board/DusteDdk/Wizznic"]
+	path = 01_open/06_function/09_game/02_native/puzzle_card_board/DusteDdk/Wizznic
+	url = https://github.com/DusteDdk/Wizznic.git
+[submodule "01_open/06_function/09_game/99_others/supertuxkart/stk-editor"]
+	path = 01_open/06_function/09_game/99_others/supertuxkart/stk-editor
+	url = https://github.com/supertuxkart/stk-editor.git
+[submodule "01_open/06_function/09_game/02_native/platform/SuperTux/supertux"]
+	path = 01_open/06_function/09_game/02_native/platform/SuperTux/supertux
+	url = https://github.com/SuperTux/supertux.git
+[submodule "01_open/06_function/09_game/99_others/Benau/libopenglrecorder"]
+	path = 01_open/06_function/09_game/99_others/Benau/libopenglrecorder
+	url = https://github.com/Benau/libopenglrecorder.git
+[submodule "01_open/06_function/09_game/02_native/puzzle_card_board/segrax/DrCreep"]
+	path = 01_open/06_function/09_game/02_native/puzzle_card_board/segrax/DrCreep
+	url = https://github.com/segrax/DrCreep.git
+[submodule "01_open/06_function/99_others/zeDoctor/GeoJumble"]
+	path = 01_open/06_function/99_others/zeDoctor/GeoJumble
+	url = https://github.com/zeDoctor/GeoJumble.git
+[submodule "01_open/06_function/09_game/99_others/supertuxkart/dependencies"]
+	path = 01_open/06_function/09_game/99_others/supertuxkart/dependencies
+	url = https://github.com/supertuxkart/dependencies.git
+[submodule "01_open/06_function/09_game/99_others/KOBUGE-Games/space-settlers"]
+	path = 01_open/06_function/09_game/99_others/KOBUGE-Games/space-settlers
+	url = https://github.com/KOBUGE-Games/space-settlers.git
+[submodule "01_open/06_function/09_game/02_native/platform/riksweeney/edgar"]
+	path = 01_open/06_function/09_game/02_native/platform/riksweeney/edgar
+	url = https://github.com/riksweeney/edgar.git
+[submodule "01_open/06_function/09_game/02_native/platform/Secretchronicles/TSC"]
+	path = 01_open/06_function/09_game/02_native/platform/Secretchronicles/TSC
+	url = https://github.com/Secretchronicles/TSC.git
+[submodule "01_open/06_function/09_game/99_others/samuncle/godot"]
+	path = 01_open/06_function/09_game/99_others/samuncle/godot
+	url = https://github.com/samuncle/godot.git
+[submodule "01_open/06_function/09_game/02_native/racing/supertuxkart/stk-code"]
+	path = 01_open/06_function/09_game/02_native/racing/supertuxkart/stk-code
+	url = https://github.com/supertuxkart/stk-code.git
+[submodule "01_open/06_function/09_game/99_others/stuntrally/blendfiles"]
+	path = 01_open/06_function/09_game/99_others/stuntrally/blendfiles
+	url = https://github.com/stuntrally/blendfiles.git
+[submodule "01_open/06_function/09_game/99_others/frogatto/Cube_Trains_Redux"]
+	path = 01_open/06_function/09_game/99_others/frogatto/Cube_Trains_Redux
+	url = https://github.com/frogatto/Cube_Trains_Redux.git
+[submodule "01_open/06_function/09_game/02_native/racing/stuntrally/stuntrally"]
+	path = 01_open/06_function/09_game/02_native/racing/stuntrally/stuntrally
+	url = https://github.com/stuntrally/stuntrally.git
+[submodule "01_open/06_function/09_game/02_native/platform/frogatto/frogatto"]
+	path = 01_open/06_function/09_game/02_native/platform/frogatto/frogatto
+	url = https://github.com/frogatto/frogatto.git
