@@ -1489,3 +1489,729 @@
 [submodule "01_open/06_function/09_game/02_native/platform/frogatto/frogatto"]
 	path = 01_open/06_function/09_game/02_native/platform/frogatto/frogatto
 	url = https://github.com/frogatto/frogatto.git
+[submodule "01_open/06_function/01_ui/50_uilib/loveamy/duilib"]
+	path = 01_open/06_function/01_ui/50_uilib/loveamy/duilib
+	url = https://github.com/loveamy/duilib.git
+[submodule "01_open/99_others/dwfangyang/d2dplayer"]
+	path = 01_open/99_others/dwfangyang/d2dplayer
+	url = https://github.com/dwfangyang/d2dplayer.git
+[submodule "01_open/99_others/JoKaWare/GViews"]
+	path = 01_open/99_others/JoKaWare/GViews
+	url = https://github.com/JoKaWare/GViews.git
+[submodule "01_open/99_others/xuxiandi/x-framework"]
+	path = 01_open/99_others/xuxiandi/x-framework
+	url = https://github.com/xuxiandi/x-framework.git
+[submodule "01_open/06_function/01_ui/50_uilib/lehoon/duiengine"]
+	path = 01_open/06_function/01_ui/50_uilib/lehoon/duiengine
+	url = https://github.com/lehoon/duiengine.git
+[submodule "01_open/06_function/01_ui/50_uilib/wxz879526/UIEngine"]
+	path = 01_open/06_function/01_ui/50_uilib/wxz879526/UIEngine
+	url = https://github.com/wxz879526/UIEngine.git
+[submodule "01_open/99_others/JieYingZe/x-framework"]
+	path = 01_open/99_others/JieYingZe/x-framework
+	url = https://github.com/JieYingZe/x-framework.git
+[submodule "01_open/06_function/01_ui/50_uilib/wjl158/UIEdit"]
+	path = 01_open/06_function/01_ui/50_uilib/wjl158/UIEdit
+	url = https://github.com/wjl158/UIEdit.git
+[submodule "01_open/99_others/wjl158/cefutil"]
+	path = 01_open/99_others/wjl158/cefutil
+	url = https://github.com/wjl158/cefutil.git
+[submodule "01_open/99_others/qdtroy/aapt"]
+	path = 01_open/99_others/qdtroy/aapt
+	url = https://github.com/qdtroy/aapt.git
+[submodule "01_open/06_function/01_ui/50_uilib/wjl158/DuiLib_Ultimate"]
+	path = 01_open/06_function/01_ui/50_uilib/wjl158/DuiLib_Ultimate
+	url = https://github.com/wjl158/DuiLib_Ultimate.git
+[submodule "01_open/06_function/01_ui/50_uilib/qdtroy/duisharp"]
+	path = 01_open/06_function/01_ui/50_uilib/qdtroy/duisharp
+	url = https://github.com/qdtroy/duisharp.git
+[submodule "01_open/99_others/qdtroy/bbwallpaper"]
+	path = 01_open/99_others/qdtroy/bbwallpaper
+	url = https://github.com/qdtroy/bbwallpaper.git
+[submodule "01_open/06_function/01_ui/50_uilib/qdtroy/DuiLib_Ultimate"]
+	path = 01_open/06_function/01_ui/50_uilib/qdtroy/DuiLib_Ultimate
+	url = https://github.com/qdtroy/DuiLib_Ultimate.git
+[submodule "01_open/99_others/qdtroy/MPFUI"]
+	path = 01_open/99_others/qdtroy/MPFUI
+	url = https://github.com/qdtroy/MPFUI.git
+[submodule "01_open/99_others/qdtroy/wke"]
+	path = 01_open/99_others/qdtroy/wke
+	url = https://github.com/qdtroy/wke.git
+[submodule "01_open/06_function/01_ui/50_uilib/china20/MPFUI"]
+	path = 01_open/06_function/01_ui/50_uilib/china20/MPFUI
+	url = https://github.com/china20/MPFUI.git
+[submodule "01_open/99_others/qdtroy/sqlite3secure"]
+	path = 01_open/99_others/qdtroy/sqlite3secure
+	url = https://github.com/qdtroy/sqlite3secure.git
+[submodule "01_open/99_others/robchou/sqlite3secure"]
+	path = 01_open/99_others/robchou/sqlite3secure
+	url = https://github.com/robchou/sqlite3secure.git
+[submodule "01_open/99_others/robchou/NativeBinder"]
+	path = 01_open/99_others/robchou/NativeBinder
+	url = https://github.com/robchou/NativeBinder.git
+[submodule "01_open/99_others/china20/blinkgc"]
+	path = 01_open/99_others/china20/blinkgc
+	url = https://github.com/china20/blinkgc.git
+[submodule "01_open/99_others/china20/TempUI"]
+	path = 01_open/99_others/china20/TempUI
+	url = https://github.com/china20/TempUI.git
+[submodule "01_open/06_function/01_ui/50_uilib/sunnycase/MPF"]
+	path = 01_open/06_function/01_ui/50_uilib/sunnycase/MPF
+	url = https://github.com/sunnycase/MPF.git
+[submodule "01_open/99_others/china20/simplest_ffmpeg_player"]
+	path = 01_open/99_others/china20/simplest_ffmpeg_player
+	url = https://github.com/china20/simplest_ffmpeg_player.git
+[submodule "01_open/99_others/china20/JUCE"]
+	path = 01_open/99_others/china20/JUCE
+	url = https://github.com/china20/JUCE.git
+[submodule "01_open/99_others/cexer/wke"]
+	path = 01_open/99_others/cexer/wke
+	url = https://github.com/cexer/wke.git
+[submodule "01_open/99_others/china20/MetroWindow"]
+	path = 01_open/99_others/china20/MetroWindow
+	url = https://github.com/china20/MetroWindow.git
+[submodule "01_open/99_others/avlee/MetroWindow"]
+	path = 01_open/99_others/avlee/MetroWindow
+	url = https://github.com/avlee/MetroWindow.git
+[submodule "01_open/99_others/china20/libxstudio365"]
+	path = 01_open/99_others/china20/libxstudio365
+	url = https://github.com/china20/libxstudio365.git
+[submodule "01_open/99_others/xubingyue/libxstudio365"]
+	path = 01_open/99_others/xubingyue/libxstudio365
+	url = https://github.com/xubingyue/libxstudio365.git
+[submodule "01_open/99_others/avlee/mapnik-deps"]
+	path = 01_open/99_others/avlee/mapnik-deps
+	url = https://github.com/avlee/mapnik-deps.git
+[submodule "01_open/99_others/china20/dolphin-player"]
+	path = 01_open/99_others/china20/dolphin-player
+	url = https://github.com/china20/dolphin-player.git
+[submodule "01_open/99_others/china20/lomox"]
+	path = 01_open/99_others/china20/lomox
+	url = https://github.com/china20/lomox.git
+[submodule "01_open/99_others/china20/htmlcxx"]
+	path = 01_open/99_others/china20/htmlcxx
+	url = https://github.com/china20/htmlcxx.git
+[submodule "01_open/99_others/robchou/SQLiteWrapper"]
+	path = 01_open/99_others/robchou/SQLiteWrapper
+	url = https://github.com/robchou/SQLiteWrapper.git
+[submodule "01_open/99_others/china20/vlc-android"]
+	path = 01_open/99_others/china20/vlc-android
+	url = https://github.com/china20/vlc-android.git
+[submodule "01_open/99_others/china20/vlc"]
+	path = 01_open/99_others/china20/vlc
+	url = https://github.com/china20/vlc.git
+[submodule "01_open/99_others/china20/skia"]
+	path = 01_open/99_others/china20/skia
+	url = https://github.com/china20/skia.git
+[submodule "01_open/99_others/robchou/cmake_study"]
+	path = 01_open/99_others/robchou/cmake_study
+	url = https://github.com/robchou/cmake_study.git
+[submodule "01_open/99_others/sailorhero/cmake_study"]
+	path = 01_open/99_others/sailorhero/cmake_study
+	url = https://github.com/sailorhero/cmake_study.git
+[submodule "01_open/05_organization/google/skia"]
+	path = 01_open/05_organization/google/skia
+	url = https://github.com/google/skia.git
+[submodule "01_open/99_others/robchou/ijkplayer"]
+	path = 01_open/99_others/robchou/ijkplayer
+	url = https://github.com/robchou/ijkplayer.git
+[submodule "01_open/99_others/robchou/android-ndk"]
+	path = 01_open/99_others/robchou/android-ndk
+	url = https://github.com/robchou/android-ndk.git
+[submodule "01_open/99_others/robchou/CppSQLite"]
+	path = 01_open/99_others/robchou/CppSQLite
+	url = https://github.com/robchou/CppSQLite.git
+[submodule "01_open/99_others/robchou/easysqlite"]
+	path = 01_open/99_others/robchou/easysqlite
+	url = https://github.com/robchou/easysqlite.git
+[submodule "01_open/99_others/robchou/shadowsocks-qt5"]
+	path = 01_open/99_others/robchou/shadowsocks-qt5
+	url = https://github.com/robchou/shadowsocks-qt5.git
+[submodule "01_open/99_others/china20/xbmc"]
+	path = 01_open/99_others/china20/xbmc
+	url = https://github.com/china20/xbmc.git
+[submodule "01_open/99_others/robchou/WrapBinder"]
+	path = 01_open/99_others/robchou/WrapBinder
+	url = https://github.com/robchou/WrapBinder.git
+[submodule "01_open/99_others/robchou/qemu"]
+	path = 01_open/99_others/robchou/qemu
+	url = https://github.com/robchou/qemu.git
+[submodule "01_open/99_others/aestesis/elektronika"]
+	path = 01_open/99_others/aestesis/elektronika
+	url = https://github.com/aestesis/elektronika.git
+[submodule "01_open/99_others/robchou/sqlitencrypt"]
+	path = 01_open/99_others/robchou/sqlitencrypt
+	url = https://github.com/robchou/sqlitencrypt.git
+[submodule "01_open/99_others/BlzFans/wke"]
+	path = 01_open/99_others/BlzFans/wke
+	url = https://github.com/BlzFans/wke.git
+[submodule "01_open/99_others/cexer/EAWebKit"]
+	path = 01_open/99_others/cexer/EAWebKit
+	url = https://github.com/cexer/EAWebKit.git
+[submodule "01_open/99_others/cexer/berkelium"]
+	path = 01_open/99_others/cexer/berkelium
+	url = https://github.com/cexer/berkelium.git
+[submodule "01_open/99_others/cexer/miniwebkit_blink"]
+	path = 01_open/99_others/cexer/miniwebkit_blink
+	url = https://github.com/cexer/miniwebkit_blink.git
+[submodule "01_open/99_others/cexer/phantomjs"]
+	path = 01_open/99_others/cexer/phantomjs
+	url = https://github.com/cexer/phantomjs.git
+[submodule "01_open/99_others/miniwebkit/miniwebkit_blink"]
+	path = 01_open/99_others/miniwebkit/miniwebkit_blink
+	url = https://github.com/miniwebkit/miniwebkit_blink.git
+[submodule "01_open/99_others/miniwebkit/src"]
+	path = 01_open/99_others/miniwebkit/src
+	url = https://github.com/miniwebkit/src.git
+[submodule "01_open/99_others/cexer/v7"]
+	path = 01_open/99_others/cexer/v7
+	url = https://github.com/cexer/v7.git
+[submodule "01_open/99_others/cexer/src"]
+	path = 01_open/99_others/cexer/src
+	url = https://github.com/cexer/src.git
+[submodule "01_open/99_others/weolar/blinkgc"]
+	path = 01_open/99_others/weolar/blinkgc
+	url = https://github.com/weolar/blinkgc.git
+[submodule "01_open/99_others/sunnycase/ork"]
+	path = 01_open/99_others/sunnycase/ork
+	url = https://github.com/sunnycase/ork.git
+[submodule "01_open/99_others/sunnycase/Tomato.Media"]
+	path = 01_open/99_others/sunnycase/Tomato.Media
+	url = https://github.com/sunnycase/Tomato.Media.git
+[submodule "01_open/99_others/sunnycase/PublicProjects"]
+	path = 01_open/99_others/sunnycase/PublicProjects
+	url = https://github.com/sunnycase/PublicProjects.git
+[submodule "01_open/99_others/sunnycase/fancy2d"]
+	path = 01_open/99_others/sunnycase/fancy2d
+	url = https://github.com/sunnycase/fancy2d.git
+[submodule "01_open/99_others/sunnycase/TrafficSignRecognizer"]
+	path = 01_open/99_others/sunnycase/TrafficSignRecognizer
+	url = https://github.com/sunnycase/TrafficSignRecognizer.git
+[submodule "01_open/99_others/sunnycase/MoeSprite"]
+	path = 01_open/99_others/sunnycase/MoeSprite
+	url = https://github.com/sunnycase/MoeSprite.git
+[submodule "01_open/99_others/sunnycase/OsuLocal"]
+	path = 01_open/99_others/sunnycase/OsuLocal
+	url = https://github.com/sunnycase/OsuLocal.git
+[submodule "01_open/99_others/sunnycase/TomatoOS"]
+	path = 01_open/99_others/sunnycase/TomatoOS
+	url = https://github.com/sunnycase/TomatoOS.git
+[submodule "01_open/99_others/sunnycase/Tomato.ASIK"]
+	path = 01_open/99_others/sunnycase/Tomato.ASIK
+	url = https://github.com/sunnycase/Tomato.ASIK.git
+[submodule "01_open/99_others/avlee/mapnik"]
+	path = 01_open/99_others/avlee/mapnik
+	url = https://github.com/avlee/mapnik.git
+[submodule "01_open/99_others/mapnik/mapnik"]
+	path = 01_open/99_others/mapnik/mapnik
+	url = https://github.com/mapnik/mapnik.git
+[submodule "01_open/99_others/avlee/CefSharp"]
+	path = 01_open/99_others/avlee/CefSharp
+	url = https://github.com/avlee/CefSharp.git
+[submodule "01_open/99_others/xubingyue/whgame"]
+	path = 01_open/99_others/xubingyue/whgame
+	url = https://github.com/xubingyue/whgame.git
+[submodule "01_open/99_others/xubingyue/webcppd-example"]
+	path = 01_open/99_others/xubingyue/webcppd-example
+	url = https://github.com/xubingyue/webcppd-example.git
+[submodule "01_open/99_others/danielrh/berkelium"]
+	path = 01_open/99_others/danielrh/berkelium
+	url = https://github.com/danielrh/berkelium.git
+[submodule "01_open/99_others/BlzFans/Torque2D"]
+	path = 01_open/99_others/BlzFans/Torque2D
+	url = https://github.com/BlzFans/Torque2D.git
+[submodule "01_open/99_others/BlzFans/Torque3D"]
+	path = 01_open/99_others/BlzFans/Torque3D
+	url = https://github.com/BlzFans/Torque3D.git
+[submodule "01_open/99_others/chukong/quick-cocos2d-x"]
+	path = 01_open/99_others/chukong/quick-cocos2d-x
+	url = https://github.com/chukong/quick-cocos2d-x.git
+[submodule "01_open/99_others/weolar/kdguigl"]
+	path = 01_open/99_others/weolar/kdguigl
+	url = https://github.com/weolar/kdguigl.git
+[submodule "01_open/99_others/LarsFlaeten/ssim"]
+	path = 01_open/99_others/LarsFlaeten/ssim
+	url = https://github.com/LarsFlaeten/ssim.git
+[submodule "01_open/99_others/LarsFlaeten/ork"]
+	path = 01_open/99_others/LarsFlaeten/ork
+	url = https://github.com/LarsFlaeten/ork.git
+[submodule "01_open/99_others/weolar/miniblink49"]
+	path = 01_open/99_others/weolar/miniblink49
+	url = https://github.com/weolar/miniblink49.git
+[submodule "01_open/99_others/LarsFlaeten/minimal_ork_app"]
+	path = 01_open/99_others/LarsFlaeten/minimal_ork_app
+	url = https://github.com/LarsFlaeten/minimal_ork_app.git
+[submodule "01_open/99_others/LarsFlaeten/crypto"]
+	path = 01_open/99_others/LarsFlaeten/crypto
+	url = https://github.com/LarsFlaeten/crypto.git
+[submodule "01_open/99_others/LarsFlaeten/starsdb"]
+	path = 01_open/99_others/LarsFlaeten/starsdb
+	url = https://github.com/LarsFlaeten/starsdb.git
+[submodule "01_open/99_others/LarsFlaeten/Proland_dev"]
+	path = 01_open/99_others/LarsFlaeten/Proland_dev
+	url = https://github.com/LarsFlaeten/Proland_dev.git
+[submodule "01_open/99_others/LarsFlaeten/simple_cpp_exec"]
+	path = 01_open/99_others/LarsFlaeten/simple_cpp_exec
+	url = https://github.com/LarsFlaeten/simple_cpp_exec.git
+[submodule "01_open/99_others/LarsFlaeten/anttweakbar"]
+	path = 01_open/99_others/LarsFlaeten/anttweakbar
+	url = https://github.com/LarsFlaeten/anttweakbar.git
+[submodule "01_open/99_others/mapnik/node-mapnik"]
+	path = 01_open/99_others/mapnik/node-mapnik
+	url = https://github.com/mapnik/node-mapnik.git
+[submodule "01_open/99_others/mapnik/clipper"]
+	path = 01_open/99_others/mapnik/clipper
+	url = https://github.com/mapnik/clipper.git
+[submodule "01_open/99_others/mapnik/geowave-plugin"]
+	path = 01_open/99_others/mapnik/geowave-plugin
+	url = https://github.com/mapnik/geowave-plugin.git
+[submodule "01_open/99_others/mapnik/Ruby-Mapnik"]
+	path = 01_open/99_others/mapnik/Ruby-Mapnik
+	url = https://github.com/mapnik/Ruby-Mapnik.git
+[submodule "01_open/99_others/mapnik/non-core-plugins"]
+	path = 01_open/99_others/mapnik/non-core-plugins
+	url = https://github.com/mapnik/non-core-plugins.git
+[submodule "01_open/99_others/mapnik/create_rtree"]
+	path = 01_open/99_others/mapnik/create_rtree
+	url = https://github.com/mapnik/create_rtree.git
+[submodule "01_open/99_others/mapnik/angus-clipper"]
+	path = 01_open/99_others/mapnik/angus-clipper
+	url = https://github.com/mapnik/angus-clipper.git
+[submodule "01_open/99_others/mapnik/hello-world-input-plugin"]
+	path = 01_open/99_others/mapnik/hello-world-input-plugin
+	url = https://github.com/mapnik/hello-world-input-plugin.git
+[submodule "01_open/99_others/mapnik/mapnik-geometry"]
+	path = 01_open/99_others/mapnik/mapnik-geometry
+	url = https://github.com/mapnik/mapnik-geometry.git
+[submodule "01_open/99_others/mapnik/carto-parser"]
+	path = 01_open/99_others/mapnik/carto-parser
+	url = https://github.com/mapnik/carto-parser.git
+[submodule "01_open/99_others/mapnik/pymapnik2"]
+	path = 01_open/99_others/mapnik/pymapnik2
+	url = https://github.com/mapnik/pymapnik2.git
+[submodule "01_open/99_others/chukong/programmers-guide-samples"]
+	path = 01_open/99_others/chukong/programmers-guide-samples
+	url = https://github.com/chukong/programmers-guide-samples.git
+[submodule "01_open/99_others/chukong/CocosVR"]
+	path = 01_open/99_others/chukong/CocosVR
+	url = https://github.com/chukong/CocosVR.git
+[submodule "01_open/99_others/chukong/CocosStudioJsonConvert"]
+	path = 01_open/99_others/chukong/CocosStudioJsonConvert
+	url = https://github.com/chukong/CocosStudioJsonConvert.git
+[submodule "01_open/99_others/chukong/deprecated-cocos-upgrade"]
+	path = 01_open/99_others/chukong/deprecated-cocos-upgrade
+	url = https://github.com/chukong/deprecated-cocos-upgrade.git
+[submodule "01_open/99_others/chukong/CocoStudioConnector"]
+	path = 01_open/99_others/chukong/CocoStudioConnector
+	url = https://github.com/chukong/CocoStudioConnector.git
+[submodule "01_open/99_others/chukong/cocos-reader"]
+	path = 01_open/99_others/chukong/cocos-reader
+	url = https://github.com/chukong/cocos-reader.git
+[submodule "01_open/99_others/chukong/SampleGame-WagonWar"]
+	path = 01_open/99_others/chukong/SampleGame-WagonWar
+	url = https://github.com/chukong/SampleGame-WagonWar.git
+[submodule "01_open/99_others/chukong/SampleGame-SetTopBoxLauncher"]
+	path = 01_open/99_others/chukong/SampleGame-SetTopBoxLauncher
+	url = https://github.com/chukong/SampleGame-SetTopBoxLauncher.git
+[submodule "01_open/99_others/chukong/CocoStudioSamplesBasedOnCocos2d-x3.0"]
+	path = 01_open/99_others/chukong/CocoStudioSamplesBasedOnCocos2d-x3.0
+	url = https://github.com/chukong/CocoStudioSamplesBasedOnCocos2d-x3.0.git
+[submodule "01_open/99_others/calfjohn/StbProject"]
+	path = 01_open/99_others/calfjohn/StbProject
+	url = https://github.com/calfjohn/StbProject.git
+[submodule "01_open/99_others/chukong/SampleGame-2048"]
+	path = 01_open/99_others/chukong/SampleGame-2048
+	url = https://github.com/chukong/SampleGame-2048.git
+[submodule "01_open/99_others/chukong/CocosStudioSamples"]
+	path = 01_open/99_others/chukong/CocosStudioSamples
+	url = https://github.com/chukong/CocosStudioSamples.git
+[submodule "01_open/99_others/chukong/SampleGame-SushiCrush"]
+	path = 01_open/99_others/chukong/SampleGame-SushiCrush
+	url = https://github.com/chukong/SampleGame-SushiCrush.git
+[submodule "01_open/99_others/chukong/SampleGame-FishingJoy-Mini"]
+	path = 01_open/99_others/chukong/SampleGame-FishingJoy-Mini
+	url = https://github.com/chukong/SampleGame-FishingJoy-Mini.git
+[submodule "01_open/99_others/chukong/SampleGame-EarthWarrior3D"]
+	path = 01_open/99_others/chukong/SampleGame-EarthWarrior3D
+	url = https://github.com/chukong/SampleGame-EarthWarrior3D.git
+[submodule "01_open/99_others/chukong/SampleGame-FantasyWarrior3D"]
+	path = 01_open/99_others/chukong/SampleGame-FantasyWarrior3D
+	url = https://github.com/chukong/SampleGame-FantasyWarrior3D.git
+[submodule "01_open/99_others/chukong/SampleGame-CollectibleCardGame"]
+	path = 01_open/99_others/chukong/SampleGame-CollectibleCardGame
+	url = https://github.com/chukong/SampleGame-CollectibleCardGame.git
+[submodule "01_open/99_others/danielrh/losslessh264"]
+	path = 01_open/99_others/danielrh/losslessh264
+	url = https://github.com/danielrh/losslessh264.git
+[submodule "01_open/99_others/danielrh/dosbox3d"]
+	path = 01_open/99_others/danielrh/dosbox3d
+	url = https://github.com/danielrh/dosbox3d.git
+[submodule "01_open/99_others/danielrh/brotli"]
+	path = 01_open/99_others/danielrh/brotli
+	url = https://github.com/danielrh/brotli.git
+[submodule "01_open/99_others/danielrh/avrecode"]
+	path = 01_open/99_others/danielrh/avrecode
+	url = https://github.com/danielrh/avrecode.git
+[submodule "01_open/05_organization/dropbox/avrecode"]
+	path = 01_open/05_organization/dropbox/avrecode
+	url = https://github.com/dropbox/avrecode.git
+[submodule "01_open/05_organization/dropbox/onenote-parser"]
+	path = 01_open/05_organization/dropbox/onenote-parser
+	url = https://github.com/dropbox/onenote-parser.git
+[submodule "01_open/99_others/danielrh/zopfli"]
+	path = 01_open/99_others/danielrh/zopfli
+	url = https://github.com/danielrh/zopfli.git
+[submodule "01_open/05_organization/google/zopfli"]
+	path = 01_open/05_organization/google/zopfli
+	url = https://github.com/google/zopfli.git
+[submodule "01_open/99_others/danielrh/elysia"]
+	path = 01_open/99_others/danielrh/elysia
+	url = https://github.com/danielrh/elysia.git
+[submodule "01_open/99_others/danielrh/obstack"]
+	path = 01_open/99_others/danielrh/obstack
+	url = https://github.com/danielrh/obstack.git
+[submodule "01_open/99_others/danielrh/extractpdfannot"]
+	path = 01_open/99_others/danielrh/extractpdfannot
+	url = https://github.com/danielrh/extractpdfannot.git
+[submodule "01_open/99_others/danielrh/masteroforion2"]
+	path = 01_open/99_others/danielrh/masteroforion2
+	url = https://github.com/danielrh/masteroforion2.git
+[submodule "01_open/99_others/danielrh/EASTL"]
+	path = 01_open/99_others/danielrh/EASTL
+	url = https://github.com/danielrh/EASTL.git
+[submodule "01_open/99_others/danielrh/sirikata"]
+	path = 01_open/99_others/danielrh/sirikata
+	url = https://github.com/danielrh/sirikata.git
+[submodule "01_open/99_others/danielrh/protojs"]
+	path = 01_open/99_others/danielrh/protojs
+	url = https://github.com/danielrh/protojs.git
+[submodule "01_open/99_others/danielrh/pbj"]
+	path = 01_open/99_others/danielrh/pbj
+	url = https://github.com/danielrh/pbj.git
+[submodule "01_open/99_others/danielrh/prox"]
+	path = 01_open/99_others/danielrh/prox
+	url = https://github.com/danielrh/prox.git
+[submodule "01_open/99_others/danielrh/djinni"]
+	path = 01_open/99_others/danielrh/djinni
+	url = https://github.com/dropbox/djinni.git
+[submodule "01_open/05_organization/dropbox/json11"]
+	path = 01_open/05_organization/dropbox/json11
+	url = https://github.com/dropbox/json11.git
+[submodule "01_open/05_organization/dropbox/djinni"]
+	path = 01_open/05_organization/dropbox/djinni
+	url = https://github.com/dropbox/djinni.git
+[submodule "01_open/05_organization/dropbox/nn"]
+	path = 01_open/05_organization/dropbox/nn
+	url = https://github.com/dropbox/nn.git
+[submodule "01_open/05_organization/dropbox/lopper"]
+	path = 01_open/05_organization/dropbox/lopper
+	url = https://github.com/dropbox/lopper.git
+[submodule "01_open/99_others/elysia/elysia"]
+	path = 01_open/99_others/elysia/elysia
+	url = https://github.com/elysia/elysia.git
+[submodule "01_open/05_organization/google/protobuf"]
+	path = 01_open/05_organization/google/protobuf
+	url = https://github.com/google/protobuf.git
+[submodule "01_open/99_others/elysia/elysiawin32depends"]
+	path = 01_open/99_others/elysia/elysiawin32depends
+	url = https://github.com/elysia/elysiawin32depends.git
+[submodule "01_open/05_organization/google/googlesamples/android-ndk"]
+	path = 01_open/05_organization/google/googlesamples/android-ndk
+	url = https://github.com/googlesamples/android-ndk.git
+[submodule "01_open/99_others/neosmart/CppSQLite"]
+	path = 01_open/99_others/neosmart/CppSQLite
+	url = https://github.com/neosmart/CppSQLite.git
+[submodule "01_open/99_others/neosmart/open"]
+	path = 01_open/99_others/neosmart/open
+	url = https://github.com/neosmart/open.git
+[submodule "01_open/99_others/neosmart/uuidxx"]
+	path = 01_open/99_others/neosmart/uuidxx
+	url = https://github.com/neosmart/uuidxx.git
+[submodule "01_open/99_others/neosmart/nst-log"]
+	path = 01_open/99_others/neosmart/nst-log
+	url = https://github.com/neosmart/nst-log.git
+[submodule "01_open/99_others/neosmart/paste"]
+	path = 01_open/99_others/neosmart/paste
+	url = https://github.com/neosmart/paste.git
+[submodule "01_open/99_others/neosmart/RunInBash"]
+	path = 01_open/99_others/neosmart/RunInBash
+	url = https://github.com/neosmart/RunInBash.git
+[submodule "01_open/99_others/neosmart/pevents"]
+	path = 01_open/99_others/neosmart/pevents
+	url = https://github.com/neosmart/pevents.git
+[submodule "01_open/99_others/neosmart/run"]
+	path = 01_open/99_others/neosmart/run
+	url = https://github.com/neosmart/run.git
+[submodule "01_open/99_others/neosmart/hivexx"]
+	path = 01_open/99_others/neosmart/hivexx
+	url = https://github.com/neosmart/hivexx.git
+[submodule "01_open/99_others/neosmart/RWLock"]
+	path = 01_open/99_others/neosmart/RWLock
+	url = https://github.com/neosmart/RWLock.git
+[submodule "01_open/99_others/neosmart/ln-win"]
+	path = 01_open/99_others/neosmart/ln-win
+	url = https://github.com/neosmart/ln-win.git
+[submodule "01_open/05_organization/dropbox/percona-xtrabackup"]
+	path = 01_open/05_organization/dropbox/percona-xtrabackup
+	url = https://github.com/dropbox/percona-xtrabackup.git
+[submodule "01_open/05_organization/electron/electron"]
+	path = 01_open/05_organization/electron/electron
+	url = https://github.com/electron/electron.git
+[submodule "01_open/05_organization/electron/rcedit"]
+	path = 01_open/05_organization/electron/rcedit
+	url = https://github.com/electron/rcedit.git
+[submodule "01_open/05_organization/electron/crashpad"]
+	path = 01_open/05_organization/electron/crashpad
+	url = https://github.com/electron/crashpad.git
+[submodule "01_open/05_organization/electron/native-mate"]
+	path = 01_open/05_organization/electron/native-mate
+	url = https://github.com/electron/native-mate.git
+[submodule "01_open/99_others/JoKaWare/WTL-DUI"]
+	path = 01_open/99_others/JoKaWare/WTL-DUI
+	url = https://github.com/JoKaWare/WTL-DUI.git
+[submodule "01_open/99_others/wjl158/BesLyric"]
+	path = 01_open/99_others/wjl158/BesLyric
+	url = https://github.com/wjl158/BesLyric.git
+[submodule "01_open/99_others/wjl158/UIEngine"]
+	path = 01_open/99_others/wjl158/UIEngine
+	url = https://github.com/wxz879526/UIEngine.git
+[submodule "01_open/99_others/wjl158/TrinityCore"]
+	path = 01_open/99_others/wjl158/TrinityCore
+	url = https://github.com/wjl158/TrinityCore.git
+[submodule "01_open/99_others/wjl158/ApiDemos"]
+	path = 01_open/99_others/wjl158/ApiDemos
+	url = https://github.com/wxz879526/ApiDemos.git
+[submodule "01_open/99_others/wjl158/unp"]
+	path = 01_open/99_others/wjl158/unp
+	url = https://github.com/wxz879526/unp.git
+[submodule "01_open/99_others/wjl158/WinSockIOMode"]
+	path = 01_open/99_others/wjl158/WinSockIOMode
+	url = https://github.com/wxz879526/WinSockIOMode.git
+[submodule "01_open/99_others/wjl158/DirectXTutorial"]
+	path = 01_open/99_others/wjl158/DirectXTutorial
+	url = https://github.com/wxz879526/DirectXTutorial.git
+[submodule "01_open/99_others/wjl158/tdesktop"]
+	path = 01_open/99_others/wjl158/tdesktop
+	url = https://github.com/wxz879526/tdesktop.git
+[submodule "01_open/99_others/wjl158/ZeroMQ"]
+	path = 01_open/99_others/wjl158/ZeroMQ
+	url = https://github.com/wxz879526/ZeroMQ.git
+[submodule "01_open/99_others/wjl158/OpenGL"]
+	path = 01_open/99_others/wjl158/OpenGL
+	url = https://github.com/wxz879526/OpenGL.git
+[submodule "01_open/99_others/wjl158/OllyDbg"]
+	path = 01_open/99_others/wjl158/OllyDbg
+	url = https://github.com/wxz879526/OllyDbg.git
+[submodule "01_open/99_others/wjl158/TTAndroidClient"]
+	path = 01_open/99_others/wjl158/TTAndroidClient
+	url = https://github.com/wxz879526/TTAndroidClient.git
+[submodule "01_open/99_others/wjl158/GoogleTest_Demo"]
+	path = 01_open/99_others/wjl158/GoogleTest_Demo
+	url = https://github.com/wxz879526/GoogleTest_Demo.git
+[submodule "01_open/99_others/lehoon/scribe"]
+	path = 01_open/99_others/lehoon/scribe
+	url = https://github.com/lehoon/scribe.git
+[submodule "01_open/99_others/facebookarchive/ie-toolbar"]
+	path = 01_open/99_others/facebookarchive/ie-toolbar
+	url = https://github.com/facebookarchive/ie-toolbar.git
+[submodule "01_open/99_others/lehoon/core"]
+	path = 01_open/99_others/lehoon/core
+	url = https://github.com/lehoon/core.git
+[submodule "01_open/99_others/lehoon/muduo"]
+	path = 01_open/99_others/lehoon/muduo
+	url = https://github.com/lehoon/muduo.git
+[submodule "01_open/99_others/chenshuo/muduo"]
+	path = 01_open/99_others/chenshuo/muduo
+	url = https://github.com/chenshuo/muduo.git
+[submodule "01_open/99_others/chenshuo/recipes"]
+	path = 01_open/99_others/chenshuo/recipes
+	url = https://github.com/chenshuo/recipes.git
+[submodule "01_open/06_function/08_net/99_others/chaos"]
+	path = 01_open/06_function/08_net/99_others/chaos
+	url = https://github.com/lyjdamzwf/chaos.git
+[submodule "01_open/05_organization/opencv/opencv_contrib"]
+	path = 01_open/05_organization/opencv/opencv_contrib
+	url = https://github.com/opencv/opencv_contrib.git
+[submodule "01_open/99_others/lehoon/tfs"]
+	path = 01_open/99_others/lehoon/tfs
+	url = https://github.com/lehoon/tfs.git
+[submodule "01_open/05_organization/opencv/opencv"]
+	path = 01_open/05_organization/opencv/opencv
+	url = https://github.com/opencv/opencv.git
+[submodule "01_open/05_organization/alibaba/weex_js_engine"]
+	path = 01_open/05_organization/alibaba/weex_js_engine
+	url = https://github.com/alibaba/weex_js_engine.git
+[submodule "01_open/99_others/lehoon/sharpui"]
+	path = 01_open/99_others/lehoon/sharpui
+	url = https://github.com/lehoon/sharpui.git
+[submodule "01_open/06_function/01_ui/50_uilib/jameskeane/directui"]
+	path = 01_open/06_function/01_ui/50_uilib/jameskeane/directui
+	url = https://github.com/jameskeane/directui.git
+[submodule "01_open/06_function/01_ui/50_uilib/china520/sharpui"]
+	path = 01_open/06_function/01_ui/50_uilib/china520/sharpui
+	url = https://github.com/china520/sharpui.git
+[submodule "01_open/05_organization/opencv/opencv_3rdparty"]
+	path = 01_open/05_organization/opencv/opencv_3rdparty
+	url = https://github.com/opencv/opencv_3rdparty.git
+[submodule "01_open/06_function/01_ui/50_uilib/lehoon/gac"]
+	path = 01_open/06_function/01_ui/50_uilib/lehoon/gac
+	url = https://github.com/lehoon/gac.git
+[submodule "01_open/06_function/01_ui/50_uilib/vczh-libraries/Vlpp"]
+	path = 01_open/06_function/01_ui/50_uilib/vczh-libraries/Vlpp
+	url = https://github.com/vczh-libraries/Vlpp.git
+[submodule "01_open/06_function/01_ui/50_uilib/vczh-libraries/Tools"]
+	path = 01_open/06_function/01_ui/50_uilib/vczh-libraries/Tools
+	url = https://github.com/vczh-libraries/Tools.git
+[submodule "01_open/06_function/01_ui/50_uilib/vczh-libraries/Workflow"]
+	path = 01_open/06_function/01_ui/50_uilib/vczh-libraries/Workflow
+	url = https://github.com/vczh-libraries/Workflow.git
+[submodule "01_open/05_organization/opencv/opencv_extra"]
+	path = 01_open/05_organization/opencv/opencv_extra
+	url = https://github.com/opencv/opencv_extra.git
+[submodule "01_open/06_function/01_ui/50_uilib/vczh-libraries/Release"]
+	path = 01_open/06_function/01_ui/50_uilib/vczh-libraries/Release
+	url = https://github.com/vczh-libraries/Release.git
+[submodule "01_open/06_function/01_ui/50_uilib/vczh-libraries/XGac"]
+	path = 01_open/06_function/01_ui/50_uilib/vczh-libraries/XGac
+	url = https://github.com/vczh-libraries/XGac.git
+[submodule "01_open/05_organization/opencv/opencv_attic"]
+	path = 01_open/05_organization/opencv/opencv_attic
+	url = https://github.com/opencv/opencv_attic.git
+[submodule "01_open/06_function/01_ui/50_uilib/vczh-libraries/GacJS"]
+	path = 01_open/06_function/01_ui/50_uilib/vczh-libraries/GacJS
+	url = https://github.com/vczh-libraries/GacJS.git
+[submodule "01_open/06_function/01_ui/50_uilib/vczh-libraries/iGac"]
+	path = 01_open/06_function/01_ui/50_uilib/vczh-libraries/iGac
+	url = https://github.com/vczh-libraries/iGac.git
+[submodule "01_open/99_others/lehoon/cascadb"]
+	path = 01_open/99_others/lehoon/cascadb
+	url = https://github.com/lehoon/cascadb.git
+[submodule "01_open/99_others/lehoon/spring"]
+	path = 01_open/99_others/lehoon/spring
+	url = https://github.com/lehoon/spring.git
+[submodule "01_open/05_organization/facebook/folly"]
+	path = 01_open/05_organization/facebook/folly
+	url = https://github.com/facebook/folly.git
+[submodule "01_open/99_others/lehoon/TTKMusicplayer"]
+	path = 01_open/99_others/lehoon/TTKMusicplayer
+	url = https://github.com/lehoon/TTKMusicplayer.git
+[submodule "01_open/99_others/Encryption-Algorithms"]
+	path = 01_open/99_others/Encryption-Algorithms
+	url = https://github.com/Greedysky/Encryption-Algorithms.git
+[submodule "01_open/99_others/lehoon/duiengine"]
+	path = 01_open/99_others/lehoon/duiengine
+	url = https://github.com/lehoon/duiengine.git
+[submodule "01_open/05_organization/google/breakpad"]
+	path = 01_open/05_organization/google/breakpad
+	url = https://github.com/google/breakpad.git
+[submodule "01_open/99_others/lehoon/EasyDarwin"]
+	path = 01_open/99_others/lehoon/EasyDarwin
+	url = https://github.com/lehoon/EasyDarwin.git
+[submodule "01_open/99_others/lehoon/libfacedetection"]
+	path = 01_open/99_others/lehoon/libfacedetection
+	url = https://github.com/lehoon/libfacedetection.git
+[submodule "01_open/99_others/lehoon/gMaxLinked"]
+	path = 01_open/99_others/lehoon/gMaxLinked
+	url = https://github.com/lehoon/gMaxLinked.git
+[submodule "01_open/99_others/shoutrain/ComEgg"]
+	path = 01_open/99_others/shoutrain/ComEgg
+	url = https://github.com/shoutrain/ComEgg.git
+[submodule "01_open/99_others/lehoon/tdesktop"]
+	path = 01_open/99_others/lehoon/tdesktop
+	url = https://github.com/lehoon/tdesktop.git
+[submodule "01_open/99_others/lehoon/mapnik"]
+	path = 01_open/99_others/lehoon/mapnik
+	url = https://github.com/lehoon/mapnik.git
+[submodule "01_open/99_others/hooligan520/rocketmq-client4cpp-linux"]
+	path = 01_open/99_others/hooligan520/rocketmq-client4cpp-linux
+	url = https://github.com/hooligan520/rocketmq-client4cpp-linux.git
+[submodule "01_open/05_organization/alibaba/AliSQL"]
+	path = 01_open/05_organization/alibaba/AliSQL
+	url = https://github.com/alibaba/AliSQL.git
+[submodule "01_open/99_others/lehoon/BesLyric"]
+	path = 01_open/99_others/lehoon/BesLyric
+	url = https://github.com/BensonLaur/BesLyric.git
+[submodule "01_open/99_others/notepad-plus-plus"]
+	path = 01_open/99_others/notepad-plus-plus
+	url = https://github.com/notepad-plus-plus/notepad-plus-plus.git
+[submodule "01_open/99_others/hypertable/hypertable"]
+	path = 01_open/99_others/hypertable/hypertable
+	url = https://github.com/hypertable/hypertable.git
+[submodule "01_open/99_others/BearWare/TeamTalk5"]
+	path = 01_open/99_others/BearWare/TeamTalk5
+	url = https://github.com/BearWare/TeamTalk5.git
+[submodule "01_open/99_others/XadillaX/aliyun-ons"]
+	path = 01_open/99_others/XadillaX/aliyun-ons
+	url = https://github.com/XadillaX/aliyun-ons.git
+[submodule "01_open/99_others/mgjdafo/soui"]
+	path = 01_open/99_others/mgjdafo/soui
+	url = https://github.com/mgjdafo/soui.git
+[submodule "01_open/99_others/Subsurface-divelog/subsurface"]
+	path = 01_open/99_others/Subsurface-divelog/subsurface
+	url = https://github.com/Subsurface-divelog/subsurface.git
+[submodule "01_open/99_others/danquist/EventBus"]
+	path = 01_open/99_others/danquist/EventBus
+	url = https://github.com/danquist/EventBus.git
+[submodule "01_open/99_others/fibjs/fibjs"]
+	path = 01_open/99_others/fibjs/fibjs
+	url = https://github.com/fibjs/fibjs.git
+[submodule "01_open/99_others/fibjs/fibjs_vender"]
+	path = 01_open/99_others/fibjs/fibjs_vender
+	url = https://github.com/fibjs/fibjs_vender.git
+[submodule "01_open/99_others/sinpolib/sokit"]
+	path = 01_open/99_others/sinpolib/sokit
+	url = https://github.com/sinpolib/sokit.git
+[submodule "01_open/99_others/vintagewang/tuxone"]
+	path = 01_open/99_others/vintagewang/tuxone
+	url = https://github.com/vintagewang/tuxone.git
+[submodule "01_open/99_others/protobuf-c"]
+	path = 01_open/99_others/protobuf-c
+	url = https://github.com/protobuf-c/protobuf-c.git
+[submodule "01_open/05_organization/alibaba/oceanbase"]
+	path = 01_open/05_organization/alibaba/oceanbase
+	url = https://github.com/alibaba/oceanbase.git
+[submodule "01_open/99_others/eurekao/TTServerWin"]
+	path = 01_open/99_others/eurekao/TTServerWin
+	url = https://github.com/eurekao/TTServerWin.git
+[submodule "01_open/99_others/egmkang/green_turtle"]
+	path = 01_open/99_others/egmkang/green_turtle
+	url = https://github.com/egmkang/green_turtle.git
+[submodule "01_open/06_function/01_ui/50_uilib/XDuilib/XDuilib"]
+	path = 01_open/06_function/01_ui/50_uilib/XDuilib/XDuilib
+	url = https://github.com/XDuilib/XDuilib.git
+[submodule "01_open/99_others/Greedysky/TTKOCR"]
+	path = 01_open/99_others/Greedysky/TTKOCR
+	url = https://github.com/Greedysky/TTKOCR.git
+[submodule "01_open/99_others/Greedysky/TTKDownloader"]
+	path = 01_open/99_others/Greedysky/TTKDownloader
+	url = https://github.com/Greedysky/TTKDownloader.git
+[submodule "01_open/99_others/Greedysky/TTK2048"]
+	path = 01_open/99_others/Greedysky/TTK2048
+	url = https://github.com/Greedysky/TTK2048.git
+[submodule "01_open/99_others/Greedysky/TTKWeather"]
+	path = 01_open/99_others/Greedysky/TTKWeather
+	url = https://github.com/Greedysky/TTKWeather.git
+[submodule "01_open/99_others/Greedysky/TTKBarrage"]
+	path = 01_open/99_others/Greedysky/TTKBarrage
+	url = https://github.com/Greedysky/TTKBarrage.git
+[submodule "01_open/99_others/Greedysky/TTKPngHelper"]
+	path = 01_open/99_others/Greedysky/TTKPngHelper
+	url = https://github.com/Greedysky/TTKPngHelper.git
+[submodule "01_open/99_others/Greedysky/TTKDownloadLimit"]
+	path = 01_open/99_others/Greedysky/TTKDownloadLimit
+	url = https://github.com/Greedysky/TTKDownloadLimit.git
+[submodule "01_open/99_others/Greedysky/qmmp"]
+	path = 01_open/99_others/Greedysky/qmmp
+	url = https://github.com/Greedysky/qmmp.git
+[submodule "01_open/99_others/wang-bin/QtAV"]
+	path = 01_open/99_others/wang-bin/QtAV
+	url = https://github.com/wang-bin/QtAV.git
+[submodule "01_open/99_others/QNapi/qnapi"]
+	path = 01_open/99_others/QNapi/qnapi
+	url = https://github.com/QNapi/qnapi.git
+[submodule "01_open/99_others/QNapi/libmaia"]
+	path = 01_open/99_others/QNapi/libmaia
+	url = https://github.com/QNapi/libmaia.git
+[submodule "01_open/06_function/08_net/99_others/ldcsaa/HP-Socket"]
+	path = 01_open/06_function/08_net/99_others/ldcsaa/HP-Socket
+	url = https://github.com/ldcsaa/HP-Socket.git
