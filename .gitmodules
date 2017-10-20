@@ -2215,3 +2215,102 @@
 [submodule "01_open/06_function/08_net/99_others/ldcsaa/HP-Socket"]
 	path = 01_open/06_function/08_net/99_others/ldcsaa/HP-Socket
 	url = https://github.com/ldcsaa/HP-Socket.git
+[submodule "01_open/05_organization/google/googletest"]
+	path = 01_open/05_organization/google/googletest
+	url = https://github.com/google/googletest.git
+[submodule "01_open/05_organization/import-out-from-github/x-framework"]
+	path = 01_open/05_organization/import-out-from-github/x-framework
+	url = https://github.com/import-from-google-code/x-framework.git
+[submodule "01_open/05_organization/9miao/firefly"]
+	path = 01_open/05_organization/9miao/firefly
+	url = https://github.com/9miao/Firefly.git
+[submodule "01_open/05_organization/9miao/demila"]
+	path = 01_open/05_organization/9miao/demila
+	url = https://github.com/9miao/demila.git
+[submodule "01_open/05_organization/9miao/CartoonHouse"]
+	path = 01_open/05_organization/9miao/CartoonHouse
+	url = https://github.com/9miao/CartoonHouse.git
+[submodule "01_open/05_organization/9miao/Pocket-Warriors"]
+	path = 01_open/05_organization/9miao/Pocket-Warriors
+	url = https://github.com/9miao/Pocket-Warriors.git
+[submodule "01_open/05_organization/TrinityCore/minimanager"]
+	path = 01_open/05_organization/TrinityCore/minimanager
+	url = https://github.com/TrinityCore/minimanager.git
+[submodule "01_open/05_organization/TrinityCore/WowPacketParser"]
+	path = 01_open/05_organization/TrinityCore/WowPacketParser
+	url = https://github.com/TrinityCore/WowPacketParser.git
+[submodule "01_open/05_organization/TrinityCore/TrinityCore"]
+	path = 01_open/05_organization/TrinityCore/TrinityCore
+	url = https://github.com/TrinityCore/TrinityCore.git
+[submodule "01_open/05_organization/xbmc/xbmc-live"]
+	path = 01_open/05_organization/xbmc/xbmc-live
+	url = https://github.com/xbmc/xbmc-live.git
+[submodule "01_open/05_organization/9miao/CrossAPP"]
+	path = 01_open/05_organization/9miao/CrossAPP
+	url = https://github.com/9miao/CrossApp.git
+[submodule "01_open/05_organization/xbmc/skin.touched"]
+	path = 01_open/05_organization/xbmc/skin.touched
+	url = https://github.com/xbmc/skin.touched.git
+[submodule "01_open/05_organization/xbmc/libdvdcss"]
+	path = 01_open/05_organization/xbmc/libdvdcss
+	url = https://github.com/xbmc/libdvdcss.git
+[submodule "01_open/05_organization/xbmc/atv2"]
+	path = 01_open/05_organization/xbmc/atv2
+	url = https://github.com/xbmc/atv2.git
+[submodule "01_open/05_organization/xbmc/XBMCbuntu"]
+	path = 01_open/05_organization/xbmc/XBMCbuntu
+	url = https://github.com/xbmc/XBMCbuntu.git
+[submodule "01_open/05_organization/xbmc/skin.re-touched"]
+	path = 01_open/05_organization/xbmc/skin.re-touched
+	url = https://github.com/xbmc/skin.re-touched.git
+[submodule "01_open/05_organization/xbmc/fontconfig"]
+	path = 01_open/05_organization/xbmc/fontconfig
+	url = https://github.com/xbmc/fontconfig.git
+[submodule "01_open/05_organization/xbmc/lzo2"]
+	path = 01_open/05_organization/xbmc/lzo2
+	url = https://github.com/xbmc/lzo2.git
+[submodule "01_open/06_function/08_net/99_others/damageboy/uftp"]
+	path = 01_open/06_function/08_net/99_others/damageboy/uftp
+	url = https://github.com/damageboy/uftp.git
+[submodule "01_open/05_organization/xbmc/android"]
+	path = 01_open/05_organization/xbmc/android
+	url = https://github.com/xbmc/android.git
+[submodule "01_open/05_organization/xbmc/xbmc-rbp"]
+	path = 01_open/05_organization/xbmc/xbmc-rbp
+	url = https://github.com/xbmc/xbmc-rbp.git
+[submodule "01_open/05_organization/xbmc/antiquated"]
+	path = 01_open/05_organization/xbmc/antiquated
+	url = https://github.com/xbmc/xbmc-antiquated.git
+[submodule "01_open/05_organization/xbmc/libssh"]
+	path = 01_open/05_organization/xbmc/libssh
+	url = https://github.com/xbmc/libssh.git
+[submodule "01_open/05_organization/xbmc/libmicrohttpd"]
+	path = 01_open/05_organization/xbmc/libmicrohttpd
+	url = https://github.com/xbmc/libmicrohttpd.git
+[submodule "01_open/05_organization/xbmc/xbmc-forum"]
+	path = 01_open/05_organization/xbmc/xbmc-forum
+	url = https://github.com/xbmc/xbmc-forum.git
+[submodule "01_open/05_organization/xbmc/libcec"]
+	path = 01_open/05_organization/xbmc/libcec
+	url = https://github.com/xbmc/libcec.git
+[submodule "01_open/05_organization/xbmc/Pulse-Eight/platform"]
+	path = 01_open/05_organization/xbmc/Pulse-Eight/platform
+	url = https://github.com/Pulse-Eight/platform.git
+[submodule "01_open/05_organization/xbmc/yajl"]
+	path = 01_open/05_organization/xbmc/yajl
+	url = https://github.com/xbmc/yajl.git
+[submodule "01_open/05_organization/xbmc/curl"]
+	path = 01_open/05_organization/xbmc/curl
+	url = https://github.com/xbmc/curl.git
+[submodule "01_open/05_organization/curl/curl-fuzzer"]
+	path = 01_open/05_organization/curl/curl-fuzzer
+	url = https://github.com/curl/curl-fuzzer.git
+[submodule "01_open/05_organization/curl/curl"]
+	path = 01_open/05_organization/curl/curl
+	url = https://github.com/curl/curl.git
+[submodule "01_open/05_organization/xbmc/expat"]
+	path = 01_open/05_organization/xbmc/expat
+	url = https://github.com/xbmc/expat.git
+[submodule "01_open/05_organization/xbmc/xbmc-packaging"]
+	path = 01_open/05_organization/xbmc/xbmc-packaging
+	url = https://github.com/xbmc/xbmc-packaging.git
