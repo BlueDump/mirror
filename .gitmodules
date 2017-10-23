@@ -2314,3 +2314,519 @@
 [submodule "01_open/05_organization/xbmc/xbmc-packaging"]
 	path = 01_open/05_organization/xbmc/xbmc-packaging
 	url = https://github.com/xbmc/xbmc-packaging.git
+[submodule "01_open/05_organization/xbmc/slack-irc"]
+	path = 01_open/05_organization/xbmc/slack-irc
+	url = https://github.com/xbmc/slack-irc.git
+[submodule "01_open/05_organization/xbmc/libdvdread"]
+	path = 01_open/05_organization/xbmc/libdvdread
+	url = https://github.com/xbmc/libdvdread.git
+[submodule "01_open/05_organization/xbmc/TinyXML"]
+	path = 01_open/05_organization/xbmc/TinyXML
+	url = https://github.com/xbmc/TinyXML.git
+[submodule "01_open/05_organization/xbmc/shairplay"]
+	path = 01_open/05_organization/xbmc/shairplay
+	url = https://github.com/xbmc/shairplay.git
+[submodule "01_open/99_others/juhovh/libasf"]
+	path = 01_open/99_others/juhovh/libasf
+	url = https://github.com/juhovh/libasf.git
+[submodule "01_open/05_organization/xbmc/crossguid"]
+	path = 01_open/05_organization/xbmc/crossguid
+	url = https://github.com/xbmc/crossguid.git
+[submodule "01_open/05_organization/xbmc/pcre"]
+	path = 01_open/05_organization/xbmc/pcre
+	url = https://github.com/xbmc/pcre.git
+[submodule "01_open/05_organization/xbmc/fribidi"]
+	path = 01_open/05_organization/xbmc/fribidi
+	url = https://github.com/xbmc/fribidi.git
+[submodule "01_open/99_others/behdad/glyphy"]
+	path = 01_open/99_others/behdad/glyphy
+	url = https://github.com/behdad/glyphy.git
+[submodule "01_open/05_organization/xbmc/libiconv"]
+	path = 01_open/05_organization/xbmc/libiconv
+	url = https://github.com/xbmc/libiconv.git
+[submodule "01_open/05_organization/xbmc/libxslt"]
+	path = 01_open/05_organization/xbmc/libxslt
+	url = https://github.com/xbmc/libxslt.git
+[submodule "01_open/05_organization/xbmc/libxml2"]
+	path = 01_open/05_organization/xbmc/libxml2
+	url = https://github.com/xbmc/libxml2.git
+[submodule "01_open/05_organization/xbmc/libplist"]
+	path = 01_open/05_organization/xbmc/libplist
+	url = https://github.com/xbmc/libplist.git
+[submodule "01_open/05_organization/gnu/gcc"]
+	path = 01_open/05_organization/gnu/gcc
+	url = https://github.com/gcc-mirror/gcc.git
+[submodule "01_open/05_organization/xbmc/taglib"]
+	path = 01_open/05_organization/xbmc/taglib
+	url = https://github.com/xbmc/taglib.git
+[submodule "01_open/05_organization/xbmc/giflib"]
+	path = 01_open/05_organization/xbmc/giflib
+	url = https://github.com/xbmc/giflib.git
+[submodule "01_open/05_organization/libimobiledevice/idevicerestore"]
+	path = 01_open/05_organization/libimobiledevice/idevicerestore
+	url = https://github.com/libimobiledevice/idevicerestore.git
+[submodule "01_open/05_organization/libimobiledevice/libusbmuxd"]
+	path = 01_open/05_organization/libimobiledevice/libusbmuxd
+	url = https://github.com/libimobiledevice/libusbmuxd.git
+[submodule "01_open/05_organization/libimobiledevice/libirecovery"]
+	path = 01_open/05_organization/libimobiledevice/libirecovery
+	url = https://github.com/libimobiledevice/libirecovery.git
+[submodule "01_open/05_organization/libimobiledevice/libideviceactivation"]
+	path = 01_open/05_organization/libimobiledevice/libideviceactivation
+	url = https://github.com/libimobiledevice/libideviceactivation.git
+[submodule "01_open/05_organization/libimobiledevice/libimobiledevice"]
+	path = 01_open/05_organization/libimobiledevice/libimobiledevice
+	url = https://github.com/libimobiledevice/libimobiledevice.git
+[submodule "01_open/05_organization/libimobiledevice/usbmuxd"]
+	path = 01_open/05_organization/libimobiledevice/usbmuxd
+	url = https://github.com/libimobiledevice/usbmuxd.git
+[submodule "01_open/05_organization/libimobiledevice/libplist"]
+	path = 01_open/05_organization/libimobiledevice/libplist
+	url = https://github.com/libimobiledevice/libplist.git
+[submodule "01_open/05_organization/libimobiledevice/ideviceinstaller"]
+	path = 01_open/05_organization/libimobiledevice/ideviceinstaller
+	url = https://github.com/libimobiledevice/ideviceinstaller.git
+[submodule "01_open/05_organization/libimobiledevice/ifuse"]
+	path = 01_open/05_organization/libimobiledevice/ifuse
+	url = https://github.com/libimobiledevice/ifuse.git
+[submodule "01_open/05_organization/libimobiledevice/sbmanager"]
+	path = 01_open/05_organization/libimobiledevice/sbmanager
+	url = https://github.com/libimobiledevice/sbmanager.git
+[submodule "01_open/05_organization/xbmc/Pillow"]
+	path = 01_open/05_organization/xbmc/Pillow
+	url = https://github.com/xbmc/Pillow.git
+[submodule "01_open/05_organization/xbmc/openjpeg"]
+	path = 01_open/05_organization/xbmc/openjpeg
+	url = https://github.com/xbmc/openjpeg.git
+[submodule "01_open/05_organization/xbmc/repo-webinterfaces"]
+	path = 01_open/05_organization/xbmc/repo-webinterfaces
+	url = https://github.com/xbmc/repo-webinterfaces.git
+[submodule "01_open/05_organization/xbmc/mysql-connector-c"]
+	path = 01_open/05_organization/xbmc/mysql-connector-c
+	url = https://github.com/xbmc/mysql-connector-c.git
+[submodule "01_open/05_organization/xbmc/sqlite"]
+	path = 01_open/05_organization/xbmc/sqlite
+	url = https://github.com/xbmc/sqlite.git
+[submodule "01_open/05_organization/xbmc/libodb-mysql"]
+	path = 01_open/05_organization/xbmc/libodb-mysql
+	url = https://github.com/xbmc/libodb-mysql.git
+[submodule "01_open/05_organization/xbmc/libodb-sqlite"]
+	path = 01_open/05_organization/xbmc/libodb-sqlite
+	url = https://github.com/xbmc/libodb-sqlite.git
+[submodule "01_open/05_organization/xbmc/libodb"]
+	path = 01_open/05_organization/xbmc/libodb
+	url = https://github.com/xbmc/libodb.git
+[submodule "01_open/05_organization/xbmc/libRaw"]
+	path = 01_open/05_organization/xbmc/libRaw
+	url = https://github.com/xbmc/LibRaw.git
+[submodule "01_open/05_organization/xbmc/openssl"]
+	path = 01_open/05_organization/xbmc/openssl
+	url = https://github.com/xbmc/openssl.git
+[submodule "01_open/05_organization/xbmc/libdvdnav"]
+	path = 01_open/05_organization/xbmc/libdvdnav
+	url = https://github.com/xbmc/libdvdnav.git
+[submodule "01_open/05_organization/xbmc/zlib"]
+	path = 01_open/05_organization/xbmc/zlib
+	url = https://github.com/xbmc/zlib.git
+[submodule "01_open/06_function/12_file/madler/pigz"]
+	path = 01_open/06_function/12_file/madler/pigz
+	url = https://github.com/madler/pigz.git
+[submodule "01_open/06_function/12_file/madler/brotli"]
+	path = 01_open/06_function/12_file/madler/brotli
+	url = https://github.com/madler/brotli.git
+[submodule "01_open/06_function/12_file/madler/crcany"]
+	path = 01_open/06_function/12_file/madler/crcany
+	url = https://github.com/madler/crcany.git
+[submodule "01_open/06_function/12_file/madler/spoof"]
+	path = 01_open/06_function/12_file/madler/spoof
+	url = https://github.com/madler/spoof.git
+[submodule "01_open/06_function/12_file/madler/sunzip"]
+	path = 01_open/06_function/12_file/madler/sunzip
+	url = https://github.com/madler/sunzip.git
+[submodule "01_open/05_organization/xbmc/xz"]
+	path = 01_open/05_organization/xbmc/xz
+	url = https://github.com/xbmc/xz.git
+[submodule "01_open/06_function/12_file/madler/infgen"]
+	path = 01_open/06_function/12_file/madler/infgen
+	url = https://github.com/madler/infgen.git
+[submodule "01_open/06_function/12_file/madler/zlib"]
+	path = 01_open/06_function/12_file/madler/zlib
+	url = https://github.com/madler/zlib.git
+[submodule "01_open/05_organization/xbmc/libtiff"]
+	path = 01_open/05_organization/xbmc/libtiff
+	url = https://github.com/xbmc/libtiff.git
+[submodule "01_open/05_organization/xbmc/easyhook"]
+	path = 01_open/05_organization/xbmc/easyhook
+	url = https://github.com/xbmc/EasyHook.git
+[submodule "01_open/01_platform/windows/EasyHook/EasyHook"]
+	path = 01_open/01_platform/windows/EasyHook/EasyHook
+	url = https://github.com/EasyHook/EasyHook.git
+[submodule "01_open/05_organization/xbmc/libpng"]
+	path = 01_open/05_organization/xbmc/libpng
+	url = https://github.com/xbmc/libpng.git
+[submodule "01_open/05_organization/xbmc/kodi-platform"]
+	path = 01_open/05_organization/xbmc/kodi-platform
+	url = https://github.com/xbmc/kodi-platform.git
+[submodule "01_open/05_organization/xbmc/libwebp"]
+	path = 01_open/05_organization/xbmc/libwebp
+	url = https://github.com/xbmc/libwebp.git
+[submodule "01_open/05_organization/xbmc/Little-CMS"]
+	path = 01_open/05_organization/xbmc/Little-CMS
+	url = https://github.com/xbmc/Little-CMS.git
+[submodule "01_open/05_organization/webmproject/libwebm"]
+	path = 01_open/05_organization/webmproject/libwebm
+	url = https://github.com/webmproject/libwebm.git
+[submodule "01_open/05_organization/webmproject/libwebp"]
+	path = 01_open/05_organization/webmproject/libwebp
+	url = https://github.com/webmproject/libwebp.git
+[submodule "01_open/05_organization/webmproject/webm-tools"]
+	path = 01_open/05_organization/webmproject/webm-tools
+	url = https://github.com/webmproject/webm-tools.git
+[submodule "01_open/05_organization/webmproject/libvpx"]
+	path = 01_open/05_organization/webmproject/libvpx
+	url = https://github.com/webmproject/libvpx.git
+[submodule "01_open/05_organization/webmproject/libwebp-demo"]
+	path = 01_open/05_organization/webmproject/libwebp-demo
+	url = https://github.com/webmproject/libwebp-demo.git
+[submodule "01_open/05_organization/webmproject/webmlive"]
+	path = 01_open/05_organization/webmproject/webmlive
+	url = https://github.com/webmproject/webmlive.git
+[submodule "01_open/05_organization/webmproject/webmquicktime"]
+	path = 01_open/05_organization/webmproject/webmquicktime
+	url = https://github.com/webmproject/webmquicktime.git
+[submodule "01_open/05_organization/webmproject/webmdshow"]
+	path = 01_open/05_organization/webmproject/webmdshow
+	url = https://github.com/webmproject/webmdshow.git
+[submodule "01_open/05_organization/webmproject/udpsample"]
+	path = 01_open/05_organization/webmproject/udpsample
+	url = https://github.com/webmproject/udpsample.git
+[submodule "01_open/05_organization/webmproject/webp-wic-codec"]
+	path = 01_open/05_organization/webmproject/webp-wic-codec
+	url = https://github.com/webmproject/webp-wic-codec.git
+[submodule "01_open/05_organization/webmproject/bitstream-guide"]
+	path = 01_open/05_organization/webmproject/bitstream-guide
+	url = https://github.com/webmproject/bitstream-guide.git
+[submodule "01_open/05_organization/xbmc/Official-Kodi-Remote-IOS"]
+	path = 01_open/05_organization/xbmc/Official-Kodi-Remote-IOS
+	url = https://github.com/xbmc/Official-Kodi-Remote-iOS.git
+[submodule "01_open/05_organization/xbmc/repository-generator"]
+	path = 01_open/05_organization/xbmc/repository-generator
+	url = https://github.com/xbmc/repository-generator.git
+[submodule "01_open/05_organization/xbmc/MartijnKaijser-xbmc-repo-gen"]
+	path = 01_open/05_organization/xbmc/MartijnKaijser-xbmc-repo-gen
+	url = https://github.com/MartijnKaijser/xbmc-repo-gen.git
+[submodule "01_open/05_organization/xbmc-Nginx-Fancyindex-Theme"]
+	path = 01_open/05_organization/xbmc-Nginx-Fancyindex-Theme
+	url = https://github.com/xbmc/Nginx-Fancyindex-Theme.git
+[submodule "01_open/05_organization/xbmc/audioencoder-vorbis"]
+	path = 01_open/05_organization/xbmc/audioencoder-vorbis
+	url = https://github.com/xbmc/audioencoder.vorbis.git
+[submodule "01_open/05_organization/xbmc/audioencoder-lame"]
+	path = 01_open/05_organization/xbmc/audioencoder-lame
+	url = https://github.com/xbmc/audioencoder.lame.git
+[submodule "01_open/05_organization/xbmc/audiocoder-wav"]
+	path = 01_open/05_organization/xbmc/audiocoder-wav
+	url = https://github.com/xbmc/audioencoder.wav.git
+[submodule "01_open/05_organization/xbmc/mDNSResponder"]
+	path = 01_open/05_organization/xbmc/mDNSResponder
+	url = https://github.com/xbmc/mDNSResponder.git
+[submodule "01_open/05_organization/xbmc/libass"]
+	path = 01_open/05_organization/xbmc/libass
+	url = https://github.com/xbmc/libass.git
+[submodule "01_open/99_others/cp3-llbb/framework"]
+	path = 01_open/99_others/cp3-llbb/framework
+	url = https://github.com/cp3-llbb/Framework.git
+[submodule "01_open/99_others/cp3-llbb/HHAnalysis"]
+	path = 01_open/99_others/cp3-llbb/HHAnalysis
+	url = https://github.com/cp3-llbb/HHAnalysis.git
+[submodule "01_open/99_others/cp3-llbb/plotlt"]
+	path = 01_open/99_others/cp3-llbb/plotlt
+	url = https://github.com/cp3-llbb/plotIt.git
+[submodule "01_open/99_others/MoMEMta/Tutorials"]
+	path = 01_open/99_others/MoMEMta/Tutorials
+	url = https://github.com/MoMEMta/Tutorials.git
+[submodule "01_open/99_others/MoMEMta/MoMEMta"]
+	path = 01_open/99_others/MoMEMta/MoMEMta
+	url = https://github.com/MoMEMta/MoMEMta.git
+[submodule "01_open/99_others/Holimetrix/MuMuDVB"]
+	path = 01_open/99_others/Holimetrix/MuMuDVB
+	url = https://github.com/Holimetrix/MuMuDVB.git
+[submodule "01_open/05_organization/xbmc/python"]
+	path = 01_open/05_organization/xbmc/python
+	url = https://github.com/xbmc/python.git
+[submodule "01_open/99_others/cp3-llbb/CommonTools"]
+	path = 01_open/99_others/cp3-llbb/CommonTools
+	url = https://github.com/cp3-llbb/CommonTools.git
+[submodule "01_open/99_others/cp3-llbb/ZATools"]
+	path = 01_open/99_others/cp3-llbb/ZATools
+	url = https://github.com/cp3-llbb/ZATools.git
+[submodule "01_open/99_others/cp3-llbb/Datasets"]
+	path = 01_open/99_others/cp3-llbb/Datasets
+	url = https://github.com/cp3-llbb/Datasets.git
+[submodule "01_open/99_others/cp3-llbb/ZAAnalysis"]
+	path = 01_open/99_others/cp3-llbb/ZAAnalysis
+	url = https://github.com/cp3-llbb/ZAAnalysis.git
+[submodule "01_open/99_others/cp3-llbb/GridIn"]
+	path = 01_open/99_others/cp3-llbb/GridIn
+	url = https://github.com/cp3-llbb/GridIn.git
+[submodule "01_open/99_others/cp3-llbb/SAMADhi"]
+	path = 01_open/99_others/cp3-llbb/SAMADhi
+	url = https://github.com/cp3-llbb/SAMADhi.git
+[submodule "01_open/99_others/cp3-llbb/plotIt"]
+	path = 01_open/99_others/cp3-llbb/plotIt
+	url = https://github.com/cp3-llbb/plotIt.git
+[submodule "01_open/99_others/cp3-llbb/HHTools"]
+	path = 01_open/99_others/cp3-llbb/HHTools
+	url = https://github.com/cp3-llbb/HHTools.git
+[submodule "01_open/99_others/cp3-llbb/TTWAnalysis"]
+	path = 01_open/99_others/cp3-llbb/TTWAnalysis
+	url = https://github.com/cp3-llbb/TTWAnalysis.git
+[submodule "01_open/99_others/cp3-llbb/Calculators42HDM"]
+	path = 01_open/99_others/cp3-llbb/Calculators42HDM
+	url = https://github.com/cp3-llbb/Calculators42HDM.git
+[submodule "01_open/99_others/cp3-llbb/TTAnalysis"]
+	path = 01_open/99_others/cp3-llbb/TTAnalysis
+	url = https://github.com/cp3-llbb/TTAnalysis.git
+[submodule "01_open/99_others/cp3-llbb/TTTools"]
+	path = 01_open/99_others/cp3-llbb/TTTools
+	url = https://github.com/cp3-llbb/TTTools.git
+[submodule "01_open/99_others/cp3-llbb/ExTreeMaker"]
+	path = 01_open/99_others/cp3-llbb/ExTreeMaker
+	url = https://github.com/cp3-llbb/ExTreeMaker.git
+[submodule "01_open/99_others/cms/stitched"]
+	path = 01_open/99_others/cms/stitched
+	url = https://github.com/cms-sw/Stitched.git
+[submodule "01_open/99_others/cms/JetMETAnalysis"]
+	path = 01_open/99_others/cms/JetMETAnalysis
+	url = https://github.com/cms-jet/JetMETAnalysis.git
+[submodule "01_open/99_others/cms/JMEValidator"]
+	path = 01_open/99_others/cms/JMEValidator
+	url = https://github.com/cms-jet/JMEValidator.git
+[submodule "01_open/99_others/cms/PUjetID"]
+	path = 01_open/99_others/cms/PUjetID
+	url = https://github.com/cms-jet/PUjetID.git
+[submodule "01_open/99_others/cms/JetAnalyzers"]
+	path = 01_open/99_others/cms/JetAnalyzers
+	url = https://github.com/cms-jet/JetAnalyzers.git
+[submodule "01_open/99_others/cms/root"]
+	path = 01_open/99_others/cms/root
+	url = https://github.com/cms-sw/root.git
+[submodule "01_open/99_others/cms/cmssw-framework"]
+	path = 01_open/99_others/cms/cmssw-framework
+	url = https://github.com/cms-sw/cmssw-framework.git
+[submodule "01_open/99_others/cms/cmssw"]
+	path = 01_open/99_others/cms/cmssw
+	url = https://github.com/cms-sw/cmssw.git
+[submodule "01_open/99_others/cms/JetUtilities"]
+	path = 01_open/99_others/cms/JetUtilities
+	url = https://github.com/cms-jet/JetUtilities.git
+[submodule "01_open/99_others/cms/TrackingAnalysis-Cosmics"]
+	path = 01_open/99_others/cms/TrackingAnalysis-Cosmics
+	url = https://github.com/cms-analysis/TrackingAnalysis-Cosmics.git
+[submodule "01_open/99_others/cms/HiggsAnalysis-ZZMatrixElement"]
+	path = 01_open/99_others/cms/HiggsAnalysis-ZZMatrixElement
+	url = https://github.com/cms-analysis/HiggsAnalysis-ZZMatrixElement.git
+[submodule "01_open/99_others/cms/CombineHarvester"]
+	path = 01_open/99_others/cms/CombineHarvester
+	url = https://github.com/cms-analysis/CombineHarvester.git
+[submodule "01_open/99_others/cms/HiggsAnalysis-CombinedLimit"]
+	path = 01_open/99_others/cms/HiggsAnalysis-CombinedLimit
+	url = https://github.com/cms-analysis/HiggsAnalysis-CombinedLimit.git
+[submodule "01_open/99_others/cms/DPGAnalysis-SiPixelTools"]
+	path = 01_open/99_others/cms/DPGAnalysis-SiPixelTools
+	url = https://github.com/cms-analysis/DPGAnalysis-SiPixelTools.git
+[submodule "01_open/99_others/cms/flashgg"]
+	path = 01_open/99_others/cms/flashgg
+	url = https://github.com/cms-analysis/flashgg.git
+[submodule "01_open/99_others/cms/flashggFinalFit"]
+	path = 01_open/99_others/cms/flashggFinalFit
+	url = https://github.com/cms-analysis/flashggFinalFit.git
+[submodule "01_open/99_others/cms/ZprimeDiLeptons"]
+	path = 01_open/99_others/cms/ZprimeDiLeptons
+	url = https://github.com/cms-analysis/ZprimeDiLeptons.git
+[submodule "01_open/99_others/cms/SUSYBSMAnalysis-Zprime2muAnalysis"]
+	path = 01_open/99_others/cms/SUSYBSMAnalysis-Zprime2muAnalysis
+	url = https://github.com/cms-analysis/SUSYBSMAnalysis-Zprime2muAnalysis.git
+[submodule "01_open/99_others/cms/MuonAnalysis-TagAndProbe"]
+	path = 01_open/99_others/cms/MuonAnalysis-TagAndProbe
+	url = https://github.com/cms-analysis/MuonAnalysis-TagAndProbe.git
+[submodule "01_open/99_others/cms/EgammaAnalysis-TnPTreeProducer"]
+	path = 01_open/99_others/cms/EgammaAnalysis-TnPTreeProducer
+	url = https://github.com/cms-analysis/EgammaAnalysis-TnPTreeProducer.git
+[submodule "01_open/99_others/cms/TrackingAnalysis-StripHitResolution"]
+	path = 01_open/99_others/cms/TrackingAnalysis-StripHitResolution
+	url = https://github.com/cms-analysis/TrackingAnalysis-StripHitResolution.git
+[submodule "01_open/99_others/cms/DiffractiveForwardAnalysis"]
+	path = 01_open/99_others/cms/DiffractiveForwardAnalysis
+	url = https://github.com/cms-analysis/TrackingAnalysis-StripHitResolution.git
+[submodule "01_open/99_others/cms/HiggsAnalysis-HiggsToTauTau"]
+	path = 01_open/99_others/cms/HiggsAnalysis-HiggsToTauTau
+	url = https://github.com/cms-analysis/HiggsAnalysis-HiggsToTauTau.git
+[submodule "01_open/99_others/cms/flavourresponse"]
+	path = 01_open/99_others/cms/flavourresponse
+	url = https://github.com/cms-analysis/flavourresponse.git
+[submodule "01_open/99_others/cms/GeneratorInterface-RivetInterface"]
+	path = 01_open/99_others/cms/GeneratorInterface-RivetInterface
+	url = https://github.com/cms-analysis/GeneratorInterface-RivetInterface.git
+[submodule "01_open/99_others/cms/AnalysisDataFormats-HeavyFlavorObjects"]
+	path = 01_open/99_others/cms/AnalysisDataFormats-HeavyFlavorObjects
+	url = https://github.com/cms-analysis/AnalysisDataFormats-HeavyFlavorObjects.git
+[submodule "01_open/99_others/cms/HiggsAnalysis-HZZ4l_Combination"]
+	path = 01_open/99_others/cms/HiggsAnalysis-HZZ4l_Combination
+	url = https://github.com/cms-analysis/HiggsAnalysis-HZZ4l_Combination.git
+[submodule "01_open/99_others/cms/EgammaAnalysis-ElectronTools"]
+	path = 01_open/99_others/cms/EgammaAnalysis-ElectronTools
+	url = https://github.com/cms-analysis/EgammaAnalysis-ElectronTools.git
+[submodule "01_open/99_others/cms/CalibCalorimetry-HcalStandardModules"]
+	path = 01_open/99_others/cms/CalibCalorimetry-HcalStandardModules
+	url = https://github.com/cms-analysis/CalibCalorimetry-HcalStandardModules.git
+[submodule "01_open/99_others/cms/RecoHcal-MuonFilter"]
+	path = 01_open/99_others/cms/RecoHcal-MuonFilter
+	url = https://github.com/cms-analysis/RecoHcal-MuonFilter.git
+[submodule "01_open/99_others/cms/RecoHcal-HcalTPGValidation"]
+	path = 01_open/99_others/cms/RecoHcal-HcalTPGValidation
+	url = https://github.com/cms-analysis/RecoHcal-MuonFilter.git
+[submodule "01_open/99_others/cms/RecoHcal-HcalPromptAnalysis"]
+	path = 01_open/99_others/cms/RecoHcal-HcalPromptAnalysis
+	url = https://github.com/cms-analysis/RecoHcal-HcalPromptAnalysis.git
+[submodule "01_open/99_others/cms/RecoHcal-HcalProm"]
+	path = 01_open/99_others/cms/RecoHcal-HcalProm
+	url = https://github.com/cms-analysis/RecoHcal-HcalProm.git
+[submodule "01_open/99_others/cms/RecoHcal-HcalJetAnalyzer"]
+	path = 01_open/99_others/cms/RecoHcal-HcalJetAnalyzer
+	url = https://github.com/cms-analysis/RecoHcal-HcalJetAnalyzer.git
+[submodule "01_open/99_others/cms/RecoHcal-HcalHPDNoiseAnalyser"]
+	path = 01_open/99_others/cms/RecoHcal-HcalHPDNoiseAnalyser
+	url = https://github.com/cms-analysis/RecoHcal-HcalJetAnalyzer.git
+[submodule "01_open/99_others/cms/veccore"]
+	path = 01_open/99_others/cms/veccore
+	url = https://github.com/root-project/veccore.git
+[submodule "01_open/05_organization/xbmc/pycryptodome"]
+	path = 01_open/05_organization/xbmc/pycryptodome
+	url = https://github.com/xbmc/pycryptodome.git
+[submodule "01_open/05_organization/xbmc/freetype2"]
+	path = 01_open/05_organization/xbmc/freetype2
+	url = https://github.com/xbmc/freetype2.git
+[submodule "01_open/05_organization/xbmc/platform"]
+	path = 01_open/05_organization/xbmc/platform
+	url = https://github.com/xbmc/platform.git
+[submodule "01_open/05_organization/xbmc/generator-kodi-addon"]
+	path = 01_open/05_organization/xbmc/generator-kodi-addon
+	url = https://github.com/xbmc/generator-kodi-addon.git
+[submodule "01_open/05_organization/xbmc/libandroidjni"]
+	path = 01_open/05_organization/xbmc/libandroidjni
+	url = https://github.com/xbmc/libandroidjni.git
+[submodule "01_open/05_organization/xbmc/SparkleBackend"]
+	path = 01_open/05_organization/xbmc/SparkleBackend
+	url = https://github.com/xbmc/SparkleBackend.git
+[submodule "01_open/05_organization/xbmc/kodi-deps"]
+	path = 01_open/05_organization/xbmc/kodi-deps
+	url = https://github.com/xbmc/kodi-deps.git
+[submodule "01_open/05_organization/xbmc/libcdio"]
+	path = 01_open/05_organization/xbmc/libcdio
+	url = https://github.com/xbmc/libcdio.git
+[submodule "01_open/05_organization/xbmc/repo-binary-addons"]
+	path = 01_open/05_organization/xbmc/repo-binary-addons
+	url = https://github.com/xbmc/repo-binary-addons.git
+[submodule "01_open/05_organization/xbmc/audioencoder.flac"]
+	path = 01_open/05_organization/xbmc/audioencoder.flac
+	url = https://github.com/xbmc/audioencoder.flac.git
+[submodule "01_open/05_organization/xbmc/libnfs"]
+	path = 01_open/05_organization/xbmc/libnfs
+	url = https://github.com/xbmc/libnfs.git
+[submodule "01_open/05_organization/xbmc/skin-confluence"]
+	path = 01_open/05_organization/xbmc/skin-confluence
+	url = https://github.com/xbmc/skin.confluence.git
+[submodule "01_open/05_organization/xbmc/libbluray"]
+	path = 01_open/05_organization/xbmc/libbluray
+	url = https://github.com/xbmc/libbluray.git
+[submodule "01_open/05_organization/xbmc/peripheral-joystick"]
+	path = 01_open/05_organization/xbmc/peripheral-joystick
+	url = https://github.com/xbmc/peripheral.joystick.git
+[submodule "01_open/05_organization/FFmpeg/web"]
+	path = 01_open/05_organization/FFmpeg/web
+	url = https://github.com/FFmpeg/web.git
+[submodule "01_open/05_organization/FFmpeg/FFV1"]
+	path = 01_open/05_organization/FFmpeg/FFV1
+	url = https://github.com/FFmpeg/FFV1.git
+[submodule "01_open/05_organization/FFmpeg/FFmpeg-Coverity"]
+	path = 01_open/05_organization/FFmpeg/FFmpeg-Coverity
+	url = https://github.com/FFmpeg/FFmpeg-Coverity.git
+[submodule "01_open/05_organization/FFmpeg/gas-preprocessor"]
+	path = 01_open/05_organization/FFmpeg/gas-preprocessor
+	url = https://github.com/FFmpeg/gas-preprocessor.git
+[submodule "01_open/05_organization/FFmpeg/fastserver"]
+	path = 01_open/05_organization/FFmpeg/fastserver
+	url = https://github.com/FFmpeg/fateserver.git
+[submodule "01_open/05_organization/xbmc/FFmpeg"]
+	path = 01_open/05_organization/xbmc/FFmpeg
+	url = https://github.com/xbmc/FFmpeg.git
+[submodule "01_open/05_organization/xbmc/mirrorbits"]
+	path = 01_open/05_organization/xbmc/mirrorbits
+	url = https://github.com/xbmc/mirrorbits.git
+[submodule "01_open/05_organization/FFmpeg/FFmpeg"]
+	path = 01_open/05_organization/FFmpeg/FFmpeg
+	url = https://github.com/FFmpeg/FFmpeg.git
+[submodule "01_open/05_organization/xbmc/Kore"]
+	path = 01_open/05_organization/xbmc/Kore
+	url = https://github.com/xbmc/Kore.git
+[submodule "01_open/05_organization/xbmc/repo-scrapers"]
+	path = 01_open/05_organization/xbmc/repo-scrapers
+	url = https://github.com/xbmc/repo-scrapers.git
+[submodule "01_open/05_organization/xbmc/wiki-bot"]
+	path = 01_open/05_organization/xbmc/wiki-bot
+	url = https://github.com/xbmc/xbmc.wiki.bot.git
+[submodule "01_open/05_organization/xbmc/chorus2"]
+	path = 01_open/05_organization/xbmc/chorus2
+	url = https://github.com/xbmc/chorus2.git
+[submodule "01_open/05_organization/xbmc/repo-resources"]
+	path = 01_open/05_organization/xbmc/repo-resources
+	url = https://github.com/xbmc/repo-resources.git
+[submodule "01_open/99_others/BVLC/caffe"]
+	path = 01_open/99_others/BVLC/caffe
+	url = https://github.com/BVLC/caffe.git
+[submodule "01_open/05_organization/xbmc/repo-scripts"]
+	path = 01_open/05_organization/xbmc/repo-scripts
+	url = https://github.com/xbmc/repo-scripts.git
+[submodule "01_open/05_organization/xbmc/repo-plugins"]
+	path = 01_open/05_organization/xbmc/repo-plugins
+	url = https://github.com/xbmc/repo-plugins.git
+[submodule "01_open/99_others/cloudwu/sproto"]
+	path = 01_open/99_others/cloudwu/sproto
+	url = https://github.com/cloudwu/sproto.git
+[submodule "01_open/99_others/BVLC/raptor"]
+	path = 01_open/99_others/BVLC/raptor
+	url = https://github.com/BVLC/raptor.git
+[submodule "01_open/99_others/bkaradzic/bnet"]
+	path = 01_open/99_others/bkaradzic/bnet
+	url = https://github.com/bkaradzic/bnet.git
+[submodule "01_open/99_others/cloudwu/bgfx"]
+	path = 01_open/99_others/cloudwu/bgfx
+	url = https://github.com/cloudwu/bgfx.git
+[submodule "01_open/99_others/cloudwu/bx"]
+	path = 01_open/99_others/cloudwu/bx
+	url = https://github.com/bkaradzic/bx.git
+[submodule "01_open/05_organization/xbmc/xbmc"]
+	path = 01_open/05_organization/xbmc/xbmc
+	url = https://github.com/xbmc/xbmc.git
+[submodule "01_open/99_others/cloudwu/libIME"]
+	path = 01_open/99_others/cloudwu/libIME
+	url = https://github.com/cloudwu/libIME.git
+[submodule "01_open/05_organization/xbmc/translations"]
+	path = 01_open/05_organization/xbmc/translations
+	url = https://github.com/xbmc/translations.git
+[submodule "01_open/99_others/cloudwu/Horde3D"]
+	path = 01_open/99_others/cloudwu/Horde3D
+	url = https://github.com/cloudwu/Horde3D.git
+[submodule "01_open/99_others/cloudwu/project-pangolin"]
+	path = 01_open/99_others/cloudwu/project-pangolin
+	url = https://github.com/cloudwu/project-pangolin.git
+[submodule "01_open/05_organization/xbmc/repo-skins"]
+	path = 01_open/05_organization/xbmc/repo-skins
+	url = https://github.com/xbmc/repo-skins.git
+[submodule "01_open/99_others/cloudwu/skynet"]
+	path = 01_open/99_others/cloudwu/skynet
+	url = https://github.com/cloudwu/skynet.git
+[submodule "01_open/99_others/uclouvain/openjpeg"]
+	path = 01_open/99_others/uclouvain/openjpeg
+	url = https://github.com/uclouvain/openjpeg.git
