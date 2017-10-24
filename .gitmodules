@@ -3970,3 +3970,126 @@
 [submodule "01_open/05_organization/Bilibili/vlc"]
 	path = 01_open/05_organization/Bilibili/vlc
 	url = https://github.com/Bilibili/vlc.git
+[submodule "01_open/05_organization/vlc/harfbuzz"]
+	path = 01_open/05_organization/vlc/harfbuzz
+	url = https://github.com/videolan/harfbuzz.git
+[submodule "01_open/05_organization/vlc/inqlude-data"]
+	path = 01_open/05_organization/vlc/inqlude-data
+	url = https://github.com/vlc-qt/inqlude-data.git
+[submodule "01_open/05_organization/vlc/choco"]
+	path = 01_open/05_organization/vlc/choco
+	url = https://github.com/borgodoro/choco.git
+[submodule "01_open/05_organization/vlc/x265"]
+	path = 01_open/05_organization/vlc/x265
+	url = https://github.com/videolan/x265.git
+[submodule "01_open/05_organization/vlc/vlc-qt"]
+	path = 01_open/05_organization/vlc/vlc-qt
+	url = https://github.com/vlc-qt/vlc-qt.git
+[submodule "01_open/05_organization/vlc/reference"]
+	path = 01_open/05_organization/vlc/reference
+	url = https://github.com/vlc-qt/reference.git
+[submodule "01_open/05_organization/vlc/libvlc-headers"]
+	path = 01_open/05_organization/vlc/libvlc-headers
+	url = https://github.com/vlc-qt/libvlc-headers.git
+[submodule "01_open/05_organization/vlc/vlc"]
+	path = 01_open/05_organization/vlc/vlc
+	url = https://github.com/videolan/vlc.git
+[submodule "01_open/05_organization/vlc/examples"]
+	path = 01_open/05_organization/vlc/examples
+	url = https://github.com/vlc-qt/examples.git
+[submodule "01_open/06_function/09_game/02_native/sandbox/Blackvoxel/Blackvoxel"]
+	path = 01_open/06_function/09_game/02_native/sandbox/Blackvoxel/Blackvoxel
+	url = https://github.com/Blackvoxel/Blackvoxel.git
+[submodule "01_open/06_function/09_game/02_native/sandbox/fogleman/Craft"]
+	path = 01_open/06_function/09_game/02_native/sandbox/fogleman/Craft
+	url = https://github.com/fogleman/Craft.git
+[submodule "01_open/06_function/09_game/02_native/sandbox/endless-sky/endless-sky-editor"]
+	path = 01_open/06_function/09_game/02_native/sandbox/endless-sky/endless-sky-editor
+	url = https://github.com/endless-sky/endless-sky-editor.git
+[submodule "01_open/06_function/09_game/02_native/sandboxendless-sky/endless-sky"]
+	path = 01_open/06_function/09_game/02_native/sandboxendless-sky/endless-sky
+	url = https://github.com/endless-sky/endless-sky.git
+[submodule "01_open/06_function/09_game/02_native/sandbox/freeminer/freeminer"]
+	path = 01_open/06_function/09_game/02_native/sandbox/freeminer/freeminer
+	url = https://github.com/freeminer/freeminer.git
+[submodule "01_open/06_function/09_game/02_native/sandbox/fogleman/Minecraft"]
+	path = 01_open/06_function/09_game/02_native/sandbox/fogleman/Minecraft
+	url = https://github.com/fogleman/Minecraft.git
+[submodule "01_open/06_function/09_game/02_native/sandbox/manicdigger/manicdigger"]
+	path = 01_open/06_function/09_game/02_native/sandbox/manicdigger/manicdigger
+	url = https://github.com/manicdigger/manicdigger.git
+[submodule "01_open/06_function/09_game/02_native/sandbox/minetest/minetest"]
+	path = 01_open/06_function/09_game/02_native/sandbox/minetest/minetest
+	url = https://github.com/minetest/minetest.git
+[submodule "01_open/06_function/09_game/02_native/sandbox/itsapi/pycraft"]
+	path = 01_open/06_function/09_game/02_native/sandbox/itsapi/pycraft
+	url = https://github.com/itsapi/pycraft.git
+[submodule "01_open/06_function/09_game/02_native/sandbox/RigsOfRods/rigs-of-rods"]
+	path = 01_open/06_function/09_game/02_native/sandbox/RigsOfRods/rigs-of-rods
+	url = https://github.com/RigsOfRods/rigs-of-rods.git
+[submodule "01_open/06_function/09_game/02_native/sandbox/ThePowderToy/The-Powder-Toy"]
+	path = 01_open/06_function/09_game/02_native/sandbox/ThePowderToy/The-Powder-Toy
+	url = https://github.com/ThePowderToy/The-Powder-Toy.git
+[submodule "01_open/06_function/09_game/02_native/sandbox/freeminer/irrlicht"]
+	path = 01_open/06_function/09_game/02_native/sandbox/freeminer/irrlicht
+	url = https://github.com/freeminer/irrlicht.git
+[submodule "01_open/06_function/09_game/02_native/sandbox/freeminer/msgpack-c"]
+	path = 01_open/06_function/09_game/02_native/sandbox/freeminer/msgpack-c
+	url = https://github.com/freeminer/msgpack-c.git
+[submodule "01_open/06_function/09_game/02_native/sandbox/MovingBlocks/Terasology"]
+	path = 01_open/06_function/09_game/02_native/sandbox/MovingBlocks/Terasology
+	url = https://github.com/MovingBlocks/Terasology.git
+[submodule "01_open/06_function/09_game/02_native/sandbox/minetest/minetestmapper"]
+	path = 01_open/06_function/09_game/02_native/sandbox/minetest/minetestmapper
+	url = https://github.com/minetest/minetestmapper.git
+[submodule "01_open/06_function/09_game/02_native/sandbox/sfan5/minetest-mapper-cpp"]
+	path = 01_open/06_function/09_game/02_native/sandbox/sfan5/minetest-mapper-cpp
+	url = https://github.com/sfan5/minetest-mapper-cpp.git
+[submodule "01_open/06_function/09_game/02_native/sandbox/KeenSoftwareHouse/SpaceEngineers"]
+	path = 01_open/06_function/09_game/02_native/sandbox/KeenSoftwareHouse/SpaceEngineers
+	url = https://github.com/KeenSoftwareHouse/SpaceEngineers.git
+[submodule "01_open/06_function/09_game/02_native/sandbox/MovingBlocks/TeraOVR"]
+	path = 01_open/06_function/09_game/02_native/sandbox/MovingBlocks/TeraOVR
+	url = https://github.com/MovingBlocks/TeraOVR.git
+[submodule "01_open/06_function/09_game/02_native/sandbox/KeenSoftwareHouse/Miner-Wars-2081"]
+	path = 01_open/06_function/09_game/02_native/sandbox/KeenSoftwareHouse/Miner-Wars-2081
+	url = https://github.com/KeenSoftwareHouse/Miner-Wars-2081.git
+[submodule "01_open/06_function/09_game/02_native/sandbox/RigsOfRods/ror-dependencies"]
+	path = 01_open/06_function/09_game/02_native/sandbox/RigsOfRods/ror-dependencies
+	url = https://github.com/RigsOfRods/ror-dependencies.git
+[submodule "01_open/06_function/09_game/02_native/sandbox/RigsOfRods/ror-server"]
+	path = 01_open/06_function/09_game/02_native/sandbox/RigsOfRods/ror-server
+	url = https://github.com/RigsOfRods/ror-server.git
+[submodule "01_open/06_function/09_game/02_native/sandbox/RigsOfRods/ogre-pagedgeometry"]
+	path = 01_open/06_function/09_game/02_native/sandbox/RigsOfRods/ogre-pagedgeometry
+	url = https://github.com/RigsOfRods/ogre-pagedgeometry.git
+[submodule "01_open/06_function/09_game/02_native/sandbox/RigsOfRods/ogre-caelum"]
+	path = 01_open/06_function/09_game/02_native/sandbox/RigsOfRods/ogre-caelum
+	url = https://github.com/RigsOfRods/ogre-caelum.git
+[submodule "01_open/06_function/09_game/02_native/sandbox/RigsOfRods/socketw"]
+	path = 01_open/06_function/09_game/02_native/sandbox/RigsOfRods/socketw
+	url = https://github.com/RigsOfRods/socketw.git
+[submodule "01_open/06_function/09_game/02_native/sandbox/itsapi/networking"]
+	path = 01_open/06_function/09_game/02_native/sandbox/itsapi/networking
+	url = https://github.com/itsapi/networking.git
+[submodule "01_open/06_function/09_game/02_native/sandbox/itsapi/python-tcp-game"]
+	path = 01_open/06_function/09_game/02_native/sandbox/itsapi/python-tcp-game
+	url = https://github.com/itsapi/python-tcp-game.git
+[submodule "01_open/06_function/09_game/02_native/sandbox/itsapi/opengl-test-dvbris"]
+	path = 01_open/06_function/09_game/02_native/sandbox/itsapi/opengl-test-dvbris
+	url = https://github.com/itsapi/opengl-test-dvbris.git
+[submodule "01_open/06_function/09_game/02_native/others/verhoevenv/OpenNotrium"]
+	path = 01_open/06_function/09_game/02_native/others/verhoevenv/OpenNotrium
+	url = https://github.com/verhoevenv/OpenNotrium.git
+[submodule "01_open/06_function/09_game/02_native/strategy/CorsixTH/CorsixTH"]
+	path = 01_open/06_function/09_game/02_native/strategy/CorsixTH/CorsixTH
+	url = https://github.com/CorsixTH/CorsixTH.git
+[submodule "01_open/06_function/09_game/02_native/strategy/a-nikolaev/curseofwar"]
+	path = 01_open/06_function/09_game/02_native/strategy/a-nikolaev/curseofwar
+	url = https://github.com/a-nikolaev/curseofwar.git
+[submodule "01_open/06_function/09_game/02_native/strategy/ec429/harris"]
+	path = 01_open/06_function/09_game/02_native/strategy/ec429/harris
+	url = https://github.com/ec429/harris.git
+[submodule "01_open/06_function/09_game/02_native/strategy/dalerank/caesaria-game"]
+	path = 01_open/06_function/09_game/02_native/strategy/dalerank/caesaria-game
+	url = https://github.com/dalerank/caesaria-game.git
