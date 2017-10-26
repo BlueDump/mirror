@@ -4093,3 +4093,237 @@
 [submodule "01_open/06_function/09_game/02_native/strategy/dalerank/caesaria-game"]
 	path = 01_open/06_function/09_game/02_native/strategy/dalerank/caesaria-game
 	url = https://github.com/dalerank/caesaria-game.git
+[submodule "01_open/06_function/09_game/02_native/strategy/0ad/0ad"]
+	path = 01_open/06_function/09_game/02_native/strategy/0ad/0ad
+	url = https://github.com/0ad/0ad.git
+[submodule "01_open/06_function/09_game/02_native/strategy/adityaravishankar/last-colony"]
+	path = 01_open/06_function/09_game/02_native/strategy/adityaravishankar/last-colony
+	url = https://github.com/adityaravishankar/last-colony.git
+[submodule "01_open/06_function/09_game/02_native/strategy/Kromster80/kam_remake"]
+	path = 01_open/06_function/09_game/02_native/strategy/Kromster80/kam_remake
+	url = https://github.com/Kromster80/kam_remake.git
+[submodule "01_open/06_function/09_game/02_native/strategy/MegaGlest/megaglest-source"]
+	path = 01_open/06_function/09_game/02_native/strategy/MegaGlest/megaglest-source
+	url = https://github.com/MegaGlest/megaglest-source.git
+[submodule "01_open/06_function/09_game/02_native/strategy/SimHacker/micropolis"]
+	path = 01_open/06_function/09_game/02_native/strategy/SimHacker/micropolis
+	url = https://github.com/SimHacker/micropolis.git
+[submodule "01_open/06_function/09_game/02_native/strategy/SFTtech/openage"]
+	path = 01_open/06_function/09_game/02_native/strategy/SFTtech/openage
+	url = https://github.com/SFTtech/openage.git
+[submodule "01_open/06_function/09_game/02_native/strategy/OpenFodder/openfodder"]
+	path = 01_open/06_function/09_game/02_native/strategy/OpenFodder/openfodder
+	url = https://github.com/OpenFodder/openfodder.git
+[submodule "01_open/06_function/09_game/02_native/strategy/colobot/colobot"]
+	path = 01_open/06_function/09_game/02_native/strategy/colobot/colobot
+	url = https://github.com/colobot/colobot.git
+[submodule "01_open/06_function/09_game/02_native/strategy/OpenDungeons/OpenDungeons"]
+	path = 01_open/06_function/09_game/02_native/strategy/OpenDungeons/OpenDungeons
+	url = https://github.com/OpenDungeons/OpenDungeons.git
+[submodule "01_open/06_function/09_game/02_native/strategy/OpenRA/OpenRA"]
+	path = 01_open/06_function/09_game/02_native/strategy/OpenRA/OpenRA
+	url = https://github.com/OpenRA/OpenRA.git
+[submodule "01_open/06_function/09_game/02_native/strategy/OpenTTD/OpenTTD"]
+	path = 01_open/06_function/09_game/02_native/strategy/OpenTTD/OpenTTD
+	url = https://github.com/OpenTTD/OpenTTD.git
+[submodule "01_open/06_function/09_game/02_native/strategy/SupSuper/OpenXcom"]
+	path = 01_open/06_function/09_game/02_native/strategy/SupSuper/OpenXcom
+	url = https://github.com/SupSuper/OpenXcom.git
+[submodule "01_open/06_function/09_game/02_native/strategy/henkboom/pax-britannica"]
+	path = 01_open/06_function/09_game/02_native/strategy/henkboom/pax-britannica
+	url = https://github.com/henkboom/pax-britannica.git
+[submodule "01_open/06_function/09_game/02_native/strategy/jwoertink/pcotm"]
+	path = 01_open/06_function/09_game/02_native/strategy/jwoertink/pcotm
+	url = https://github.com/jwoertink/pcotm.git
+[submodule "01_open/06_function/09_game/02_native/strategy/pioneerspacesim/pioneer"]
+	path = 01_open/06_function/09_game/02_native/strategy/pioneerspacesim/pioneer
+	url = https://github.com/pioneerspacesim/pioneer.git
+[submodule "01_open/06_function/09_game/02_native/strategy/mbostock/polly-b-gone"]
+	path = 01_open/06_function/09_game/02_native/strategy/mbostock/polly-b-gone
+	url = https://github.com/mbostock/polly-b-gone.git
+[submodule "01_open/06_function/09_game/02_native/strategy/OpenRCT2/OpenRCT2"]
+	path = 01_open/06_function/09_game/02_native/strategy/OpenRCT2/OpenRCT2
+	url = https://github.com/OpenRCT2/OpenRCT2.git
+[submodule "01_open/06_function/09_game/02_native/strategy/tales/tales-client"]
+	path = 01_open/06_function/09_game/02_native/strategy/tales/tales-client
+	url = https://github.com/tales/tales-client.git
+[submodule "01_open/06_function/09_game/02_native/strategy/the3dfxdude/7kaa"]
+	path = 01_open/06_function/09_game/02_native/strategy/the3dfxdude/7kaa
+	url = https://github.com/the3dfxdude/7kaa.git
+[submodule "01_open/06_function/09_game/02_native/strategy/raceintospace/raceintospace"]
+	path = 01_open/06_function/09_game/02_native/strategy/raceintospace/raceintospace
+	url = https://github.com/raceintospace/raceintospace.git
+[submodule "01_open/06_function/09_game/02_native/strategy/tales/sourceoftales"]
+	path = 01_open/06_function/09_game/02_native/strategy/tales/sourceoftales
+	url = https://github.com/tales/sourceoftales.git
+[submodule "01_open/06_function/09_game/02_native/strategy/w84death/Tanks-of-Freedom"]
+	path = 01_open/06_function/09_game/02_native/strategy/w84death/Tanks-of-Freedom
+	url = https://github.com/w84death/Tanks-of-Freedom.git
+[submodule "01_open/06_function/09_game/02_native/strategy/bonesoul/voxeliq"]
+	path = 01_open/06_function/09_game/02_native/strategy/bonesoul/voxeliq
+	url = https://github.com/bonesoul/voxeliq.git
+[submodule "01_open/06_function/09_game/02_native/strategy/Wargus/wargus"]
+	path = 01_open/06_function/09_game/02_native/strategy/Wargus/wargus
+	url = https://github.com/Wargus/wargus.git
+[submodule "01_open/06_function/09_game/02_native/others/oamldev/oaml"]
+	path = 01_open/06_function/09_game/02_native/others/oamldev/oaml
+	url = https://github.com/oamldev/oaml.git
+[submodule "01_open/06_function/09_game/02_native/strategy/dalerank/nanogui-sdl"]
+	path = 01_open/06_function/09_game/02_native/strategy/dalerank/nanogui-sdl
+	url = https://github.com/dalerank/nanogui-sdl.git
+[submodule "01_open/06_function/01_ui/50_uilib/dalerank/nngui"]
+	path = 01_open/06_function/01_ui/50_uilib/dalerank/nngui
+	url = https://github.com/dalerank/nngui.git
+[submodule "01_open/06_function/99_others/dalerank/opencaesar3"]
+	path = 01_open/06_function/99_others/dalerank/opencaesar3
+	url = https://github.com/dalerank/opencaesar3.git
+[submodule "01_open/06_function/09_game/02_native/strategy/Warzone2100/warzone2100"]
+	path = 01_open/06_function/09_game/02_native/strategy/Warzone2100/warzone2100
+	url = https://github.com/Warzone2100/warzone2100.git
+[submodule "01_open/06_function/09_game/02_native/strategy/andrettin/wyrmsun"]
+	path = 01_open/06_function/09_game/02_native/strategy/andrettin/wyrmsun
+	url = https://github.com/Andrettin/Wyrmsun.git
+[submodule "01_open/06_function/09_game/02_native/strategy/ZeroK-RTS/Zero-K"]
+	path = 01_open/06_function/09_game/02_native/strategy/ZeroK-RTS/Zero-K
+	url = https://github.com/ZeroK-RTS/Zero-K.git
+[submodule "01_open/06_function/99_others/dalerank/gameinc"]
+	path = 01_open/06_function/99_others/dalerank/gameinc
+	url = https://github.com/dalerank/gameinc.git
+[submodule "01_open/06_function/09_game/02_native/strategy/wesnoth/wesnoth"]
+	path = 01_open/06_function/09_game/02_native/strategy/wesnoth/wesnoth
+	url = https://github.com/wesnoth/wesnoth.git
+[submodule "01_open/99_others/thanos-mad-titan/data-race-test"]
+	path = 01_open/99_others/thanos-mad-titan/data-race-test
+	url = https://github.com/thanos-mad-titan/data-race-test.git
+[submodule "01_open/05_organization/google/sanitizers"]
+	path = 01_open/05_organization/google/sanitizers
+	url = https://github.com/google/sanitizers.git
+[submodule "01_open/99_others/square/leakcanary"]
+	path = 01_open/99_others/square/leakcanary
+	url = https://github.com/square/leakcanary.git
+[submodule "01_open/05_organization/google/cld3"]
+	path = 01_open/05_organization/google/cld3
+	url = https://github.com/google/cld3.git
+[submodule "01_open/99_others/CLD2Owners/cld2"]
+	path = 01_open/99_others/CLD2Owners/cld2
+	url = https://github.com/CLD2Owners/cld2.git
+[submodule "01_open/06_function/12_file/json/simplejson/simplejson"]
+	path = 01_open/06_function/12_file/json/simplejson/simplejson
+	url = https://github.com/simplejson/simplejson.git
+[submodule "01_open/06_function/12_file/json/open-source-parsers/jsoncpp"]
+	path = 01_open/06_function/12_file/json/open-source-parsers/jsoncpp
+	url = https://github.com/open-source-parsers/jsoncpp.git
+[submodule "01_open/06_function/12_file/json/open-source-parsers/gason--"]
+	path = 01_open/06_function/12_file/json/open-source-parsers/gason--
+	url = https://github.com/open-source-parsers/gason--.git
+[submodule "01_open/06_function/12_file/json/open-source-parsers/json"]
+	path = 01_open/06_function/12_file/json/open-source-parsers/json
+	url = https://github.com/open-source-parsers/json.git
+[submodule "01_open/06_function/12_file/json/open-source-parsers/rapidjson"]
+	path = 01_open/06_function/12_file/json/open-source-parsers/rapidjson
+	url = https://github.com/open-source-parsers/rapidjson.git
+[submodule "01_open/06_function/12_file/json/open-source-parsers/gason"]
+	path = 01_open/06_function/12_file/json/open-source-parsers/gason
+	url = https://github.com/open-source-parsers/gason.git
+[submodule "01_open/06_function/12_file/json/open-source-parsers/json-cpp-lazy"]
+	path = 01_open/06_function/12_file/json/open-source-parsers/json-cpp-lazy
+	url = https://github.com/open-source-parsers/json-cpp-lazy.git
+[submodule "01_open/99_others/d3/d3"]
+	path = 01_open/99_others/d3/d3
+	url = https://github.com/d3/d3.git
+[submodule "01_open/06_function/12_file/xml/libexpat/libexpat"]
+	path = 01_open/06_function/12_file/xml/libexpat/libexpat
+	url = https://github.com/libexpat/libexpat.git
+[submodule "01_open/99_others/oulan/visualfc"]
+	path = 01_open/99_others/oulan/visualfc
+	url = https://github.com/oulan/visualfc.git
+[submodule "01_open/99_others/CorsixTH/vcpkg"]
+	path = 01_open/99_others/CorsixTH/vcpkg
+	url = https://github.com/CorsixTH/vcpkg.git
+[submodule "01_open/99_others/CorsixTH/CorsixTH-Graphics"]
+	path = 01_open/99_others/CorsixTH/CorsixTH-Graphics
+	url = https://github.com/CorsixTH/CorsixTH-Graphics.git
+[submodule "01_open/99_others/SFTtech/nyan"]
+	path = 01_open/99_others/SFTtech/nyan
+	url = https://github.com/SFTtech/nyan.git
+[submodule "01_open/99_others/colobot/planetblupi"]
+	path = 01_open/99_others/colobot/planetblupi
+	url = https://github.com/colobot/planetblupi.git
+[submodule "01_open/99_others/CorsixTH/deps"]
+	path = 01_open/99_others/CorsixTH/deps
+	url = https://github.com/CorsixTH/deps.git
+[submodule "01_open/99_others/colobot/colobot-lint"]
+	path = 01_open/99_others/colobot/colobot-lint
+	url = https://github.com/colobot/colobot-lint.git
+[submodule "01_open/99_others/OpenFodder/data"]
+	path = 01_open/99_others/OpenFodder/data
+	url = https://github.com/OpenFodder/data.git
+[submodule "01_open/99_others/colobot/ColobotLauncher"]
+	path = 01_open/99_others/colobot/ColobotLauncher
+	url = https://github.com/colobot/ColobotLauncher.git
+[submodule "01_open/99_others/OpenFodder/editor"]
+	path = 01_open/99_others/OpenFodder/editor
+	url = https://github.com/OpenFodder/editor.git
+[submodule "01_open/99_others/mana/mana"]
+	path = 01_open/99_others/mana/mana
+	url = https://github.com/mana/mana.git
+[submodule "01_open/99_others/mana/manamobile"]
+	path = 01_open/99_others/mana/manamobile
+	url = https://github.com/mana/manamobile.git
+[submodule "01_open/99_others/mana/manaserv"]
+	path = 01_open/99_others/mana/manaserv
+	url = https://github.com/mana/manaserv.git
+[submodule "01_open/99_others/oamldev/oamlGodotModule"]
+	path = 01_open/99_others/oamldev/oamlGodotModule
+	url = https://github.com/oamldev/oamlGodotModule.git
+[submodule "01_open/99_others/oamldev/oamlStudio"]
+	path = 01_open/99_others/oamldev/oamlStudio
+	url = https://github.com/oamldev/oamlStudio.git
+[submodule "01_open/99_others/oamldev/msnake_oaml"]
+	path = 01_open/99_others/oamldev/msnake_oaml
+	url = https://github.com/oamldev/msnake_oaml.git
+[submodule "01_open/99_others/SFTtech/openage"]
+	path = 01_open/99_others/SFTtech/openage
+	url = https://github.com/SFTtech/openage.git
+[submodule "01_open/99_others/Wargus/stratagus"]
+	path = 01_open/99_others/Wargus/stratagus
+	url = https://github.com/Wargus/stratagus.git
+[submodule "01_open/06_function/12_file/xml/leethomason/tinyxml2"]
+	path = 01_open/06_function/12_file/xml/leethomason/tinyxml2
+	url = https://github.com/leethomason/tinyxml2.git
+[submodule "01_open/99_others/colobot/colobot-music"]
+	path = 01_open/99_others/colobot/colobot-music
+	url = https://github.com/colobot/colobot-music.git
+[submodule "01_open/05_organization/apache/xerces-c"]
+	path = 01_open/05_organization/apache/xerces-c
+	url = https://github.com/apache/xerces-c.git
+[submodule "01_open/06_function/01_ui/50_uilib/camark/Guitoolkit"]
+	path = 01_open/06_function/01_ui/50_uilib/camark/Guitoolkit
+	url = https://github.com/camark/Guitoolkit.git
+[submodule "01_open/06_function/04_framework/openframeworks/apothecary"]
+	path = 01_open/06_function/04_framework/openframeworks/apothecary
+	url = https://github.com/openframeworks/apothecary.git
+[submodule "01_open/06_function/04_framework/openframeworks/openFrameworks"]
+	path = 01_open/06_function/04_framework/openframeworks/openFrameworks
+	url = https://github.com/openframeworks/openFrameworks.git
+[submodule "01_open/06_function/04_framework/openframeworks/eclipsePlugin"]
+	path = 01_open/06_function/04_framework/openframeworks/eclipsePlugin
+	url = https://github.com/openframeworks/eclipsePlugin.git
+[submodule "01_open/06_function/04_framework/openframeworks/ofBook"]
+	path = 01_open/06_function/04_framework/openframeworks/ofBook
+	url = https://github.com/openframeworks/ofBook.git
+[submodule "01_open/06_function/04_framework/openframeworks/ofSite"]
+	path = 01_open/06_function/04_framework/openframeworks/ofSite
+	url = https://github.com/openframeworks/ofSite.git
+[submodule "01_open/06_function/04_framework/openframeworks/ofxAddonTemplate"]
+	path = 01_open/06_function/04_framework/openframeworks/ofxAddonTemplate
+	url = https://github.com/openframeworks/ofxAddonTemplate.git
+[submodule "01_open/06_function/04_framework/openframeworks/OFXcodeMenu"]
+	path = 01_open/06_function/04_framework/openframeworks/OFXcodeMenu
+	url = https://github.com/openframeworks/OFXcodeMenu.git
+[submodule "01_open/06_function/04_framework/openframeworks/projectGenerator"]
+	path = 01_open/06_function/04_framework/openframeworks/projectGenerator
+	url = https://github.com/openframeworks/projectGenerator.git
+[submodule "01_open/06_function/04_framework/openframeworks/visualstudioPlugin"]
+	path = 01_open/06_function/04_framework/openframeworks/visualstudioPlugin
+	url = https://github.com/openframeworks/visualstudioPlugin.git
