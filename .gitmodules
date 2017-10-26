@@ -4327,3 +4327,45 @@
 [submodule "01_open/06_function/04_framework/openframeworks/visualstudioPlugin"]
 	path = 01_open/06_function/04_framework/openframeworks/visualstudioPlugin
 	url = https://github.com/openframeworks/visualstudioPlugin.git
+[submodule "01_open/05_organization/google/compact_enc_det"]
+	path = 01_open/05_organization/google/compact_enc_det
+	url = https://github.com/google/compact_enc_det.git
+[submodule "01_open/99_others/wixtoolset/icebreaker"]
+	path = 01_open/99_others/wixtoolset/icebreaker
+	url = https://github.com/wixtoolset/icebreaker.git
+[submodule "01_open/99_others/wixtoolset/wix4"]
+	path = 01_open/99_others/wixtoolset/wix4
+	url = https://github.com/wixtoolset/wix4.git
+[submodule "01_open/99_others/wixtoolset/Extensibility"]
+	path = 01_open/99_others/wixtoolset/Extensibility
+	url = https://github.com/wixtoolset/Extensibility.git
+[submodule "01_open/99_others/wixtoolset/wix3"]
+	path = 01_open/99_others/wixtoolset/wix3
+	url = https://github.com/wixtoolset/wix3.git
+[submodule "01_open/99_others/wixtoolset/Data"]
+	path = 01_open/99_others/wixtoolset/Data
+	url = https://github.com/wixtoolset/Data.git
+[submodule "01_open/99_others/wixtoolset/VisualStudio.wixext"]
+	path = 01_open/99_others/wixtoolset/VisualStudio.wixext
+	url = https://github.com/wixtoolset/VisualStudio.wixext.git
+[submodule "01_open/99_others/wixtoolset/Core"]
+	path = 01_open/99_others/wixtoolset/Core
+	url = https://github.com/wixtoolset/Core.git
+[submodule "01_open/99_others/wixtoolset/WixBuildTools"]
+	path = 01_open/99_others/wixtoolset/WixBuildTools
+	url = https://github.com/wixtoolset/WixBuildTools.git
+[submodule "01_open/99_others/wixtoolset/Core.Native"]
+	path = 01_open/99_others/wixtoolset/Core.Native
+	url = https://github.com/wixtoolset/Core.Native.git
+[submodule "01_open/99_others/wixtoolset/Dtf"]
+	path = 01_open/99_others/wixtoolset/Dtf
+	url = https://github.com/wixtoolset/Dtf.git
+[submodule "01_open/99_others/wixtoolset/dutil"]
+	path = 01_open/99_others/wixtoolset/dutil
+	url = https://github.com/wixtoolset/dutil.git
+[submodule "01_open/99_others/wixtoolset/wcautil"]
+	path = 01_open/99_others/wixtoolset/wcautil
+	url = https://github.com/wixtoolset/wcautil.git
+[submodule "01_open/99_others/wixtoolset/VisualStudioExtension"]
+	path = 01_open/99_others/wixtoolset/VisualStudioExtension
+	url = https://github.com/wixtoolset/VisualStudioExtension.git
