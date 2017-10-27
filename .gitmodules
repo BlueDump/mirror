@@ -4369,3 +4369,381 @@
 [submodule "01_open/99_others/wixtoolset/VisualStudioExtension"]
 	path = 01_open/99_others/wixtoolset/VisualStudioExtension
 	url = https://github.com/wixtoolset/VisualStudioExtension.git
+[submodule "01_open/06_function/01_ui/99_others/cetcjinjian/SysCtrl"]
+	path = 01_open/06_function/01_ui/99_others/cetcjinjian/SysCtrl
+	url = https://github.com/cetcjinjian/SysCtrl.git
+[submodule "01_open/06_function/01_ui/99_others/ocornut/imgui"]
+	path = 01_open/06_function/01_ui/99_others/ocornut/imgui
+	url = https://github.com/ocornut/imgui.git
+[submodule "01_open/06_function/01_ui/99_others/Dovyski/cvui"]
+	path = 01_open/06_function/01_ui/99_others/Dovyski/cvui
+	url = https://github.com/Dovyski/cvui.git
+[submodule "01_open/06_function/01_ui/99_others/ocornut/bgfx"]
+	path = 01_open/06_function/01_ui/99_others/ocornut/bgfx
+	url = https://github.com/ocornut/bgfx.git
+[submodule "01_open/06_function/01_ui/99_others/texus/TGUI"]
+	path = 01_open/06_function/01_ui/99_others/texus/TGUI
+	url = https://github.com/texus/TGUI.git
+[submodule "01_open/06_function/01_ui/99_others/SLIBIO/SLib"]
+	path = 01_open/06_function/01_ui/99_others/SLIBIO/SLib
+	url = https://github.com/SLIBIO/SLib.git
+[submodule "01_open/06_function/01_ui/99_others/zetaPRIME/libstarlight"]
+	path = 01_open/06_function/01_ui/99_others/zetaPRIME/libstarlight
+	url = https://github.com/zetaPRIME/libstarlight.git
+[submodule "01_open/06_function/01_ui/99_others/camrein/EzGraver"]
+	path = 01_open/06_function/01_ui/99_others/camrein/EzGraver
+	url = https://github.com/camrein/EzGraver.git
+[submodule "01_open/06_function/01_ui/99_others/Timboy67678/WindowsPlusPlus"]
+	path = 01_open/06_function/01_ui/99_others/Timboy67678/WindowsPlusPlus
+	url = https://github.com/Timboy67678/WindowsPlusPlus.git
+[submodule "01_open/06_function/01_ui/99_others/liavt/MACE"]
+	path = 01_open/06_function/01_ui/99_others/liavt/MACE
+	url = https://github.com/liavt/MACE.git
+[submodule "01_open/06_function/01_ui/99_others/wangwenx190/SPlayer-Qt-Framework"]
+	path = 01_open/06_function/01_ui/99_others/wangwenx190/SPlayer-Qt-Framework
+	url = https://github.com/wangwenx190/SPlayer-Qt-Framework.git
+[submodule "01_open/06_function/11_media/99_others/wangwenx190/SPlayer"]
+	path = 01_open/06_function/11_media/99_others/wangwenx190/SPlayer
+	url = https://github.com/wangwenx190/SPlayer.git
+[submodule "01_open/06_function/01_ui/99_others/rakion99/IceSource"]
+	path = 01_open/06_function/01_ui/99_others/rakion99/IceSource
+	url = https://github.com/rakion99/IceSource.git
+[submodule "01_open/06_function/01_ui/99_others/nimbletools/nimble-app"]
+	path = 01_open/06_function/01_ui/99_others/nimbletools/nimble-app
+	url = https://github.com/nimbletools/nimble-app.git
+[submodule "01_open/06_function/01_ui/99_others/nimbletools/turbobadger"]
+	path = 01_open/06_function/01_ui/99_others/nimbletools/turbobadger
+	url = https://github.com/nimbletools/turbobadger.git
+[submodule "01_open/06_function/01_ui/99_others/ebachard/imgui_tabs"]
+	path = 01_open/06_function/01_ui/99_others/ebachard/imgui_tabs
+	url = https://github.com/ebachard/imgui_tabs.git
+[submodule "01_open/06_function/01_ui/99_others/zabaatinc/zabaatLib"]
+	path = 01_open/06_function/01_ui/99_others/zabaatinc/zabaatLib
+	url = https://github.com/zabaatinc/zabaatLib.git
+[submodule "01_open/06_function/01_ui/99_others/bruno02221/cocos-level-button"]
+	path = 01_open/06_function/01_ui/99_others/bruno02221/cocos-level-button
+	url = https://github.com/bruno02221/cocos-level-button.git
+[submodule "01_open/06_function/01_ui/99_others/igormironchik/prototyper"]
+	path = 01_open/06_function/01_ui/99_others/igormironchik/prototyper
+	url = https://github.com/igormironchik/prototyper.git
+[submodule "01_open/99_others/igormironchik/tools"]
+	path = 01_open/99_others/igormironchik/tools
+	url = https://github.com/igormironchik/tools.git
+[submodule "01_open/06_function/01_ui/99_others/Merg3D/Titan-Designer"]
+	path = 01_open/06_function/01_ui/99_others/Merg3D/Titan-Designer
+	url = https://github.com/Merg3D/Titan-Designer.git
+[submodule "01_open/06_function/01_ui/99_others/bruno02221/cocos-stars"]
+	path = 01_open/06_function/01_ui/99_others/bruno02221/cocos-stars
+	url = https://github.com/bruno02221/cocos-stars.git
+[submodule "01_open/06_function/01_ui/99_others/bruno02221/cocos-collapse-menu-bar"]
+	path = 01_open/06_function/01_ui/99_others/bruno02221/cocos-collapse-menu-bar
+	url = https://github.com/bruno02221/cocos-collapse-menu-bar.git
+[submodule "01_open/06_function/01_ui/99_others/agryson/FreeCAD"]
+	path = 01_open/06_function/01_ui/99_others/agryson/FreeCAD
+	url = https://github.com/agryson/FreeCAD.git
+[submodule "01_open/06_function/01_ui/99_others/chenluyong/OEasyMessage"]
+	path = 01_open/06_function/01_ui/99_others/chenluyong/OEasyMessage
+	url = https://github.com/chenluyong/OEasyMessage.git
+[submodule "01_open/06_function/01_ui/99_others/soar/assinglewindow"]
+	path = 01_open/06_function/01_ui/99_others/soar/assinglewindow
+	url = https://github.com/soar/assinglewindow.git
+[submodule "01_open/06_function/01_ui/99_others/skinex/LoginFormQt"]
+	path = 01_open/06_function/01_ui/99_others/skinex/LoginFormQt
+	url = https://github.com/skinex/LoginFormQt.git
+[submodule "01_open/06_function/01_ui/99_others/dimitre/ofxDmtrUI3"]
+	path = 01_open/06_function/01_ui/99_others/dimitre/ofxDmtrUI3
+	url = https://github.com/dimitre/ofxDmtrUI3.git
+[submodule "01_open/06_function/01_ui/99_others/dimitre/ofxDmtrUI"]
+	path = 01_open/06_function/01_ui/99_others/dimitre/ofxDmtrUI
+	url = https://github.com/dimitre/ofxDmtrUI.git
+[submodule "01_open/06_function/01_ui/99_others/dsantosp12/pais-posible-admin-client"]
+	path = 01_open/06_function/01_ui/99_others/dsantosp12/pais-posible-admin-client
+	url = https://github.com/dsantosp12/pais-posible-admin-client.git
+[submodule "01_open/99_others/dsantosp12/DStructs"]
+	path = 01_open/99_others/dsantosp12/DStructs
+	url = https://github.com/dsantosp12/DStructs.git
+[submodule "01_open/06_function/01_ui/99_others/Rainbox-dev/DuFFMpeg"]
+	path = 01_open/06_function/01_ui/99_others/Rainbox-dev/DuFFMpeg
+	url = https://github.com/Rainbox-dev/DuFFMpeg.git
+[submodule "01_open/06_function/01_ui/99_others/ALikhachev/Computer-graphics"]
+	path = 01_open/06_function/01_ui/99_others/ALikhachev/Computer-graphics
+	url = https://github.com/ALikhachev/Computer-graphics.git
+[submodule "01_open/06_function/01_ui/99_others/vanpana/LMDB"]
+	path = 01_open/06_function/01_ui/99_others/vanpana/LMDB
+	url = https://github.com/vanpana/LMDB.git
+[submodule "01_open/06_function/01_ui/99_others/rafaelgc/EasyReceipt"]
+	path = 01_open/06_function/01_ui/99_others/rafaelgc/EasyReceipt
+	url = https://github.com/rafaelgc/EasyReceipt.git
+[submodule "01_open/06_function/01_ui/99_others/spypunk/sfbf-ui"]
+	path = 01_open/06_function/01_ui/99_others/spypunk/sfbf-ui
+	url = https://github.com/spypunk/sfbf-ui.git
+[submodule "01_open/06_function/01_ui/99_others/vanpana/MultiMapSLL"]
+	path = 01_open/06_function/01_ui/99_others/vanpana/MultiMapSLL
+	url = https://github.com/vanpana/MultiMapSLL.git
+[submodule "01_open/06_function/01_ui/99_others/ubald/psychic-ui"]
+	path = 01_open/06_function/01_ui/99_others/ubald/psychic-ui
+	url = https://github.com/ubald/psychic-ui.git
+[submodule "01_open/06_function/01_ui/99_others/fbbdev/linenoise-ng"]
+	path = 01_open/06_function/01_ui/99_others/fbbdev/linenoise-ng
+	url = https://github.com/fbbdev/linenoise-ng.git
+[submodule "01_open/06_function/01_ui/99_others/wangwenx190/Qt-Frameless-Draggable-Window"]
+	path = 01_open/06_function/01_ui/99_others/wangwenx190/Qt-Frameless-Draggable-Window
+	url = https://github.com/wangwenx190/Qt-Frameless-Draggable-Window.git
+[submodule "01_open/06_function/01_ui/99_others/protopopov1122/CalX"]
+	path = 01_open/06_function/01_ui/99_others/protopopov1122/CalX
+	url = https://github.com/protopopov1122/CalX.git
+[submodule "01_open/06_function/01_ui/99_others/podgorskiy/impy"]
+	path = 01_open/06_function/01_ui/99_others/podgorskiy/impy
+	url = https://github.com/podgorskiy/impy.git
+[submodule "01_open/06_function/01_ui/99_others/Tym17/ZappUI"]
+	path = 01_open/06_function/01_ui/99_others/Tym17/ZappUI
+	url = https://github.com/Tym17/ZappUI.git
+[submodule "01_open/06_function/01_ui/99_others/ondryaso/lcdui"]
+	path = 01_open/06_function/01_ui/99_others/ondryaso/lcdui
+	url = https://github.com/ondryaso/lcdui.git
+[submodule "01_open/06_function/01_ui/99_others/texus/TransparentWindows"]
+	path = 01_open/06_function/01_ui/99_others/texus/TransparentWindows
+	url = https://github.com/texus/TransparentWindows.git
+[submodule "01_open/06_function/01_ui/99_others/texus/codingame"]
+	path = 01_open/06_function/01_ui/99_others/texus/codingame
+	url = https://github.com/texus/codingame.git
+[submodule "01_open/06_function/01_ui/99_others/ebachard/cvui"]
+	path = 01_open/06_function/01_ui/99_others/ebachard/cvui
+	url = https://github.com/ebachard/cvui.git
+[submodule "01_open/99_others/igormironchik/cfgfile"]
+	path = 01_open/99_others/igormironchik/cfgfile
+	url = https://github.com/igormironchik/cfgfile.git
+[submodule "01_open/99_others/Rainbox-dev/RainboxUI"]
+	path = 01_open/99_others/Rainbox-dev/RainboxUI
+	url = https://github.com/Rainbox-dev/RainboxUI.git
+[submodule "01_open/99_others/Rainbox-dev/Dutranslator"]
+	path = 01_open/99_others/Rainbox-dev/Dutranslator
+	url = https://github.com/Rainbox-dev/Dutranslator.git
+[submodule "01_open/99_others/Rainbox-dev/Ramses"]
+	path = 01_open/99_others/Rainbox-dev/Ramses
+	url = https://github.com/Rainbox-dev/Ramses.git
+[submodule "01_open/99_others/Rainbox-dev/Duchar"]
+	path = 01_open/99_others/Rainbox-dev/Duchar
+	url = https://github.com/Rainbox-dev/Duchar.git
+[submodule "01_open/99_others/Rainbox-dev/Dupin"]
+	path = 01_open/99_others/Rainbox-dev/Dupin
+	url = https://github.com/Rainbox-dev/Dupin.git
+[submodule "01_open/99_others/Rainbox-dev/Dui"]
+	path = 01_open/99_others/Rainbox-dev/Dui
+	url = https://github.com/Rainbox-dev/Dui.git
+[submodule "01_open/06_function/01_ui/99_others/FreeCAD/coin3d"]
+	path = 01_open/06_function/01_ui/99_others/FreeCAD/coin3d
+	url = https://github.com/FreeCAD/coin3d.git
+[submodule "01_open/99_others/Rainbox-dev/Dufrap"]
+	path = 01_open/99_others/Rainbox-dev/Dufrap
+	url = https://github.com/Rainbox-dev/Dufrap.git
+[submodule "01_open/06_function/01_ui/99_others/FreeCAD/FreeCAD"]
+	path = 01_open/06_function/01_ui/99_others/FreeCAD/FreeCAD
+	url = https://github.com/FreeCAD/FreeCAD.git
+[submodule "01_open/99_others/Rainbox-dev/Dutico"]
+	path = 01_open/99_others/Rainbox-dev/Dutico
+	url = https://github.com/Rainbox-dev/Dutico.git
+[submodule "01_open/99_others/Rainbox-dev/Dumep"]
+	path = 01_open/99_others/Rainbox-dev/Dumep
+	url = https://github.com/Rainbox-dev/Dumep.git
+[submodule "01_open/99_others/Rainbox-dev/Dumoney"]
+	path = 01_open/99_others/Rainbox-dev/Dumoney
+	url = https://github.com/Rainbox-dev/Dumoney.git
+[submodule "01_open/99_others/ubald/Shingles"]
+	path = 01_open/99_others/ubald/Shingles
+	url = https://github.com/ubald/Shingles.git
+[submodule "01_open/99_others/ubald/psychic-color"]
+	path = 01_open/99_others/ubald/psychic-color
+	url = https://github.com/ubald/psychic-color.git
+[submodule "01_open/99_others/ubald/neopixels-ring-clock"]
+	path = 01_open/99_others/ubald/neopixels-ring-clock
+	url = https://github.com/ubald/neopixels-ring-clock.git
+[submodule "01_open/99_others/openfl/openfl-animate-plugin"]
+	path = 01_open/99_others/openfl/openfl-animate-plugin
+	url = https://github.com/openfl/openfl-animate-plugin.git
+[submodule "01_open/99_others/antirez/linenoise"]
+	path = 01_open/99_others/antirez/linenoise
+	url = https://github.com/antirez/linenoise.git
+[submodule "01_open/99_others/ubald/lime"]
+	path = 01_open/99_others/ubald/lime
+	url = https://github.com/ubald/lime.git
+[submodule "01_open/99_others/wangwenx190/SPlayer-Qt-Framework"]
+	path = 01_open/99_others/wangwenx190/SPlayer-Qt-Framework
+	url = https://github.com/wangwenx190/SPlayer-Qt-Framework.git
+[submodule "01_open/99_others/wangwenx190/XPlay"]
+	path = 01_open/99_others/wangwenx190/XPlay
+	url = https://github.com/wangwenx190/XPlay.git
+[submodule "01_open/99_others/wangwenx190/SPlayer"]
+	path = 01_open/99_others/wangwenx190/SPlayer
+	url = https://github.com/wangwenx190/SPlayer.git
+[submodule "01_open/99_others/Rainbox-dev/DuFFMpeg"]
+	path = 01_open/99_others/Rainbox-dev/DuFFMpeg
+	url = https://github.com/Rainbox-dev/DuFFMpeg.git
+[submodule "01_open/99_others/dimitre/Cinder-DmtrUI"]
+	path = 01_open/99_others/dimitre/Cinder-DmtrUI
+	url = https://github.com/dimitre/Cinder-DmtrUI.git
+[submodule "01_open/99_others/dimitre/ofxDmtrUI3MidiController"]
+	path = 01_open/99_others/dimitre/ofxDmtrUI3MidiController
+	url = https://github.com/dimitre/ofxDmtrUI3MidiController.git
+[submodule "01_open/99_others/dimitre/ofxDmtrUI3"]
+	path = 01_open/99_others/dimitre/ofxDmtrUI3
+	url = https://github.com/dimitre/ofxDmtrUI3.git
+[submodule "01_open/99_others/dimitre/ofxDmtrFft3"]
+	path = 01_open/99_others/dimitre/ofxDmtrFft3
+	url = https://github.com/dimitre/ofxDmtrFft3.git
+[submodule "01_open/99_others/dimitre/ofxPixelNode"]
+	path = 01_open/99_others/dimitre/ofxPixelNode
+	url = https://github.com/dimitre/ofxPixelNode.git
+[submodule "01_open/99_others/dimitre/ofxDmtrUI3Remote"]
+	path = 01_open/99_others/dimitre/ofxDmtrUI3Remote
+	url = https://github.com/dimitre/ofxDmtrUI3Remote.git
+[submodule "01_open/99_others/dimitre/ofxDmtrUI"]
+	path = 01_open/99_others/dimitre/ofxDmtrUI
+	url = https://github.com/dimitre/ofxDmtrUI.git
+[submodule "01_open/99_others/dimitre/ofxDmtrEsp"]
+	path = 01_open/99_others/dimitre/ofxDmtrEsp
+	url = https://github.com/dimitre/ofxDmtrEsp.git
+[submodule "01_open/99_others/dimitre/DmtrPots"]
+	path = 01_open/99_others/dimitre/DmtrPots
+	url = https://github.com/dimitre/DmtrPots.git
+[submodule "01_open/99_others/dimitre/LedCom"]
+	path = 01_open/99_others/dimitre/LedCom
+	url = https://github.com/dimitre/LedCom.git
+[submodule "01_open/99_others/dimitre/ofxDmtrFixture"]
+	path = 01_open/99_others/dimitre/ofxDmtrFixture
+	url = https://github.com/dimitre/ofxDmtrFixture.git
+[submodule "01_open/99_others/dimitre/ofxDmtrFft"]
+	path = 01_open/99_others/dimitre/ofxDmtrFft
+	url = https://github.com/dimitre/ofxDmtrFft.git
+[submodule "01_open/99_others/dimitre/ofxDmtrUIRemote"]
+	path = 01_open/99_others/dimitre/ofxDmtrUIRemote
+	url = https://github.com/dimitre/ofxDmtrUIRemote.git
+[submodule "01_open/99_others/dimitre/ofxDmtrUIMidiController"]
+	path = 01_open/99_others/dimitre/ofxDmtrUIMidiController
+	url = https://github.com/dimitre/ofxDmtrUIMidiController.git
+[submodule "01_open/99_others/dimitre/ofxDmtrUISyphonIn"]
+	path = 01_open/99_others/dimitre/ofxDmtrUISyphonIn
+	url = https://github.com/dimitre/ofxDmtrUISyphonIn.git
+[submodule "01_open/99_others/dimitre/ofxBullet"]
+	path = 01_open/99_others/dimitre/ofxBullet
+	url = https://github.com/dimitre/ofxBullet.git
+[submodule "01_open/99_others/dimitre/ofxTimeline"]
+	path = 01_open/99_others/dimitre/ofxTimeline
+	url = https://github.com/dimitre/ofxTimeline.git
+[submodule "01_open/99_others/dimitre/ofxDmtrAddonSkeleton"]
+	path = 01_open/99_others/dimitre/ofxDmtrAddonSkeleton
+	url = https://github.com/dimitre/ofxDmtrAddonSkeleton.git
+[submodule "01_open/99_others/dimitre/ofxUI"]
+	path = 01_open/99_others/dimitre/ofxUI
+	url = https://github.com/dimitre/ofxUI.git
+[submodule "01_open/99_others/dimitre/ofxMSABPMTapper"]
+	path = 01_open/99_others/dimitre/ofxMSABPMTapper
+	url = https://github.com/dimitre/ofxMSABPMTapper.git
+[submodule "01_open/99_others/dimitre/YCAMInterlab/ofxTimecode"]
+	path = 01_open/99_others/dimitre/YCAMInterlab/ofxTimecode
+	url = https://github.com/YCAMInterlab/ofxTimecode.git
+[submodule "01_open/99_others/dimitre/YCAMInterlab/RAMDanceToolkit"]
+	path = 01_open/99_others/dimitre/YCAMInterlab/RAMDanceToolkit
+	url = https://github.com/YCAMInterlab/RAMDanceToolkit.git
+[submodule "01_open/99_others/dimitre/YCAMInterlab/ofxTimeline"]
+	path = 01_open/99_others/dimitre/YCAMInterlab/ofxTimeline
+	url = https://github.com/YCAMInterlab/ofxTimeline.git
+[submodule "01_open/99_others/dimitre/YCAMInterlab/ofxEpilog"]
+	path = 01_open/99_others/dimitre/YCAMInterlab/ofxEpilog
+	url = https://github.com/YCAMInterlab/ofxEpilog.git
+[submodule "01_open/99_others/dimitre/YCAMInterlab/mapamok"]
+	path = 01_open/99_others/dimitre/YCAMInterlab/mapamok
+	url = https://github.com/YCAMInterlab/mapamok.git
+[submodule "01_open/99_others/dimitre/YCAMInterlab/Duration"]
+	path = 01_open/99_others/dimitre/YCAMInterlab/Duration
+	url = https://github.com/YCAMInterlab/Duration.git
+[submodule "01_open/99_others/dimitre/YCAMInterlab/ProCamToolkit"]
+	path = 01_open/99_others/dimitre/YCAMInterlab/ProCamToolkit
+	url = https://github.com/YCAMInterlab/ProCamToolkit.git
+[submodule "01_open/99_others/dimitre/YCAMInterlab/ofxNodeArray"]
+	path = 01_open/99_others/dimitre/YCAMInterlab/ofxNodeArray
+	url = https://github.com/YCAMInterlab/ofxNodeArray.git
+[submodule "01_open/99_others/dimitre/YCAMInterlab/ofxDuration"]
+	path = 01_open/99_others/dimitre/YCAMInterlab/ofxDuration
+	url = https://github.com/YCAMInterlab/ofxDuration.git
+[submodule "01_open/99_others/dimitre/YCAMInterlab/ofxUI"]
+	path = 01_open/99_others/dimitre/YCAMInterlab/ofxUI
+	url = https://github.com/YCAMInterlab/ofxUI.git
+[submodule "01_open/99_others/dimitre/YCAMInterlab/TimelineWorkshop"]
+	path = 01_open/99_others/dimitre/YCAMInterlab/TimelineWorkshop
+	url = https://github.com/YCAMInterlab/TimelineWorkshop.git
+[submodule "01_open/99_others/dimitre/YCAMInterlab/WasNowWillWorkshop"]
+	path = 01_open/99_others/dimitre/YCAMInterlab/WasNowWillWorkshop
+	url = https://github.com/YCAMInterlab/WasNowWillWorkshop.git
+[submodule "01_open/99_others/dimitre/YCAMInterlab/ofxSubtitles"]
+	path = 01_open/99_others/dimitre/YCAMInterlab/ofxSubtitles
+	url = https://github.com/YCAMInterlab/ofxSubtitles.git
+[submodule "01_open/99_others/dimitre/YCAMInterlab/dmxTouchDesigner"]
+	path = 01_open/99_others/dimitre/YCAMInterlab/dmxTouchDesigner
+	url = https://github.com/YCAMInterlab/dmxTouchDesigner.git
+[submodule "01_open/06_function/01_ui/99_others/rezaali/Cinder-UI"]
+	path = 01_open/06_function/01_ui/99_others/rezaali/Cinder-UI
+	url = https://github.com/rezaali/Cinder-UI.git
+[submodule "01_open/06_function/11_media/02_player/leixiaohua1020/ffplaymfc"]
+	path = 01_open/06_function/11_media/02_player/leixiaohua1020/ffplaymfc
+	url = https://github.com/leixiaohua1020/ffplaymfc.git
+[submodule "01_open/06_function/11_media/02_player/latelee/YUVPlayer"]
+	path = 01_open/06_function/11_media/02_player/latelee/YUVPlayer
+	url = https://github.com/latelee/YUVPlayer.git
+[submodule "01_open/06_function/11_media/02_player/avplayer/avplayer"]
+	path = 01_open/06_function/11_media/02_player/avplayer/avplayer
+	url = https://github.com/avplayer/avplayer.git
+[submodule "01_open/06_function/11_media/02_player/MSHoloLens/VR-for-VLC"]
+	path = 01_open/06_function/11_media/02_player/MSHoloLens/VR-for-VLC
+	url = https://github.com/MSHoloLens/VR-for-VLC.git
+[submodule "01_open/06_function/11_media/02_player/EasyDarwin/EasyPlayer"]
+	path = 01_open/06_function/11_media/02_player/EasyDarwin/EasyPlayer
+	url = https://github.com/EasyDarwin/EasyPlayer.git
+[submodule "01_open/06_function/11_media/02_player/mpc-hc/mpc-hc"]
+	path = 01_open/06_function/11_media/02_player/mpc-hc/mpc-hc
+	url = https://github.com/mpc-hc/mpc-hc.git
+[submodule "01_open/06_function/11_media/02_player/MplayerXP"]
+	path = 01_open/06_function/11_media/02_player/MplayerXP
+	url = https://github.com/svn2github/MplayerXP.git
+[submodule "01_open/06_function/11_media/02_player/tomasen/splayer"]
+	path = 01_open/06_function/11_media/02_player/tomasen/splayer
+	url = https://github.com/tomasen/splayer.git
+[submodule "01_open/06_function/11_media/02_player/videolan/vlc"]
+	path = 01_open/06_function/11_media/02_player/videolan/vlc
+	url = https://github.com/videolan/vlc.git
+[submodule "01_open/01_platform/windows/sunflover/mhook"]
+	path = 01_open/01_platform/windows/sunflover/mhook
+	url = https://github.com/sunflover/mhook.git
+[submodule "01_open/06_function/11_media/02_player/sunflover/SunPlayer_QT"]
+	path = 01_open/06_function/11_media/02_player/sunflover/SunPlayer_QT
+	url = https://github.com/sunflover/SunPlayer_QT.git
+[submodule "01_open/06_function/11_media/02_player/sunflover/SunPlayer_DuiLib"]
+	path = 01_open/06_function/11_media/02_player/sunflover/SunPlayer_DuiLib
+	url = https://github.com/sunflover/SunPlayer_DuiLib.git
+[submodule "01_open/06_function/11_media/02_player/rockcarry/ffplayer"]
+	path = 01_open/06_function/11_media/02_player/rockcarry/ffplayer
+	url = https://github.com/rockcarry/ffplayer.git
+[submodule "01_open/06_function/11_media/02_player/xbmc/xbmc"]
+	path = 01_open/06_function/11_media/02_player/xbmc/xbmc
+	url = https://github.com/xbmc/xbmc.git
+[submodule "01_open/06_function/11_media/02_player/mpv-player/mpv-examples"]
+	path = 01_open/06_function/11_media/02_player/mpv-player/mpv-examples
+	url = https://github.com/mpv-player/mpv-examples.git
+[submodule "01_open/06_function/11_media/02_player/mpv-player/mpv"]
+	path = 01_open/06_function/11_media/02_player/mpv-player/mpv
+	url = https://github.com/mpv-player/mpv.git
+[submodule "01_open/06_function/11_media/02_player/leixiaohua1020/simplest_media_play"]
+	path = 01_open/06_function/11_media/02_player/leixiaohua1020/simplest_media_play
+	url = https://github.com/leixiaohua1020/simplest_media_play.git
+[submodule "01_open/06_function/11_media/02_player/daniulive/SmarterStreaming"]
+	path = 01_open/06_function/11_media/02_player/daniulive/SmarterStreaming
+	url = https://github.com/daniulive/SmarterStreaming.git
+[submodule "01_open/06_function/09_game/51_engines/WagicProject/wagic"]
+	path = 01_open/06_function/09_game/51_engines/WagicProject/wagic
+	url = https://github.com/WagicProject/wagic.git
+[submodule "01_open/06_function/09_game/51_engines/godotengine/godot"]
+	path = 01_open/06_function/09_game/51_engines/godotengine/godot
+	url = https://github.com/godotengine/godot.git
+[submodule "01_open/06_function/09_game/51_engines/godotengine/godot-modules"]
+	path = 01_open/06_function/09_game/51_engines/godotengine/godot-modules
+	url = https://github.com/godotengine/godot.git
