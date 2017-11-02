@@ -4747,3 +4747,24 @@
 [submodule "01_open/06_function/09_game/51_engines/godotengine/godot-modules"]
 	path = 01_open/06_function/09_game/51_engines/godotengine/godot-modules
 	url = https://github.com/godotengine/godot.git
+[submodule "01_open/06_function/01_ui/50_uilib/duilib/duilib"]
+	path = 01_open/06_function/01_ui/50_uilib/duilib/duilib
+	url = https://github.com/duilib/duilib.git
+[submodule "01_open/06_function/01_ui/50_uilib/redrains/DuiLib_Redrain"]
+	path = 01_open/06_function/01_ui/50_uilib/redrains/DuiLib_Redrain
+	url = https://github.com/redrains/DuiLib_Redrain.git
+[submodule "01_open/06_function/01_ui/50_uilib/redrains/skia_vs2008"]
+	path = 01_open/06_function/01_ui/50_uilib/redrains/skia_vs2008
+	url = https://github.com/redrains/skia_vs2008.git
+[submodule "01_open/06_function/01_ui/50_uilib/redrains/MPFUI"]
+	path = 01_open/06_function/01_ui/50_uilib/redrains/MPFUI
+	url = https://github.com/redrains/MPFUI.git
+[submodule "01_open/06_function/01_ui/50_uilib/redrains/DirectUI"]
+	path = 01_open/06_function/01_ui/50_uilib/redrains/DirectUI
+	url = https://github.com/redrains/DirectUI.git
+[submodule "01_open/06_function/01_ui/50_uilib/dpjudas/UICore"]
+	path = 01_open/06_function/01_ui/50_uilib/dpjudas/UICore
+	url = https://github.com/dpjudas/UICore.git
+[submodule "01_open/06_function/01_ui/50_uilib/redrains/gtkduilib"]
+	path = 01_open/06_function/01_ui/50_uilib/redrains/gtkduilib
+	url = https://github.com/redrains/gtkduilib.git
