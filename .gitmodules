@@ -4768,3 +4768,6 @@
 [submodule "01_open/06_function/01_ui/50_uilib/redrains/gtkduilib"]
 	path = 01_open/06_function/01_ui/50_uilib/redrains/gtkduilib
 	url = https://github.com/redrains/gtkduilib.git
+[submodule "01_open/06_function/09_game/99_others/scarsty-oschina/kys-cpp"]
+	path = 01_open/06_function/09_game/99_others/scarsty-oschina/kys-cpp
+	url = https://gitee.com/scarsty/kys-cpp.git

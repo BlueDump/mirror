@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<configuration>
+  <settings mailServer="stx.cs.deu.edu.tr" mailSenderEMailAddress="hyilmaz@stx.cs.deu.edu.tr" mailPortNotAvailableSubject="[PortScanner] $(Now): Some Ports on Host '$(HostName)' did not respond" loopCount="0" loopIntervalSeconds="30">
+    <mailNotAvailableBody><![CDATA[The following ports on host '$(HostName)' did not respond:$(Ports)]]></mailNotAvailableBody>
+    <mailNotAvailableBodyPort><![CDATA[Port '$(Port)', error message: $(ErrorMessage).]]></mailNotAvailableBodyPort>
+  </settings>
+  <servers>
+    <server address="ares" isAlive="True">
+      <mailReceiverEMailAddresses>
+        <address address="hyilmaz@stx.cs.deu.edu.tr" />
+      </mailReceiverEMailAddresses>
+      <ports>
+        <port number="3" addressFamily="InterNetwork" socketType="Stream" protocolType="Tcp" />
+        <port number="100" addressFamily="InterNetwork" socketType="Stream" protocolType="Tcp" />
+        <port number="30" addressFamily="InterNetwork" socketType="Stream" protocolType="Tcp" />
+        <port number="67" addressFamily="InterNetwork" socketType="Stream" protocolType="Tcp" />
+        <port number="7" addressFamily="InterNetwork" socketType="Stream" protocolType="Tcp" />
+        <port number="58" addressFamily="InterNetwork" socketType="Stream" protocolType="Tcp" />
+        <port number="23" addressFamily="InterNetwork" socketType="Stream" protocolType="Tcp" />
+        <port number="21" addressFamily="InterNetwork" socketType="Stream" protocolType="Tcp" />
+        <port number="53" addressFamily="InterNetwork" socketType="Stream" protocolType="Tcp" />
+        <port number="18" addressFamily="InterNetwork" socketType="Stream" protocolType="Tcp" />
+        <port number="25" addressFamily="InterNetwork" socketType="Stream" protocolType="Tcp" />
+        <port number="138" addressFamily="InterNetwork" socketType="Stream" protocolType="Tcp" />
+        <port number="139" addressFamily="InterNetwork" socketType="Stream" protocolType="Tcp" />
+        <port number="80" addressFamily="InterNetwork" socketType="Stream" protocolType="Tcp" />
+        <port number="13" addressFamily="InterNetwork" socketType="Stream" protocolType="Tcp" />
+      </ports>
+    </server>
+  </servers>
+</configuration>

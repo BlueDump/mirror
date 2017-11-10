@@ -1,0 +1,28 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetWatch", "NetWatch.csproj", "{5BB4DA8B-42AE-4A87-B6B2-FFF73E47899C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IpHlpApi.net", "..\IpHlpApi.net\IpHlpApi.net.csproj", "{29BF8A5E-6326-4D76-AAF1-9362FA03EC45}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+		{5BB4DA8B-42AE-4A87-B6B2-FFF73E47899C}.0 = {29BF8A5E-6326-4D76-AAF1-9362FA03EC45}
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{5BB4DA8B-42AE-4A87-B6B2-FFF73E47899C}.Debug.ActiveCfg = Debug|.NET
+		{5BB4DA8B-42AE-4A87-B6B2-FFF73E47899C}.Debug.Build.0 = Debug|.NET
+		{5BB4DA8B-42AE-4A87-B6B2-FFF73E47899C}.Release.ActiveCfg = Release|.NET
+		{5BB4DA8B-42AE-4A87-B6B2-FFF73E47899C}.Release.Build.0 = Release|.NET
+		{29BF8A5E-6326-4D76-AAF1-9362FA03EC45}.Debug.ActiveCfg = Debug|.NET
+		{29BF8A5E-6326-4D76-AAF1-9362FA03EC45}.Debug.Build.0 = Debug|.NET
+		{29BF8A5E-6326-4D76-AAF1-9362FA03EC45}.Release.ActiveCfg = Release|.NET
+		{29BF8A5E-6326-4D76-AAF1-9362FA03EC45}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

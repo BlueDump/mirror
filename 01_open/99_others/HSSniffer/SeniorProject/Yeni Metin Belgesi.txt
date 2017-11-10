@@ -1,0 +1,7 @@
+int xx=1;
+int SIO_RCVALL = unchecked((int)0x98000001);
+int ret_code = WSAIoctl(socket.Handle.ToInt32(),SIO_RCVALL,ref xx,4,ref IN,4,ref OUT,0,0);/*socket.IOControl(SIO_RCVALL, IN, OUT);*/
+//ret_code = OUT[0] + OUT[1] + OUT[2] + OUT[3];
+
+[DllImport("ws2_32.dll",SetLastError=true)]
+public static extern int WSAIoctl(int s, int dwIoControlCode,ref int lpvInBuffer,int cbInBuffer, ref int lpvOutBuffer , int cbOutBuffer, ref int lpcbBytesReturned,int lpOverlapped,int lpCompletionRoutine);

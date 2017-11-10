@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<protocol>
+  <name>ICMP</name>
+  <id>1</id>
+  <fields>
+    <field>
+      <name>Type</name>
+      <offset>0</offset>
+      <length>8</length>
+    </field>
+    <field>
+      <name>Code</name>
+      <offset>8</offset>
+      <length>8</length>
+    </field>
+    <field>
+      <name>Checksum</name>
+      <offset>16</offset>
+      <length>16</length>
+    </field>
+    <field>
+      <name>Reserved</name>
+      <offset>32</offset>
+      <length>32</length>
+    </field>
+  </fields>
+</protocol>
