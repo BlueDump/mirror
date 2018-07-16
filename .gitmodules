@@ -4771,3 +4771,6 @@
 [submodule "01_open/06_function/09_game/99_others/scarsty-oschina/kys-cpp"]
 	path = 01_open/06_function/09_game/99_others/scarsty-oschina/kys-cpp
 	url = https://gitee.com/scarsty/kys-cpp.git
+[submodule "01_open/06_function/11_media/02_player/moonplayer"]
+	path = 01_open/06_function/11_media/02_player/moonplayer
+	url = https://github.com/coslyk/moonplayer.git
